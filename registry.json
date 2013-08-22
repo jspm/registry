@@ -2,5 +2,10 @@
   "jquery": {
     "location": "github:components/jquery",
     "main": "jquery"
+  },
+  "bootstrap": {
+    "location": "github:tws/bootstrap",
+    "main": "dist/js/bootstrap",
+    "depends": ["./dist/css/bootstrap"]
   }
 }
