@@ -6,6 +6,6 @@
   "bootstrap": {
     "location": "github:twbs/bootstrap",
     "main": "dist/js/bootstrap",
-    "depends": ["./dist/css/bootstrap"]
+    "depends": ["./dist/css/bootstrap.css!"]
   }
 }
