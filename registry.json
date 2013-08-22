@@ -1,5 +1,3 @@
 {
-  jquery: {
-    location: 'github:components/jquery'
-  }
+  jquery: 'github:components/jquery'
 }
