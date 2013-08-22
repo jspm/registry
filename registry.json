@@ -1,3 +1,6 @@
 {
-  "jquery": "github:components/jquery"
+  "jquery": {
+    "location": "github:components/jquery",
+    "main": "jquery"
+  }
 }
