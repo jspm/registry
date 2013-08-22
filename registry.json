@@ -4,7 +4,7 @@
     "main": "jquery"
   },
   "bootstrap": {
-    "location": "github:tws/bootstrap",
+    "location": "github:twbs/bootstrap",
     "main": "dist/js/bootstrap",
     "depends": ["./dist/css/bootstrap"]
   }
