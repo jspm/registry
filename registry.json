@@ -1,0 +1,5 @@
+{
+  jquery: {
+    location: 'github:components/jquery'
+  }
+}
