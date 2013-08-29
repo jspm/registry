@@ -3,6 +3,15 @@
     "location": "github:components/jquery",
     "main": "jquery"
   },
+  "angular": {
+    "location": "cdnjs:angular.js/1.1.5",
+    "main": "angular"
+  },
+  "angular-ui": {
+    "location": "cdnjs:angular-ui/0.4.0",
+    "main": "angular-ui",
+    "depends": ["angular-ui.css!"]
+  },
   "bootstrap": {
     "location": "github:twbs/bootstrap",
     "main": "dist/js/bootstrap",
