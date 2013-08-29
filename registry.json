@@ -10,7 +10,7 @@
   "angular-ui": {
     "location": "cdnjs:angular-ui/0.4.0",
     "main": "angular-ui",
-    "depends": ["angular-ui.css!"]
+    "depends": ["./angular-ui.css!"]
   },
   "bootstrap": {
     "location": "github:twbs/bootstrap",
