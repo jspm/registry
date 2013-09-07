@@ -13,7 +13,7 @@
     "depends": ["./angular-ui.css!"]
   },
   "bootstrap": {
-    "location": "github:twbs/bootstrap@v3.0.0",
+    "location": "github:twbs/bootstrap",
     "main": "dist/js/bootstrap",
     "depends": ["../css/bootstrap.css!", "jspm:jquery"]
   },
