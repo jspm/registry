@@ -17,6 +17,11 @@
     "main": "dist/js/bootstrap",
     "depends": ["../css/bootstrap.css!", "jspm:jquery"]
   },
+  "bootstrap.button": {
+    "location": "github:twbs/bootstrap",
+    "main": "js/button",
+    "depends": ["../dist/css/bootstrap.css!", "jspm:jquery"]
+  }
   "webfont": {
     "location": "cdnjs:webfont/1.3.0",
     "main": "webfont"
