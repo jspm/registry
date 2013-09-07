@@ -18,7 +18,7 @@
     "depends": ["../css/bootstrap.css!", "jspm:jquery"]
   },
   "bootstrap.button": {
-    "location": "github:twbs/bootstrap",
+    "location": "github:twbs/bootstrap@v3.0.0",
     "main": "js/button",
     "depends": ["../dist/css/bootstrap.css!", "jspm:jquery"]
   },
