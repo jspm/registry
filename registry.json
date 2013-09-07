@@ -14,7 +14,7 @@
   },
   "bootstrap": {
     "location": "github:twbs/bootstrap",
-    "main": "dist/js/bootstrap",
+    "main": "tree/master/dist/js/bootstrap",
     "depends": ["../css/bootstrap.css!", "jspm:jquery"]
   },
   "bootstrap.button": {
