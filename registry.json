@@ -13,67 +13,67 @@
     "depends": ["./angular-ui.css!"]
   },
   "bootstrap": {
-    "location": "github:twbs/bootstrap@3.0.0",
+    "location": "github:twbs/bootstrap",
     "main": "dist/js/bootstrap",
     "depends": ["../css/bootstrap.css!", "jspm:jquery"]
   },
   "bootstrap.affix": {
-    "location": "github:twbs/bootstrap@3.0.0",
+    "location": "github:twbs/bootstrap",
     "main": "js/affix",
     "depends": ["../dist/css/bootstrap.css!", "jspm:jquery"]
   },
   "bootstrap.alert": {
-    "location": "github:twbs/bootstrap@3.0.0",
+    "location": "github:twbs/bootstrap",
     "main": "js/alert",
     "depends": ["../dist/css/bootstrap.css!", "jspm:jquery"]
   },
   "bootstrap.button": {
-    "location": "github:twbs/bootstrap@3.0.0",
+    "location": "github:twbs/bootstrap",
     "main": "js/button",
     "depends": ["../dist/css/bootstrap.css!", "jspm:jquery"]
   },
   "bootstrap.carousel": {
-    "location": "github:twbs/bootstrap@3.0.0",
+    "location": "github:twbs/bootstrap",
     "main": "js/carousel",
     "depends": ["../dist/css/bootstrap.css!", "jspm:jquery"]
   },
   "bootstrap.collapse": {
-    "location": "github:twbs/bootstrap@3.0.0",
+    "location": "github:twbs/bootstrap",
     "main": "js/collapse",
     "depends": ["../dist/css/bootstrap.css!", "jspm:jquery"]
   },
   "bootstrap.dropdown": {
-    "location": "github:twbs/bootstrap@3.0.0",
+    "location": "github:twbs/bootstrap",
     "main": "js/dropdown",
     "depends": ["../dist/css/bootstrap.css!", "jspm:jquery"]
   },
   "bootstrap.modal": {
-    "location": "github:twbs/bootstrap@3.0.0",
+    "location": "github:twbs/bootstrap",
     "main": "js/modal",
     "depends": ["../dist/css/bootstrap.css!", "jspm:jquery"]
   },
   "bootstrap.popover": {
-    "location": "github:twbs/bootstrap@3.0.0",
+    "location": "github:twbs/bootstrap",
     "main": "js/popover",
     "depends": ["../dist/css/bootstrap.css!", "jspm:jquery"]
   },
   "bootstrap.scrollspy": {
-    "location": "github:twbs/bootstrap@3.0.0",
+    "location": "github:twbs/bootstrap",
     "main": "js/scrollspy",
     "depends": ["../dist/css/bootstrap.css!", "jspm:jquery"]
   },
   "bootstrap.tab": {
-    "location": "github:twbs/bootstrap@3.0.0",
+    "location": "github:twbs/bootstrap",
     "main": "js/tab",
     "depends": ["../dist/css/bootstrap.css!", "jspm:jquery"]
   },
   "bootstrap.tooltip": {
-    "location": "github:twbs/bootstrap@3.0.0",
+    "location": "github:twbs/bootstrap",
     "main": "js/tooltip",
     "depends": ["../dist/css/bootstrap.css!", "jspm:jquery"]
   },
   "bootstrap.transition": {
-    "location": "github:twbs/bootstrap@3.0.0",
+    "location": "github:twbs/bootstrap",
     "main": "js/transition",
     "depends": ["../dist/css/bootstrap.css!", "jspm:jquery"]
   },
