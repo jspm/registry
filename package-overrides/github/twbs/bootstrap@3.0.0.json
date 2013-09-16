@@ -1,0 +1,9 @@
+{
+  "main": "js/bootstrap",
+  "depends": {
+    "js/bootstrap": ["lib:jquery", "bootstrap.css!"]
+  },
+  "directories": {
+    "lib": "dist"
+  }
+}
