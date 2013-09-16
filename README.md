@@ -16,7 +16,7 @@ While the registry is small enough, all registry entries are managed through Git
   * NPM: `npm:repo`
   
   Additional locations are in planning for other servies, and third party locations can also be [submitted]().
-* Versions numbers are automatically appended onto the end of the target name based on the [jspm version conventions]().
+* Version numbers are automatically appended onto the end of the target name based on the [jspm version conventions]().
 * An optional _main entry point_ can be specified by appending the syntax `#main-file-name`. For example:
   `"jquery": "github:components/jquery#jquery"`
   will map:
