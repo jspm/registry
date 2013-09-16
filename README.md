@@ -40,4 +40,4 @@ Only exact semver versions can be used, excluding semver build numbers and suffi
 
 For example, a package override for jquery 2.0.0 would be located at `package-overrides/github/jquery/jquery@2.0.0.json`.
 
-Read more about customizing packages for jspm at the [jspm package.json specification]() page.
+Read more about customizing packages for jspm at the [jspm package.json specification](https://github.com/jspm/registry/wiki/Package.json-Specification) page.
