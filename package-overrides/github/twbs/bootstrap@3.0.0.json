@@ -1,7 +1,7 @@
 {
   "main": "js/bootstrap",
   "dependencyShim": {
-    "js/bootstrap": ["lib:jquery", "bootstrap.css!"]
+    "js/bootstrap": ["lib:jquery", "../css/bootstrap.css!"]
   },
   "directories": {
     "lib": "dist"
