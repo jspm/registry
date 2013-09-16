@@ -25,12 +25,12 @@ While the registry is small enough, all registry entries are managed through Git
   
   It is simply a shorthand for specifying the main entry point when the package is requested directly by name.
 * Further customizations of package configurations for jspm should be provided in the package.json file
-  for a package. If you do not have direct access to the source package, use a package override.
+  for a package. If you do not have direct access to the source package, use a package.json override.
 
-Package Overrides
+Package.json Overrides
 ---
 
-The registry provides a `package.json` override system for updating package configuration associated with jspm.
+The registry provides a package.json override system for updating package configuration associated with jspm.
 
 The overrides are located in the `package-overrides` folder of this repo, with the folder format:
 
