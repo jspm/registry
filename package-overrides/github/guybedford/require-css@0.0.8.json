@@ -1,6 +1,9 @@
 {
   "main": "css",
-  "dependencyShim": {
+  "dependencyMap": {
     "components/component": ["lib:jquery"]
+  },
+  "dependencyShim": {
+    "normalize": ["lib:jquery"]
   }
 }
