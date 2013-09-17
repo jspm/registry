@@ -1,6 +1,6 @@
 {
   "main": "css",
   "dependencyShim": {
-    "css": ["lib:jquery"]
+    "components/component": ["lib:jquery"]
   }
 }
