@@ -7,5 +7,6 @@
   },
   "dependencyMap": {
     "sizzle": "github:jquery/sizzle@1.10.9/sizzle"
-  }
+  },
+  "ignore": ["src/intro.js", "src/outro.js"]
 }
