@@ -1,7 +1,7 @@
 {
-  "angular": "cdnjs:angular.js/{version}#angular",
-  "angular-ui": "cdnjs:angular-ui/{version}#angular-ui",
-  "bootstrap": "github:twbs/bootstrap#js/bootstrap",
+  "angular": "cdnjs:angular.js/{version}",
+  "angular-ui": "cdnjs:angular-ui/{version}",
+  "bootstrap": "github:twbs/bootstrap",
   "jquery": "github:components/jquery",
-  "webfont": "cdnjs:webfont/{version}#webfont"
+  "webfont": "cdnjs:webfont/{version}"
 }
