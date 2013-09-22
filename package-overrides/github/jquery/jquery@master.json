@@ -1,9 +1,8 @@
 {
-  "main": "jquery",
   "directories": {
     "lib": "src"
   },
-  buildConfig: {
+  "buildConfig": {
     "uglify": true
   }
 }
