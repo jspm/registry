@@ -4,8 +4,5 @@
   },
   "buildConfig": {
     "uglify": true
-  },
-  "dependencyMap": {
-    "sizzle": "github:jquery/sizzle@1.10.9/sizzle"
   }
 }
