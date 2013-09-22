@@ -3,5 +3,5 @@
   "angular-ui": "cdnjs:angular-ui/{version}#angular-ui",
   "bootstrap": "github:twbs/bootstrap",
   "jquery": "github:components/jquery",
-  "webfont": "cdnjs:webfont/{version}#webfont"
+  "webfont": "cdnjs:webfont/1.3.0#webfont"
 }
