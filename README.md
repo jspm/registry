@@ -17,13 +17,6 @@ While the registry is small enough, all registry entries are managed through Git
   
   Additional locations are in planning for other services, and third party locations can also be [submitted]().
 * Version numbers are automatically appended onto the end of the target name based on the [jspm version conventions]().
-* An optional _main entry point_ can be specified by appending the syntax `#main-file-name`. For example:
-  `"jquery": "github:components/jquery#jquery"`
-  will map:
-  * `jquery`           -> `github:components/jquery/jquery`
-  * `jquery/submodule` -> `github:components/jquery/submodule`
-  
-  It is simply a shorthand for specifying the main entry point when the package is requested directly by name.
 * Further customizations of package configurations for jspm should be provided in the package.json file
   for a package. If you do not have direct access to the source package, use a package.json override.
 
