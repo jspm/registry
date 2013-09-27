@@ -1,7 +1,11 @@
-jspm Registry
+JSPM Registry
 ---
 
 Pull requests welcome!
+
+The JSPM Registry is a loader baseURL located at `https://registry.jspm.io`, providing common dependency-managed libraries.
+
+For example, jquery is located at `https://registry.jspm.io/jquery.js`, or `https://registry.jspm.io/jquery@2.0.3.js`.
 
 While the registry is small enough, all registry entries are managed through Github, moderated by the registry maintainers.
 
