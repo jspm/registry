@@ -19,8 +19,8 @@ While the registry is small enough, all registry entries are managed through Git
   * Github: `github:author/repo`
   * NPM: `npm:repo`
   
-  Additional locations are in planning for other services, and third party locations can also be [submitted]().
-* Version numbers are automatically appended onto the end of the target name based on the [jspm version conventions]().
+  Additional locations are in planning for other services, and third party locations can also be [submitted](https://github.com/jspm/jspm-loader#cdn-locations).
+* Version numbers are automatically appended onto the end of the target name based on the [jspm version conventions](https://github.com/jspm/jspm-loader#cdn-locations).
 * Further customizations of package configurations for jspm should be provided in the package.json file
   for a package. If you do not have direct access to the source package, use a package.json override.
 
