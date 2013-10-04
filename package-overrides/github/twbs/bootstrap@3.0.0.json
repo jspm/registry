@@ -2,5 +2,8 @@
   "main": "js/bootstrap",
   "dependencyShim": {
     "js/bootstrap": ["jquery", "../css/bootstrap.css!"]
+  },
+  "dependencyMap": {
+    "jquery": "jquery@2.0.3"
   }
 }
