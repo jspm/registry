@@ -4,5 +4,6 @@
   "backbone": "github:jashkenas/backbone",
   "bootstrap": "github:twbs/bootstrap",
   "jquery": "github:components/jquery",
+  "underscore": "github:jashkenas/underscore",
   "webfont": "cdnjs:webfont/1.3.0#webfont"
 }

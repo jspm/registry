@@ -1,0 +1,10 @@
+{
+    "main": "backbone",
+    "dependencyShim": {
+        "backbone": ["jquery", "underscore"]
+    },
+    "dependencyMap": {
+        "jquery": "jquery@2.0.3",
+        "underscore": "underscore@1.5.2"
+    }
+}
