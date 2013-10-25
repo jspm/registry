@@ -1,6 +1,9 @@
 {
-    "main": "kickstrap",
+    "main": "Kickstrap/js/kickstrap",
     "dependencyShim": {
-        "kickstrap": ["jquery@1.10"]
+        "Kickstrap/js/kickstrap": ["jquery"]
+    },
+    "dependencyMap": {
+        "jquery": "jquery@1.10"
     }
 }
