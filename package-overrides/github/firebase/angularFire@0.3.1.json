@@ -1,5 +1,5 @@
 {
   "dependencyShim": {
-    "angularFire": ["angular"]
+    "angularFire": ["angular@1.1.5"]
   }
 }
