@@ -1,6 +1,7 @@
 {
   "angular": "cdnjs:angular.js/{version}#angular",
   "angular-ui": "cdnjs:angular-ui/{version}#angular-ui",
+  "angularFire": "github:firebase/angularFire",
   "backbone": "github:jashkenas/backbone",
   "bootstrap": "github:twbs/bootstrap",
   "jquery": "github:components/jquery",
