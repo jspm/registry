@@ -1,0 +1,6 @@
+{
+    "main": "kickstrap",
+    "dependencyShim": {
+        "kickstrap": ["jquery@1.10"]
+    }
+}
