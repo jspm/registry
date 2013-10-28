@@ -4,6 +4,7 @@
   "angularFire": "github:firebase/angularFire",
   "backbone": "github:jashkenas/backbone",
   "bootstrap": "github:twbs/bootstrap",
+  "chosen.jquery": "cdnjs:chosen/{version}#chosen.jquery",
   "jquery": "github:components/jquery",
   "kickstrap": "github:ajkochanowicz/Kickstrap",
   "tinygrowl": "github:ajkochanowicz/tinygrowl",
