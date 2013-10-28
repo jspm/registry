@@ -6,6 +6,7 @@
   "bootstrap": "github:twbs/bootstrap",
   "jquery": "github:components/jquery",
   "kickstrap": "github:ajkochanowicz/Kickstrap",
+  "tinygrowl": "github:ajkochanowicz/tinygrowl",
   "underscore": "npm:underscore",
   "webfont": "cdnjs:webfont/1.3.0#webfont"
 }
