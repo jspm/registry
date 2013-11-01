@@ -12,6 +12,7 @@
   "npm": {
     "website": "https://jspm.io",
 
+    "location": "https://npm.jspm.io",
     "degree": 1,
     "version-prefix": "@",
     "minor-versions": true,
