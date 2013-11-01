@@ -1,0 +1,9 @@
+{
+    "main": "lib/backbone.marionette.min",
+    "dependencyShim": {
+        "lib/backbone.marionette.min": ["backbone"]
+    },
+    "dependencyMap": {
+        "backbone": "backbone@1.1.0"
+    }
+}
