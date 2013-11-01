@@ -4,6 +4,10 @@
         "lib": "lib"
     },
     "dependencyMap": {
-        "backbone": "github:jashkenas/backbone@1.1.0/backbone"
+        "backbone": "github:backbone@1.1.0",
+        "underscore": "npm:underscore@1.5.2"
+    },
+    "dependencyShim": {
+        "backbone.marionette.min": ["backbone", "underscore"]
     }
 }
