@@ -1,0 +1,5 @@
+{
+    "dependencyShim": {
+        "tinygrowl": ["bootstrap@3.0.0"]
+    }
+}
