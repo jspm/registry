@@ -1,0 +1,31 @@
+{
+  "github": {
+    "website": "https://jspm.io",
+
+    "location": "https://github.jspm.io",
+    "degree": 2,
+    "version-prefix": "@",
+    "minor-versions": true,
+    "latest-versions": true,
+    "mains": true
+  },
+  "npm": {
+    "website": "https://jspm.io",
+
+    "degree": 1,
+    "version-prefix": "@",
+    "minor-versions": true,
+    "latest-versions": true,
+    "mains": true
+  },
+  "cdnjs": {
+    "website": "http://cdnjs.com",
+
+    "location": "https://cdnjs.cloudflare.com/ajax/libs",
+    "degree": 1,
+    "version-prefix": "/",
+    "minor-versions": false,
+    "latest-versions": false,
+    "mains": false
+  }
+}
