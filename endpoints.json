@@ -4,7 +4,7 @@
 
     "location": "https://github.jspm.io",
     "degree": 2,
-    "version-prefix": "@",
+    "versionPrefix": "@",
     "minorVersions": true,
     "latestVersions": true,
     "mains": true
