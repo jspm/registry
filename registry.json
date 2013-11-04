@@ -7,16 +7,16 @@
   "!json": "github:jspm/plugins/json",
   "!text": "github:jspm/plugins/text",
   
-  "angular": "cdnjs:angular.js/{version}#angular",
-  "angular-ui": "cdnjs:angular-ui/{version}#angular-ui",
+  "angular": "cdnjs:angular.js",
+  "angular-ui": "cdnjs:angular-ui/angular-ui",
   "angularFire": "github:firebase/angularFire",
   "backbone": "github:jashkenas/backbone",
   "bootstrap": "github:twbs/bootstrap",
-  "chosen.jquery": "cdnjs:chosen/{version}#chosen.jquery",
+  "chosen.jquery": "cdnjs:chosen",
   "jquery": "github:components/jquery",
   "kickstrap": "github:ajkochanowicz/Kickstrap",
   "marionette": "github:marionettejs/backbone.marionette",
   "tinygrowl": "github:ajkochanowicz/tinygrowl",
   "underscore": "npm:underscore",
-  "webfont": "cdnjs:webfont/1.3.0#webfont"
+  "webfont": "cdnjs:webfont"
 }
