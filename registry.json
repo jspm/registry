@@ -1,4 +1,12 @@
 {
+  "!css": "github:jspm/plugins/css",
+  "!font": "github:jspm/plugins/font",
+  "!hbs": "github:jspm/plugins/hbs",
+  "!html": "github:jspm/plugins/html",
+  "!image": "github:jspm/plugins/image",
+  "!json": "github:jspm/plugins/json",
+  "!text": "github:jspm/plugins/text",
+  
   "angular": "cdnjs:angular.js/{version}#angular",
   "angular-ui": "cdnjs:angular-ui/{version}#angular-ui",
   "angularFire": "github:firebase/angularFire",
