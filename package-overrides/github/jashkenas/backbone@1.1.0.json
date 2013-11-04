@@ -4,6 +4,6 @@
         "backbone": ["underscore"]
     },
     "dependencyMap": {
-        "underscore": "underscore@1.5.2"
+        "underscore": "npm:underscore@1.5.2"
     }
 }
