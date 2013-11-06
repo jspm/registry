@@ -5,6 +5,12 @@
   "!json": "github:jspm/plugin-json",
   "!text": "github:jspm/plugin-text",
   
+  "css": "github:jspm/plugin-css",
+  "font": "github:jspm/plugin-font",
+  "image": "github:jspm/plugin-image",
+  "json": "github:jspm/plugin-json",
+  "text": "github:jspm/plugin-text",
+  
   "angular": "cdnjs:angular.js",
   "angular-ui": "cdnjs:angular-ui/angular-ui",
   "angularFire": "github:firebase/angularFire",
