@@ -1,11 +1,9 @@
 {
-  "!css": "github:jspm/plugins/css",
-  "!font": "github:jspm/plugins/font",
-  "!hbs": "github:jspm/plugins/hbs",
-  "!html": "github:jspm/plugins/html",
-  "!image": "github:jspm/plugins/image",
-  "!json": "github:jspm/plugins/json",
-  "!text": "github:jspm/plugins/text",
+  "!css": "github:jspm/plugin-css",
+  "!font": "github:jspm/plugin-font",
+  "!image": "github:jspm/plugin-image",
+  "!json": "github:jspm/plugin-json",
+  "!text": "github:jspm/plugin-text",
   
   "angular": "cdnjs:angular.js",
   "angular-ui": "cdnjs:angular-ui/angular-ui",
