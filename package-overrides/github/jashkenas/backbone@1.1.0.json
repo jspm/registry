@@ -1,6 +1,6 @@
 {
     "main": "backbone",
-    "dependencyShim": {
+    "shim": {
         "backbone": ["underscore"]
     },
     "dependencyMap": {
