@@ -1,6 +1,6 @@
 {
   "main": "dist/js/bootstrap",
-  "dependencyShim": {
+  "shim": {
     "dist/js/bootstrap": ["jquery", "../css/bootstrap.css!"]
   },
   "dependencyMap": {
