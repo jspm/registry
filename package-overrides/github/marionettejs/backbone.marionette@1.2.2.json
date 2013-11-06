@@ -3,11 +3,7 @@
     "directories": {
         "lib": "lib"
     },
-    "dependencyMap": {
-        "backbone": "github:backbone@1.1.0",
-        "underscore": "npm:underscore@1.5.2"
-    },
-    "dependencyShim": {
-        "backbone.marionette.min": ["backbone", "underscore"]
+    "shim": {
+        "backbone.marionette.min": ["backbone@1.1.0", "underscore@1.5.2"]
     }
 }
