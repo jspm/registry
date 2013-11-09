@@ -3,7 +3,7 @@
     "website": "https://jspm.io",
 
     "location": "https://github.jspm.io",
-    "degree": 2,
+    "repoDepth": 2,
     "versionPrefix": "@",
     "minorVersions": true,
     "latestVersions": true,
@@ -13,7 +13,7 @@
     "website": "https://jspm.io",
 
     "location": "https://npm.jspm.io",
-    "degree": 1,
+    "repoDepth": 1,
     "versionPrefix": "@",
     "minorVersions": true,
     "latestVersions": true,
@@ -23,7 +23,7 @@
     "website": "http://cdnjs.com",
 
     "location": "https://cdnjs.cloudflare.com/ajax/libs",
-    "degree": 1,
+    "repoDepth": 1,
     "versionPrefix": "/",
     "minorVersions": false,
     "latestVersions": false,
