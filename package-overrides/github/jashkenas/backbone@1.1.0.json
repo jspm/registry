@@ -1,9 +1,9 @@
 {
-    "main": "backbone",
-    "shim": {
-        "backbone": ["underscore"]
-    },
-    "dependencyMap": {
-        "underscore": "npm:underscore@1.5.2"
+  "main": "backbone",
+  "shim": {
+    "backbone": {
+      "imports": ["npm:underscore@1.5"],
+      "exports": "Backbone"
     }
+  }
 }
