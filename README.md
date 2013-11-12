@@ -3,7 +3,7 @@ JSPM Registry
 
 Pull requests welcome. View `registry.json` to see what is currently in the registry.
 
-All registry entries are managed through Github, moderated by the registry maintainers.
+All registry entries are managed here through Github, moderated by the registry maintainers.
 
 What it does
 ---
