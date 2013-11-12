@@ -38,7 +38,7 @@ The current supported endpoint servers are:
 
 * Github (SPDY optimized)
 * npm (SPDY optimized)
-* cdnJS
+* cdnjs
 
 To add a new endpoint server to the registry, provide a pull request to `endpoints.json`.
 
@@ -65,7 +65,7 @@ To submit a new package override:
 
 The overrides only apply to exact version, tag or branch names.
 
-Note that package overrides do not work for the cdnJS endpoint, so manual configuration is still necessary here.
+Note that package overrides do not work for the cdnjs endpoint, so manual configuration is still necessary here.
 
 
 
