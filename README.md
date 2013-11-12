@@ -1,4 +1,4 @@
-JSPM Registry
+jspm Registry
 ---
 
 Pull requests welcome. View `registry.json` to see what is currently in the registry.
@@ -12,7 +12,7 @@ What it does
 
 Modules are served from _endpoint servers_. Endpoints include `github:`, `npm:` and `cdnjs:`, and anyone can submit a new endpoint, provided it meets certain requirements.
 
-If I want to load Twitter Bootstrap directly from the Github endpoint with the [JSPM loader](https://github.com/jspm/jspm-loader), I would write the following:
+If I want to load Twitter Bootstrap directly from the Github endpoint with the [jspm loader](https://github.com/jspm/jspm-loader), I would write the following:
 
 ```javascript
   jspm.import('github:twbs/bootstrap@3.0/js/bootstrap');
@@ -46,19 +46,19 @@ To add a new endpoint server to the registry, provide a pull request to `endpoin
 
 The registry also provides a service for overriding the `package.json` of existing repos.
 
-This is useful for enabling JSPM functionality in the `package.json` when direct access to the underlying repo is not possible.
+This is useful for enabling jspm functionality in the `package.json` when direct access to the underlying repo is not possible.
 
-This is because JSPM uses the `package.json` for modular package configuration, including:
+This is because jspm uses the `package.json` for modular package configuration, including:
 
 * Setting the main entry point (`main`)
 * Shim config for globals (`shim`)
 * Auto-enabling minification (`buildOptions.uglify`)
 
-In this way, the right package options can make any library play well with JSPM, without needing any manual configuration at all.
+In this way, the right package options can make any library play well with jspm, without needing any manual configuration at all.
 
 Submitting a pull request to the original repo is still preferable to package overrides, this is a convenience service only and not a long term solution.
 
-Read more about [configuring packages for JSPM](https://github.com/jspm/registry/wiki/Configuring-Packages-for-JSPM) in the wiki.
+Read more about [configuring packages for jspm](https://github.com/jspm/registry/wiki/Configuring-Packages-for-jspm) in the wiki.
 
 To submit a new package override:
 
