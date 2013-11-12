@@ -24,7 +24,21 @@ The registry simply remembers the `github:twbs/bootstrap` part, allowing the sho
   jspm.import('bootstrap@3.0/js/bootstrap');
 ```
 
-Anyone can submit a new endpoint server to use, simply provide a pull request to `endpoints.json`.
+The `registry.json` is just a collection of these mappings:
+
+```javascript
+  "bootstrap": "github:twbs/bootstrap"
+```
+
+Anyone is welcome to submit a mapping.
+
+The current supported endpoint servers are:
+
+* Github (SPDY optimized)
+* npm (SPDY optimized)
+* CdnJS
+
+To add a new endpoint server to the registry, provide a pull request to `endpoints.json`.
 
 ### 2. Package.json Overrides (package_overrides)
 
