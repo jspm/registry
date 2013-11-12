@@ -18,6 +18,8 @@ If I want to load Twitter Bootstrap directly from the Github endpoint with the [
   jspm.import('github:twbs/bootstrap@3.0/js/bootstrap');
 ```
 
+The loader then sends a request to the URL `https://github.jspm.io/twbs/bootstrap@3.0/js/bootstrap.js` and the **Github endpoint server**, returns the associated code.
+
 The registry simply remembers the `github:twbs/bootstrap` part, allowing the shortcut form:
 
 ```javascript
