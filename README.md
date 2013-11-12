@@ -38,7 +38,7 @@ The current supported endpoint servers are:
 
 * Github (SPDY optimized)
 * npm (SPDY optimized)
-* CdnJS
+* cdnJS
 
 To add a new endpoint server to the registry, provide a pull request to `endpoints.json`.
 
@@ -55,3 +55,17 @@ This is because JSPM uses the `package.json` for modular package configuration, 
 In this way, the right package options can make any library play well with JSPM, without needing any manual configuration at all.
 
 Read more about [configuring packages for JSPM](https://github.com/jspm/registry/wiki/Configuring-Packages-for-JSPM) in the wiki.
+
+To submit a new package override:
+
+* Fork this repo, then create the file `package_overrides/[endpoint name]/[repo name]@x.y.z.json.
+* Provide the correct configuration according to the configuration guide above.
+* Submit a pull request.
+* If the configuration is correct, this will be accepted and that will instantly enable the functionality on the endpoint.
+
+The overrides only apply to exact version, tag or branch names.
+
+Note that package overrides do not work for the cdnJS endpoint, so manual configuration is still necessary here.
+
+
+
