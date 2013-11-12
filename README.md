@@ -52,4 +52,4 @@ This is because JSPM uses the `package.json` for modular package configuration, 
 
 In this way, the right package options can make any library play well with JSPM, without needing any manual configuration at all.
 
-Read more about [configuring libraries for JSPM](https://github.com/jspm/registry/wiki/) in the wiki.
+Read more about [configuring packages for JSPM](https://github.com/jspm/registry/wiki/Configuring-Packages-for-JSPM) in the wiki.
