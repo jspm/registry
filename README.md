@@ -12,7 +12,7 @@ What it does
 
 Modules are served from _endpoint servers_. Endpoints include `github:`, `npm:` and `cdnjs:`, and anyone can submit a new endpoint, provided it meets certain requirements.
 
-If I want to load Twitter Bootstrap with the [JSPM loader](https://github.com/jspm/jspm-loader), I would write the following:
+If I want to load Twitter Bootstrap directly from the Github endpoint with the [JSPM loader](https://github.com/jspm/jspm-loader), I would write the following:
 
 ```javascript
   jspm.import('github:twbs/bootstrap@3.0/js/bootstrap');
