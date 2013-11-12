@@ -1,19 +1,19 @@
 JSPM Registry
 ---
 
-Pull requests welcome!
+Pull requests welcome. View `registry.json` to see what is currently in the registry.
 
-The JSPM Registry is a loader baseURL located at `https://registry.jspm.io`, providing common dependency-managed libraries.
 
-For example, jquery is located at `https://registry.jspm.io/jquery.js`, or `https://registry.jspm.io/jquery@2.0.3.js`.
+* The JSPM Registry is the default registryURL for the [JSPM loader](https://github.com/jspm/jspm-loader) located at `https://registry.jspm.io`.
 
-While the registry is small enough, all registry entries are managed through Github, moderated by the registry maintainers.
+* It simply provides a lookup from a name to a target endpoint:
+  ```javascript
+    "bootstrap": "github:twbs/bootstrap"
+  ```
 
 * The registry provides a mapping from a _unique registry name_ to a _target package_:
   
-  ```
-   "bootstrap": "github:twbs/bootstrap"
-  ```
+
 * For ease of reference, please ensure new names are added in the correct alphabetical location.
 * Currently the following SPDY-optimized _location services_ are available in the registry mapping:
   * Github: `github:author/repo`
