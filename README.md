@@ -3,36 +3,39 @@ JSPM Registry
 
 Pull requests welcome. View `registry.json` to see what is currently in the registry.
 
+All registry entries are managed through Github, moderated by the registry maintainers.
 
-* The JSPM Registry is the default registryURL for the [JSPM loader](https://github.com/jspm/jspm-loader) located at `https://registry.jspm.io`.
-
-* It simply provides a lookup from a name to a target endpoint:
-  ```javascript
-    "bootstrap": "github:twbs/bootstrap"
-  ```
-
-* The registry provides a mapping from a _unique registry name_ to a _target package_:
-  
-
-* For ease of reference, please ensure new names are added in the correct alphabetical location.
-* Currently the following SPDY-optimized _location services_ are available in the registry mapping:
-  * Github: `github:author/repo`
-  * NPM: `npm:repo`
-  
-  Additional locations are in planning for other services, and third party locations can also be [submitted](https://github.com/jspm/jspm-loader#cdn-locations).
-* Version numbers are automatically appended onto the end of the target name based on the [jspm version conventions](https://github.com/jspm/jspm-loader#cdn-locations).
-* Further customizations of package configurations for jspm should be provided in the package.json file
-  for a package. If you do not have direct access to the source package, use a package.json override.
-
-Package.json Overrides
+What it does
 ---
 
-The registry provides a package.json override system for updating package configuration associated with jspm.
+### 1. Endpoint Mappings (registry.json)
 
-The overrides are located in the `package-overrides` folder of this repo, with the folder format:
+Modules are served from _endpoint servers_. Endpoints include `github:`, `npm:` and `cdnjs:`, and anyone can submit a new endpoint, provided it meets certain requirements.
 
-`package-overrides/[location-name]/[location-path]@[version].json`
+If I want to load Twitter Bootstrap with the [JSPM loader](https://github.com/jspm/jspm-loader), I would write the following:
 
-For example, a package override for jquery 2.0.0 would be located at `package-overrides/github/jquery/jquery@2.0.0.json`.
+```javascript
+  jspm.import('github:twbs/bootstrap@3.0/js/bootstrap');
+```
 
-Read more about customizing packages for jspm at the [jspm package.json specification](https://github.com/jspm/registry/wiki/Package.json-Specification) page.
+The registry simply remembers the `github:twbs/bootstrap` part, allowing the shortcut form:
+
+```javascript
+  jspm.import('bootstrap@3.0/js/bootstrap');
+```
+
+Anyone can submit a new endpoint server to use, simply provide a pull request to `endpoints.json`.
+
+### 2. Package.json Overrides (package_overrides)
+
+The registry also provides a service for overriding the `package.json` of existing repos.
+
+This is because JSPM uses the `package.json` for modular package configuration, including:
+
+* Setting the main entry point (`main`)
+* Shim config for globals (`shim`)
+* Auto-enabling minification (`buildOptions.uglify`)
+
+In this way, the right package options can make any library play well with JSPM, without needing any manual configuration at all.
+
+Read more about [configuring libraries for JSPM](https://github.com/jspm/registry/wiki/) in the wiki.
