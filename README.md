@@ -46,6 +46,8 @@ To add a new endpoint server to the registry, provide a pull request to `endpoin
 
 The registry also provides a service for overriding the `package.json` of existing repos.
 
+This is useful for enabling JSPM functionality in the `package.json` when direct access to the underlying repo is not possible.
+
 This is because JSPM uses the `package.json` for modular package configuration, including:
 
 * Setting the main entry point (`main`)
@@ -53,6 +55,8 @@ This is because JSPM uses the `package.json` for modular package configuration, 
 * Auto-enabling minification (`buildOptions.uglify`)
 
 In this way, the right package options can make any library play well with JSPM, without needing any manual configuration at all.
+
+Submitting a pull request to the original repo is still preferable to package overrides, this is a convenience service only and not a long term solution.
 
 Read more about [configuring packages for JSPM](https://github.com/jspm/registry/wiki/Configuring-Packages-for-JSPM) in the wiki.
 
