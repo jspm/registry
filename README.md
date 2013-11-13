@@ -10,7 +10,7 @@ What it does
 
 ### 1. Endpoint Mappings (registry.json)
 
-Modules are served from _endpoint servers_. Endpoints include `github:`, `npm:` and `cdnjs:`, and anyone can submit a new endpoint, provided it meets certain requirements.
+Modules are served from _endpoint servers_. Endpoints include `github:`, `npm:` and `cdnjs:`, and anyone can submit a new endpoint, provided it meets [certain requirements](https://github.com/jspm/registry/wiki/Endpoint-Conventions).
 
 If I want to load Twitter Bootstrap directly from the Github endpoint with the [jspm loader](https://github.com/jspm/jspm-loader), I would write the following:
 
@@ -41,6 +41,8 @@ The current supported endpoint servers are:
 * cdnjs
 
 To add a new endpoint server to the registry, provide a pull request to `endpoints.json`.
+
+For more information on endpoints, read the [Endpoint Conventions guide](https://github.com/jspm/registry/wiki/Endpoint-Conventions).
 
 ### 2. Package.json Overrides (package_overrides)
 
