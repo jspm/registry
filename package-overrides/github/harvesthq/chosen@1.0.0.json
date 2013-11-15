@@ -1,0 +1,8 @@
+{
+  "main": "chosen.jquery.js",
+  "files": ["chosen.jquery.js", "chosen.css"],
+  "shim": {
+    "chosen.jquery": ["./chosen.css!", "jquery@2.0"]
+  },
+  "buildConfig": { "uglify": true }
+}
