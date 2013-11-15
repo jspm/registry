@@ -4,13 +4,14 @@
   "image": "github:jspm/plugin-image",
   "json": "github:jspm/plugin-json",
   "text": "github:jspm/plugin-text",
-  
+
   "angular": "cdnjs:angular.js",
   "angular-ui": "cdnjs:angular-ui/angular-ui",
   "angularFire": "github:firebase/angularFire",
   "backbone": "github:jashkenas/backbone",
   "bootstrap": "github:twbs/bootstrap",
   "chosen.jquery": "cdnjs:chosen",
+  "font-awesome": "npm:font-awesome",
   "jquery": "github:components/jquery",
   "kickstrap": "github:ajkochanowicz/Kickstrap",
   "marionette": "github:marionettejs/backbone.marionette",
