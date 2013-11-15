@@ -1,6 +1,6 @@
 {
   "main": "backbone-min",
-  "files": ["backbone-min.js", "backbone-min.map"],
+  "files": ["backbone-min.js", "backbone-min.map", "backbone.js"],
   "dependencyMap": {
     "jquery": "jquery@2.0",
     "underscore": "underscore@1.5"
