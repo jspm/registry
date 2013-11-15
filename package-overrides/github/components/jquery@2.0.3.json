@@ -1,4 +1,4 @@
 {
   "main": "jquery.min",
-  "files": ["jquery.min.js", "jquery.min.map"]
+  "files": ["jquery.min.js", "jquery.min.map", "jquery.js"]
 }
