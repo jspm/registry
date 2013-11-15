@@ -1,5 +1,5 @@
 {
-  "files": ["angularfire"],
+  "files": ["angularfire.js"],
   "shim": {
     "angularFire": ["angular@1.2.0/angular"]
   },
