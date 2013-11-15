@@ -1,8 +1,11 @@
 {
-  "main": "backbone-min",
-  "files": ["backbone-min.js", "backbone-min.map", "backbone.js"],
+  "main": "backbone",
+  "files": ["backbone"],
   "dependencyMap": {
     "jquery": "jquery@2.0",
     "underscore": "underscore@1.5"
+  },
+  "buildConfig": {
+    "uglify": "true"
   }
 }
