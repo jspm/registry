@@ -1,6 +1,6 @@
 {
   "main": "chosen.jquery.js",
-  "files": ["chosen.jquery.js", "chosen.css"],
+  "files": ["chosen.jquery.js", "chosen.css", "chosen-sprite.png", "chosen-sprite@2x.png"],
   "shim": {
     "chosen.jquery": ["./chosen.css!", "jquery@2.0"]
   },
