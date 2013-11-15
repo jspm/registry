@@ -3,8 +3,5 @@
   "files": ["jquery.js"],
   "buildConfig": {
     "uglify": true
-  },
-  "shim": {
-    "jquery": true
   }
 }
