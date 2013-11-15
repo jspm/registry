@@ -2,6 +2,6 @@
   "main": "jquery",
   "files": ["jquery.js"],
   "buildConfig" {
-      "uglify": "true"
+    "uglify": true
   }
 }
