@@ -1,10 +1,8 @@
 {
-  "main": "backbone",
-  "shim": {
-    "backbone": {
-      "imports": ["npm:underscore@1.5"],
-      "exports": "Backbone"
-    }
-  },
-  "files": ["backbone.js"]
+  "main": "backbone-min",
+  "files": ["backbone-min.js", "backbone-min.map"],
+  "dependencyMap": {
+    "jquery": "jquery@2.0",
+    "underscore": "underscore@1.5"
+  }
 }

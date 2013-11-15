@@ -1,5 +1,9 @@
 {
+  "files": ["angularfire"],
   "shim": {
     "angularFire": ["angular@1.2.0/angular"]
+  },
+  "buildConfig": {
+    "uglify": "true"
   }
 }
