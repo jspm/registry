@@ -1,0 +1,7 @@
+{
+  "main": "d3.js"
+  "files": ["d3.js"],
+  "buildConfig": {
+    "uglify": true
+  }
+}
