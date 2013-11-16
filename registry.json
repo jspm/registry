@@ -13,7 +13,6 @@
   "chosen": "github:harvesthq/chosen",
   "d3": "github:mbostock/d3",
   "font-awesome": "npm:font-awesome",
-  "foundation": "cdnjs:foundation",
   "jquery": "github:components/jquery",
   "kickstrap": "github:ajkochanowicz/Kickstrap",
   "marionette": "github:marionettejs/backbone.marionette",
