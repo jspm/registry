@@ -20,6 +20,7 @@
   "kickstrap": "github:ajkochanowicz/Kickstrap",
   "marionette": "github:marionettejs/backbone.marionette",
   "tinygrowl": "github:ajkochanowicz/tinygrowl",
+  "three.js": "cdnjs:three.js",
   "underscore": "npm:underscore",
   "webfont": "cdnjs:webfont"
 }
