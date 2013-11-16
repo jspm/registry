@@ -5,6 +5,9 @@
     "jquery": "jquery@2.0",
     "underscore": "underscore@1.5"
   },
+  "shim": {
+    "backbone": ["jquery", "underscore"]
+  },
   "buildConfig": {
     "uglify": "true"
   }
