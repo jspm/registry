@@ -1,0 +1,13 @@
+{
+    "main": "jquery.fileupload",
+    "directory": {
+        "lib": "js"
+    },
+    "files": ["js/jquery.fileupload.js"],
+    "dependencyMap": {
+        "jquery": "jquery@2.0"
+    },
+    "buildConfig": {
+        "uglify": true
+    }
+}

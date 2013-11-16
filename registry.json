@@ -14,6 +14,7 @@
   "d3": "github:mbostock/d3",
   "font-awesome": "npm:font-awesome",
   "jquery": "github:components/jquery",
+  "jquery-file-upload": "github:blueimp/jQuery-File-Upload",
   "kickstrap": "github:ajkochanowicz/Kickstrap",
   "marionette": "github:marionettejs/backbone.marionette",
   "tinygrowl": "github:ajkochanowicz/tinygrowl",
