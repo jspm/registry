@@ -1,0 +1,5 @@
+{
+  "shim": {
+    "underscore": true
+  }
+}
