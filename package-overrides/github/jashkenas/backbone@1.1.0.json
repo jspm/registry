@@ -1,12 +1,8 @@
 {
   "main": "backbone",
   "files": ["backbone.js"],
-  "dependencyMap": {
-    "jquery": "jquery@2.0",
-    "underscore": "underscore@1.5"
-  },
   "shim": {
-    "backbone": ["jquery", "underscore"]
+    "backbone": ["jquery@2.0", "underscore@1.5"]
   },
   "buildConfig": {
     "uglify": "true"
