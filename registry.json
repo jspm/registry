@@ -13,7 +13,7 @@
   "backbone.wreqr": "github:marionettejs/backbone.wreqr",
   "bootstrap": "github:twbs/bootstrap",
   "chosen": "github:harvesthq/chosen",
-  "d3": "npm:mbostock/d3",
+  "d3": "npm:d3",
   "font-awesome": "npm:font-awesome",
   "jquery": "github:components/jquery",
   "jquery-file-upload": "github:blueimp/jQuery-File-Upload",
