@@ -8,7 +8,7 @@
   "angular": "cdnjs:angular.js",
   "angular-ui": "cdnjs:angular-ui/angular-ui",
   "angularFire": "github:firebase/angularFire",
-  "backbone": "github:jashkenas/backbone",
+  "backbone": "npm:backbone",
   "backbone.babysitter": "github:marionettejs/backbone.babysitter",
   "backbone.wreqr": "github:marionettejs/backbone.wreqr",
   "bootstrap": "github:twbs/bootstrap",
