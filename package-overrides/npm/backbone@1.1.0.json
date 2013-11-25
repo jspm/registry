@@ -1,8 +1,5 @@
 {
   "shim": {
     "backbone": ["jquery@2.0", "underscore@1.5"]
-  },
-  "buildConfig": {
-    "uglify": "true"
   }
 }
