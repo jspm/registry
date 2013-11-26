@@ -1,7 +1,7 @@
 {
   "main": "js/bootstrap",
   "shim": {
-    "js/bootstrap": ["jquery@2.0"]
+    "js/bootstrap": ["jquery"]
   },
   "buildConfig": {
     "uglify": true
