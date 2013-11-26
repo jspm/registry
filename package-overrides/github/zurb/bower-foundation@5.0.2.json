@@ -21,7 +21,8 @@
     "foundation": "js/foundation/foundation"
   },
   "shim": {
-    "js/foundation/foundation.*": "./foundation"
+    "js/foundation/foundation.*": "./foundation",
+    "js/foundation/foundation": ["jquery", "modernizr"]
   },
   "ignore": ["js/foundation.js", "js/foundation.min.js", "scss"],
   "css": ["css/normalize.css", "css/foundation.css"]
