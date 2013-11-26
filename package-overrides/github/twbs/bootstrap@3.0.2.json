@@ -1,5 +1,8 @@
 {
   "main": "js/bootstrap",
+  "directories": {
+    "dist": "dist"
+  },
   "shim": {
     "js/bootstrap": {
       "imports": "jquery",
