@@ -18,6 +18,7 @@
   "foundation": "github:zurb/bower-foundation",
   "jquery": "github:components/jquery",
   "jquery-file-upload": "github:blueimp/jQuery-File-Upload",
+  "jquery.cookie": "github:carhartl/jquery-cookie",
   "kickstrap": "github:ajkochanowicz/Kickstrap",
   "marionette": "github:marionettejs/backbone.marionette",
   "tinygrowl": "github:ajkochanowicz/tinygrowl",
