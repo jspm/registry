@@ -24,6 +24,17 @@
     "js/foundation/foundation.*": "./foundation",
     "js/foundation/foundation": ["jquery", "../vendor/custom.modernizr"]
   },
-  "ignore": ["js/foundation.js", "js/foundation.min.js", "scss"],
-  "css": ["css/normalize.css", "css/foundation.css"]
+  "ignore": [
+    "js/foundation.min.js", 
+    "scss", 
+    "js/vendor/jquery.cookie.js", 
+    "js/vendor/jquery.js",
+    "js/vendor/fastclick.js",
+    "js/vendor/jquery.autocomplete.js",
+    "js/vendor/placeholder.js"
+  ],
+  "css": ["css/normalize.css", "css/foundation.css"],
+  "buildConfig": {
+    "uglify": true
+  }
 }
