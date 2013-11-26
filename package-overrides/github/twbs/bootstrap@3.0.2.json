@@ -1,7 +1,10 @@
 {
   "main": "js/bootstrap",
   "shim": {
-    "js/bootstrap": ["jquery"]
+    "js/bootstrap": {
+      "imports": "jquery",
+      "exports": "$"
+    }
   },
   "buildConfig": {
     "uglify": true
