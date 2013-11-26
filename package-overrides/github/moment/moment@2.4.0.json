@@ -1,0 +1,6 @@
+{
+  "files": ["moment.js"],
+  "buildConfig": {
+    "uglify": true
+  }
+}
