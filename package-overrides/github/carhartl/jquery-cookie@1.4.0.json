@@ -1,0 +1,7 @@
+{
+  "main": "jquery.cookie",
+  "files": ["jquery.cookie.js"],
+  "buildConfig": {
+    "uglify": true
+  }
+}

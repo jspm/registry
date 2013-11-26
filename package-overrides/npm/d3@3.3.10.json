@@ -2,7 +2,9 @@
   "main": "d3.js",
   "files": ["d3.js"],
   "shim": {
-    "exports": "d3"
+    "d3": {
+      "exports": "d3"
+    }
   },
   "buildConfig": {
     "uglify": true

@@ -1,7 +1,13 @@
 {
   "main": "js/bootstrap",
+  "directories": {
+    "lib": "dist"
+  },
   "shim": {
-    "js/bootstrap": ["jquery@2.0"]
+    "js/bootstrap": {
+      "imports": "jquery",
+      "exports": "$"
+    }
   },
   "buildConfig": {
     "uglify": true
