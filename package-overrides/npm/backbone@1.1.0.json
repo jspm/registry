@@ -1,5 +1,6 @@
 {
-  "shim": {
-    "backbone": ["jquery@2.0", "underscore@1.5"]
+  "dependencyMap": {
+    "jquery": "jquery@2.0",
+    "underscore": "underscore@1.5"
   }
 }
