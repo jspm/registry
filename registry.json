@@ -21,6 +21,7 @@
   "jquery.cookie": "github:carhartl/jquery-cookie",
   "kickstrap": "github:ajkochanowicz/Kickstrap",
   "marionette": "github:marionettejs/backbone.marionette",
+  "moment": "github:moment/moment",
   "tinygrowl": "github:ajkochanowicz/tinygrowl",
   "three.js": "cdnjs:three.js",
   "underscore": "npm:underscore",
