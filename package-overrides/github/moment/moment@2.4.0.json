@@ -1,5 +1,8 @@
 {
-  "files": ["moment.js"],
+  "files": ["moment.js", "lang"],
+  "dependencyMap": {
+    "moment": "./moment"
+  },
   "buildConfig": {
     "uglify": true
   }
