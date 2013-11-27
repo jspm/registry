@@ -1,6 +1,6 @@
 {
     "main": "select2",
-    "files": ["select2.js", "select2.png", "select2-spinner.gif"],
+    "files": ["select2.js", "select2.png", "select2.css", "select2-spinner.gif"],
     "shim": {
         "select2": ["./select2.png!", "jquery"]
     },
