@@ -1,21 +1,5 @@
 {
   "main": "foundation",
-  "entrypoints": [
-    "abide", 
-    "accordion", 
-    "alert", 
-    "clearing", 
-    "dropdown", 
-    "interchange", 
-    "joyride", 
-    "magellan", 
-    "offcanvas", 
-    "orbit",
-    "reveal",
-    "tab",
-    "tooltip",
-    "topbar"
-  ],
   "map": {
     "*": "js/foundation/foundation.*",
     "foundation": "js/foundation/foundation"
@@ -33,7 +17,6 @@
     "js/vendor/jquery.autocomplete.js",
     "js/vendor/placeholder.js"
   ],
-  "css": ["css/normalize.css", "css/foundation.css"],
   "buildConfig": {
     "uglify": true
   }
