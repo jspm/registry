@@ -1,42 +1,14 @@
 {
-  "main": null,
+  "main": "src/Modernizr",
   "format": "amd",
   "map": {
     "*": "feature-detects/*",
-    "a/*": "feature-detects/a/*",
-    "audio/*": "feature-detects/audio/*",
-    "battery/*": "feature-detects/battery/*",
-    "canvas/*": "feature-detects/canvas/*",
-    "crypto/*": "feature-detects/crypto/*",
-    "css/*": "feature-detects/css/*",
-    "dom/*": "feature-detects/dom/*",
-    "elem/*": "feature-detects/elem/*",
-    "es5/*": "feature-detects/es5/*",
-    "es6/*": "feature-detects/es6/*",
-    "event/*": "feature-detects/event/*",
-    "file/*": "feature-detects/file/*",
-    "forms/*": "feature-detects/forms/*",
-    "iframe/*": "feature-detects/iframe/*",
-    "img/*": "feature-detects/img/*",
-    "network/*": "feature-detects/network/*",
-    "script/*": "feature-detects/script/*",
-    "speech/*": "feature-detects/speech/*",
-    "storage/*": "feature-detects/storage/*",
-    "style/*": "feature-detects/style/*",
-    "svg/*": "feature-detects/svg/*",
-    "url/*": "feature-detects/url/*",
-    "video/*": "feature-detects/video/*",
-    "webgl/*": "feature-detects/webgl/*",
-    "webrtc/*": "feature-detects/webrtc/*",
-    "websockets/*": "feature-detects/websockets/*",
-    "window/*": "feature-detects/window/*",
-    "workers/*": "feature-detects/workers/*"
+    "*/*": "feature-detects/*/*",
+    "src": "src"
   },
   "dependencyMap": {
     "*": "./src/*"
   },
   "ignore": ["media", "test", "lib", "bin"],
-  "buildConfig": {
-    "uglify": true
-  }
+  "minify": true
 }
