@@ -2,9 +2,6 @@
   "main": "src/Modernizr",
   "format": "amd",
   "map": {
-    "./*": "feature-detects/*",
-    "./*/*": "feature-detects/*/*",
-    "./src": "src",
     "*": "./src/*"
   },
   "ignore": ["media", "test", "lib", "bin"],
