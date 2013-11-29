@@ -10,5 +10,7 @@
     "*": "./src/*"
   },
   "ignore": ["media", "test", "lib", "bin"],
-  "minify": true
+  "buildConfig": {
+    "uglify": true
+  }
 }
