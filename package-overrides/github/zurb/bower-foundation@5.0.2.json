@@ -1,9 +1,5 @@
 {
-  "main": "foundation",
-  "map": {
-    "*": "js/foundation/foundation.*",
-    "foundation": "js/foundation/foundation"
-  },
+  "main": "js/foundation/foundation",
   "shim": {
     "js/foundation/foundation.*": "./foundation",
     "js/foundation/foundation": ["jquery", "../vendor/custom.modernizr"]
