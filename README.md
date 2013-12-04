@@ -1,7 +1,9 @@
 jspm Registry
 ---
 
-Pull requests welcome. View `registry.json` to see what is currently in the registry.
+[View the registry file here](https://github.com/jspm/registry/blob/master/registry.json)
+
+Pull requests welcome for `registry.json` to add or modify entries.
 
 All registry entries are managed here through Github, moderated by the registry maintainers.
 
