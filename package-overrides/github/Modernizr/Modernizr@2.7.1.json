@@ -1,0 +1,11 @@
+{
+  "main": "modernizr",
+  "format": "global",
+  "shim": {
+    "feature-detects/*": ["modernizr"]
+  },
+  "files": ["modernizr.js", "feature-detects"],
+  "buildConfig": {
+    "uglify": true
+  }
+}
