@@ -4,6 +4,10 @@
   "map": {
     "*": "./src/*"
   },
+  "shim": {
+    "feature-detects/*": ["Modernizr"],
+    "feature-detects/*/*": ["Modernizr"]
+  },
   "ignore": ["media", "test", "lib", "bin"],
   "buildConfig": {
     "uglify": true
