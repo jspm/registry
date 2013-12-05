@@ -1,5 +1,5 @@
 {
-  "main": "d3.js",
+  "main": "d3",
   "files": ["d3.js"],
   "shim": {
     "d3": {
