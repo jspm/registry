@@ -2,7 +2,7 @@
   "main": "modernizr",
   "format": "global",
   "shim": {
-    "feature-detects/*": ["modernizr"]
+    "feature-detects/*": ["../modernizr"]
   },
   "files": ["modernizr.js", "feature-detects"],
   "buildConfig": {
