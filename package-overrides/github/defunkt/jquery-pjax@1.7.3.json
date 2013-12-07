@@ -2,10 +2,10 @@
     "main": "jquery.pjax",
     "files": ["jquery.pjax.js"],
     "shim": {
-        "jquery.pjax": ["jquery"]
-    },
-    "dependencyMap": {
-        "jquery": "jquery@2.0"
+        "jquery.pjax": {
+            "imports": ["jquery"],
+            "exports": "$"
+        }
     },
     "buildConfig": {
         "uglify": true
