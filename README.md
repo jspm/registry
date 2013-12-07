@@ -58,7 +58,7 @@ This is because jspm uses the `package.json` for modular package configuration, 
 * Shim config for globals (`shim`)
 * Auto-enabling minification (`buildOptions.uglify`)
 
-In this way, the right package options can make any library play well with jspm, without needing any manual configuration at all.
+In this way, the right package options can make any package play well with jspm, without needing any manual configuration at all.
 
 Submitting a pull request to the original repo is still preferable to package overrides, this is a convenience service only and not a long term solution.
 
