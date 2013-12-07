@@ -6,7 +6,7 @@
     "files": ["js/jquery.fileupload.js"],
     "shim": {
         "js/jquery.fileupload": ["jquery"]
-    }
+    },
     "dependencyMap": {
         "jquery": "jquery@2.0"
     },
