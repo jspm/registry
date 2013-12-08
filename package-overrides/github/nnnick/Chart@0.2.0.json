@@ -1,0 +1,4 @@
+{
+    "main": "Chart.min",
+    "files": ["Chart.min.js"]
+}
