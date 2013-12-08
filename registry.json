@@ -25,6 +25,7 @@
   "modernizr": "github:Modernizr/Modernizr",
   "moment": "github:moment/moment",
   "select2": "github:ivaynberg/select2",
+  "skrollr": "github:Prinzhorn/skrollr",
   "tinygrowl": "github:ajkochanowicz/tinygrowl",
   "three.js": "cdnjs:three.js",
   "underscore": "npm:underscore",

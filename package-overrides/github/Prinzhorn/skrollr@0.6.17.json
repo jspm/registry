@@ -1,0 +1,7 @@
+{
+    "main": "skrollr.min",
+    "directories": {
+        "lib": "dist"
+    },
+    "files": ["skrollr.min.js"]
+}
