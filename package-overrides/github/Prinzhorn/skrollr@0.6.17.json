@@ -3,5 +3,5 @@
     "directories": {
         "lib": "dist"
     },
-    "files": ["skrollr.min.js"]
+    "files": ["dist/skrollr.min.js"]
 }
