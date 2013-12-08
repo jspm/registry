@@ -13,7 +13,7 @@
   "backbone.wreqr": "github:marionettejs/backbone.wreqr",
   "bootstrap": "github:twbs/bootstrap",
   "chosen": "github:harvesthq/chosen",
-  "chart": "github:nnnick/Chart.js",
+  "chart": "github:nnnick/Chart",
   "d3": "npm:d3",
   "font-awesome": "npm:font-awesome",
   "foundation": "github:zurb/bower-foundation",
