@@ -22,6 +22,7 @@
   "jquery-pjax": "github:defunkt/jquery-pjax",
   "jquery.cookie": "github:carhartl/jquery-cookie",
   "kickstrap": "github:ajkochanowicz/Kickstrap",
+  "lodash": "npm:lodash-node",
   "marionette": "github:marionettejs/backbone.marionette",
   "modernizr": "github:Modernizr/Modernizr",
   "moment": "github:moment/moment",
