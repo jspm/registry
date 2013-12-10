@@ -1,4 +1,7 @@
 {
-    "main": "Chart.min",
-    "files": ["Chart.min.js"]
+    "main": "Chart",
+    "files": ["Chart.js"],
+    "buildConfig": {
+        "uglify": true
+    }
 }
