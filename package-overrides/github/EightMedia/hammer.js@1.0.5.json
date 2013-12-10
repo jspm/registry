@@ -1,0 +1,4 @@
+{
+    "main": "hammer",
+    "files": ["hammer.js", "hammer.min.js", "hammer.min.map"]
+}

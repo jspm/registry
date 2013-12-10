@@ -17,6 +17,7 @@
   "d3": "npm:d3",
   "font-awesome": "npm:font-awesome",
   "foundation": "github:zurb/bower-foundation",
+  "hammer": "github:EightMedia/hammer.js",
   "jquery": "github:components/jquery",
   "jquery-file-upload": "github:blueimp/jQuery-File-Upload",
   "jquery-pjax": "github:defunkt/jquery-pjax",
