@@ -1,7 +1,9 @@
 {
-    "main": "skrollr.min",
+    "main": "skrollr",
     "directories": {
-        "lib": "dist"
+        "lib": "src"
     },
-    "files": ["dist/skrollr.min.js"]
+    "buildConfig": {
+        "uglify": true
+    }
 }
