@@ -3,6 +3,7 @@
   "font": "github:jspm/plugin-font",
   "image": "github:jspm/plugin-image",
   "json": "github:jspm/plugin-json",
+  "md": "github:jspm/plugin-md",
   "text": "github:jspm/plugin-text",
 
   "angular": "cdnjs:angular.js",
