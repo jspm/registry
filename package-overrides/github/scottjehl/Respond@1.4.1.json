@@ -1,0 +1,10 @@
+{
+    "main": "respond",
+    "files": ["src/respond.js"],
+    "directories": {
+        "lib": "src"
+    },
+    "buildConfig": {
+        "uglify": true
+    }
+}

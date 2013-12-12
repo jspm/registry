@@ -30,6 +30,7 @@
   "modernizr": "github:Modernizr/Modernizr",
   "moment": "github:moment/moment",
   "raphael": "github:DmitryBaranovskiy/raphael",
+  "respond": "github:scottjehl/Respond",
   "select2": "github:ivaynberg/select2",
   "skrollr": "github:Prinzhorn/skrollr",
   "tinygrowl": "github:ajkochanowicz/tinygrowl",
