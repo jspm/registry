@@ -29,6 +29,7 @@
   "marionette": "github:marionettejs/backbone.marionette",
   "modernizr": "github:Modernizr/Modernizr",
   "moment": "github:moment/moment",
+  "mustache": "github:janl/mustache.js",
   "raphael": "github:DmitryBaranovskiy/raphael",
   "respond": "github:scottjehl/Respond",
   "select2": "github:ivaynberg/select2",
