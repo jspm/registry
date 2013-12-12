@@ -4,11 +4,6 @@
     "directories": {
         "lib": "dist"
     },
-    "shim": {
-        "ratchet": {
-            "imports": ["./ratchet.css!", "./touch-icons/apple-touch-icon-114x114.png!image", "./touch-icons/apple-touch-icon-57x57.png!image", "./touch-icons/apple-touch-icon-72x72.png!image"]
-        }
-    },
     "buildConfig": {
         "uglify": true
     }
