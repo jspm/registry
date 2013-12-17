@@ -3,7 +3,7 @@
     "files": ["nprogress.js", "nprogress.css"],
     "shim": {
         "nprogress": {
-            "imports": ["./nprogress.css!"]
+            "imports": ["./nprogress.css!", "jquery"]
         }
     },
     "buildConfig": {
