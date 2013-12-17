@@ -1,0 +1,7 @@
+{
+    "main": "masonry",
+    "files": ["masonry.js"],
+    "buildConfig": {
+        "uglify": true
+    }
+}
