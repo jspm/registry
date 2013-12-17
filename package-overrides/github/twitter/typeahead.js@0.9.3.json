@@ -1,0 +1,16 @@
+{
+    "main": "typeahead",
+    "directories": {
+        "lib": "dist"
+    },
+    "files": ["dist/typeahead.js"]
+    "shim": {
+        "typeahead": {
+            "imports": "jquery",
+            "exports": $
+        }
+    },
+    "buildConfig": {
+        "uglify": true
+    }
+}

@@ -37,6 +37,7 @@
   "select2": "github:ivaynberg/select2",
   "skrollr": "github:Prinzhorn/skrollr",
   "tinygrowl": "github:ajkochanowicz/tinygrowl",
+  "typeahead": "github:twitter/typeahead.js",
   "three.js": "cdnjs:three.js",
   "underscore": "npm:underscore",
   "webfont": "cdnjs:webfont"
