@@ -1,0 +1,12 @@
+{
+    "main": "nprogress",
+    "files": ["nprogress.js", "nprogress.css"],
+    "shim": {
+        "nprogress": {
+            "imports": ["./nprogress.css!"]
+        }
+    },
+    "buildConfig": {
+        "uglify": true
+    }
+}
