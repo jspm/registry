@@ -7,7 +7,7 @@
     "shim": {
         "typeahead": {
             "imports": "jquery",
-            "exports": $
+            "exports": "$"
         }
     },
     "buildConfig": {
