@@ -36,6 +36,7 @@
   "respond": "github:scottjehl/Respond",
   "select2": "github:ivaynberg/select2",
   "skrollr": "github:Prinzhorn/skrollr",
+  "spin": "github:fgnass/spin.js",
   "tinygrowl": "github:ajkochanowicz/tinygrowl",
   "typeahead": "github:twitter/typeahead.js",
   "three.js": "cdnjs:three.js",
