@@ -32,6 +32,7 @@
   "moment": "github:moment/moment",
   "mustache": "github:janl/mustache.js",
   "nprogress": "github:rstacruz/nprogress",
+  "parallax": "github:wagerfield/parallax",
   "ratchet": "github:maker/ratchet",
   "raphael": "github:DmitryBaranovskiy/raphael",
   "respond": "github:scottjehl/Respond",
