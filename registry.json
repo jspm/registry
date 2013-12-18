@@ -16,6 +16,7 @@
   "chosen": "github:harvesthq/chosen",
   "chart": "github:nnnick/Chart.js",
   "d3": "npm:d3",
+  "dropzone": "github:enyo/dropzone",
   "font-awesome": "npm:font-awesome",
   "foundation": "github:zurb/bower-foundation",
   "hammer": "github:EightMedia/hammer.js",

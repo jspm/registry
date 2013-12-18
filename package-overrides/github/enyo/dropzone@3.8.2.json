@@ -1,0 +1,10 @@
+{
+    "main": "dropzone-amd-module",
+    "directories": {
+        "lib": "downloads"
+    },
+    "files": ["downloads/dropzone-amd-module.js"],
+    "buildConfig": {
+        "uglify": true
+    }
+}
