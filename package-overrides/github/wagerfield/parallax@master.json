@@ -6,7 +6,7 @@
     "files": ["source/parallax.js", "source/requestAnimationFrame.js"],
     "shim": {
         "parallax": {
-            "imports": ["./requestAnimationFrame.js"],
+            "imports": ["./requestAnimationFrame"],
             "exports": "requestAnimationFrame"
         }
     },
