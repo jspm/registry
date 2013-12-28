@@ -1,0 +1,12 @@
+{
+  "main": "dist/less-1.5.1",
+  "format": "global",
+  "shim": {
+    "dist/less-1.5.1": {
+      "exports": "less"
+    }
+  },
+  "buildConfig": {
+    "uglify": true
+  }
+}

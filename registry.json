@@ -44,5 +44,6 @@
   "typeahead": "github:twitter/typeahead.js",
   "three.js": "cdnjs:three.js",
   "underscore": "npm:underscore",
-  "webfont": "cdnjs:webfont"
+  "webfont": "cdnjs:webfont",
+  "less": "github:matthewp/plugin-less",
 }
