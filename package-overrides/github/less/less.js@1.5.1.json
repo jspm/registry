@@ -1,6 +1,7 @@
 {
   "main": "dist/less-1.5.1",
   "format": "global",
+  "files": ["dist/less-1.5.1.js"],
   "shim": {
     "dist/less-1.5.1": {
       "exports": "less"

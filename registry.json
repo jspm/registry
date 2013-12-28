@@ -26,6 +26,7 @@
   "jquery-pjax": "github:defunkt/jquery-pjax",
   "jquery.cookie": "github:carhartl/jquery-cookie",
   "kickstrap": "github:ajkochanowicz/Kickstrap",
+  "less": "github:matthewp/plugin-less",
   "lodash": "npm:lodash-node",
   "marionette": "github:marionettejs/backbone.marionette",
   "masonry": "github:desandro/masonry",
@@ -44,6 +45,5 @@
   "typeahead": "github:twitter/typeahead.js",
   "three.js": "cdnjs:three.js",
   "underscore": "npm:underscore",
-  "webfont": "cdnjs:webfont",
-  "less": "github:matthewp/plugin-less",
+  "webfont": "cdnjs:webfont"
 }
