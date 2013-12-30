@@ -28,5 +28,15 @@
     "minorVersions": false,
     "latestVersions": false,
     "mains": false
+  },
+  "gist": {
+    "website": "https://npmjs.org/package/jspm-gist",
+    
+    "location": "https://gist.jspm.io",
+    "repoDepth": 1,
+    "versionPrefix": "@",
+    "minorVersions": true,
+    "latestVersions": true,
+    "mains": true
   }
 }
