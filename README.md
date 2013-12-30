@@ -40,6 +40,7 @@ The current supported endpoint servers are:
 
 * Github (SPDY optimized)
 * npm (SPDY optimized)
+* gist (SPDY optimized)
 * cdnjs
 
 To add a new endpoint server to the registry, provide a pull request to `endpoints.json`.
