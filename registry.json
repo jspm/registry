@@ -1,10 +1,10 @@
 {
-  "css": "github:jspm/plugin-css",
-  "font": "github:jspm/plugin-font",
-  "image": "github:jspm/plugin-image",
-  "json": "github:jspm/plugin-json",
-  "md": "github:jspm/plugin-md",
-  "text": "github:jspm/plugin-text",
+  "css": "github:systemjs/plugin-css",
+  "font": "github:systemjs/plugin-font",
+  "image": "github:systemjs/plugin-image",
+  "json": "github:systemjs/plugin-json",
+  "md": "github:systemjs/plugin-md",
+  "text": "github:systemjs/plugin-text",
 
   "angular": "cdnjs:angular.js",
   "angular-ui": "cdnjs:angular-ui/angular-ui",
