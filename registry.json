@@ -1,10 +1,11 @@
 {
   "css": "github:systemjs/plugin-css",
-  "font": "github:systemjs/plugin-font",
   "image": "github:systemjs/plugin-image",
   "json": "github:systemjs/plugin-json",
-  "md": "github:systemjs/plugin-md",
   "text": "github:systemjs/plugin-text",
+  "font": "github:guybedford/system-font",
+  "md": "github:guybedford/system-md",
+  
 
   "angular": "cdnjs:angular.js",
   "angular-ui": "cdnjs:angular-ui/angular-ui",
