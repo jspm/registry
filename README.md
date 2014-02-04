@@ -7,20 +7,13 @@ Pull requests welcome for `registry.json` to add or modify entries.
 
 All registry entries are managed here through Github, moderated by the registry maintainers.
 
-What it does
+Registry
 ---
 
-### 1. Endpoint Mappings (registry.json)
+Modules are served from _endpoint servers_. Endpoints include `github:` and `npm:`.
 
-Modules are served from _endpoint servers_. Endpoints include `github:`, `npm:` and `cdnjs:`, and anyone can submit a new endpoint, provided it meets [certain requirements](https://github.com/jspm/registry/wiki/Endpoint-Conventions).
-
-If I want to load Twitter Bootstrap directly from the Github endpoint, I would write the following:
-
-```javascript
-  System.import('github:twbs/bootstrap@3.0/js/bootstrap');
-```
-
-The loader then sends a request to the URL `https://github.jspm.io/twbs/bootstrap@3.0/js/bootstrap.js` and the **Github endpoint server**, returns the associated code.
+When requesting a module such as `github:twbs/bootstrap@3.0/js/bootstrap.js`, this corresponds to the URL 
+`https://github.jspm.io/twbs/bootstrap@3.0/js/bootstrap.js` and the **GitHub endpoint**, returns the associated code.
 
 The registry simply remembers the `github:twbs/bootstrap` part, allowing the shortcut form:
 
@@ -40,12 +33,9 @@ The current supported endpoint servers are:
 
 * Github (SPDY optimized)
 * npm (SPDY optimized)
-* gist (SPDY optimized)
-* cdnjs
 
-For more information on endpoints, read the [Endpoint Conventions guide](https://github.com/jspm/registry/wiki/Endpoint-Conventions).
-
-### 2. Package.json Overrides (package_overrides)
+Package.json Overrides
+---
 
 The registry also provides a service for overriding the `package.json` of existing repos.
 
@@ -65,6 +55,26 @@ Submitting a pull request to the original repo is still preferable to package ov
 
 Read more about [configuring packages for jspm](https://github.com/jspm/registry/wiki/Configuring-Packages-for-jspm) in the wiki.
 
+Some examples of package.json overrides for common packages:
+* [Bootstrap](https://github.com/jspm/registry/blob/master/package-overrides/github/twbs/bootstrap%403.0.2.json)
+* [Backbone Marionette](https://github.com/jspm/registry/blob/master/package-overrides/github/marionettejs/backbone.marionette%401.2.2.json)
+
+Further examples of jspm package.json files for common packages can be found in the [package overrides](https://github.com/jspm/registry/tree/master/package-overrides) section of the registry. Pull requests are encouraged.
+
+### Testing Package Overrides
+
+Package overrides may take some testing to get exactly the right configuration. The [jspm CLI](https://github.com/jspm/jspm-cli) provides an option to specify the package override for testing in this way.
+
+Simply add the `-o` option to an install to set the package override:
+
+```
+jspm install github:twbs/bootstrap -o "{ main: 'js/bootstrap', shim: { 'js/bootstrap': ['jquery'] } }"
+```
+
+Once tested the exact override can then be included in the [jspm Registry](https://github.com/jspm/registry) with a pull request.
+
+### Submitting a Package Override
+
 To submit a new package override:
 
 * Fork this repo, then create the file `package_overrides/[endpoint name]/[repo name]@x.y.z.json.
@@ -73,8 +83,6 @@ To submit a new package override:
 * If the configuration is correct, this will be accepted and that will instantly enable the functionality on the endpoint.
 
 The overrides only apply to exact version, tag or branch names.
-
-Note that package overrides do not work for the cdnjs endpoint, so manual configuration is still necessary here.
 
 
 
