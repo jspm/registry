@@ -77,7 +77,7 @@ Once tested the exact override can then be included in the here with a pull requ
 
 To submit a new package override:
 
-* Fork this repo, then create the file `package_overrides/[endpoint name]/[repo name]@x.y.z.json.
+* Fork this repo, then create the file `package_overrides/[endpoint name]/[repo name]@x.y.z.json`.
 * Provide the correct configuration according to the configuration guide above.
 * Submit a pull request.
 * If the configuration is correct, this will be accepted and that will instantly enable the functionality on the endpoint.
