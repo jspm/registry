@@ -14,10 +14,10 @@ What it does
 
 Modules are served from _endpoint servers_. Endpoints include `github:`, `npm:` and `cdnjs:`, and anyone can submit a new endpoint, provided it meets [certain requirements](https://github.com/jspm/registry/wiki/Endpoint-Conventions).
 
-If I want to load Twitter Bootstrap directly from the Github endpoint with the [jspm loader](https://github.com/jspm/jspm-loader), I would write the following:
+If I want to load Twitter Bootstrap directly from the Github endpoint, I would write the following:
 
 ```javascript
-  jspm.import('github:twbs/bootstrap@3.0/js/bootstrap');
+  System.import('github:twbs/bootstrap@3.0/js/bootstrap');
 ```
 
 The loader then sends a request to the URL `https://github.jspm.io/twbs/bootstrap@3.0/js/bootstrap.js` and the **Github endpoint server**, returns the associated code.
@@ -25,7 +25,7 @@ The loader then sends a request to the URL `https://github.jspm.io/twbs/bootstra
 The registry simply remembers the `github:twbs/bootstrap` part, allowing the shortcut form:
 
 ```javascript
-  jspm.import('bootstrap@3.0/js/bootstrap');
+  System.import('bootstrap@3.0/js/bootstrap');
 ```
 
 The `registry.json` is just a collection of these mappings:
@@ -43,8 +43,6 @@ The current supported endpoint servers are:
 * gist (SPDY optimized)
 * cdnjs
 
-To add a new endpoint server to the registry, provide a pull request to `endpoints.json`.
-
 For more information on endpoints, read the [Endpoint Conventions guide](https://github.com/jspm/registry/wiki/Endpoint-Conventions).
 
 ### 2. Package.json Overrides (package_overrides)
@@ -57,7 +55,9 @@ This is because jspm uses the `package.json` for modular package configuration, 
 
 * Setting the main entry point (`main`)
 * Shim config for globals (`shim`)
-* Auto-enabling minification (`buildOptions.uglify`)
+* Map configuration (`map`)
+* Module format (`format`)
+* Auto-enabling minification (`buildOptions.minify`)
 
 In this way, the right package options can make any package play well with jspm, without needing any manual configuration at all.
 
