@@ -71,7 +71,7 @@ Simply add the `-o` option to an install to set the package override:
 jspm install github:twbs/bootstrap -o "{ main: 'js/bootstrap', shim: { 'js/bootstrap': ['jquery'] } }"
 ```
 
-Once tested the exact override can then be included in the [jspm Registry](https://github.com/jspm/registry) with a pull request.
+Once tested the exact override can then be included in the here with a pull request.
 
 ### Submitting a Package Override
 
