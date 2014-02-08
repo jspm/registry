@@ -7,8 +7,6 @@
   "md": "github:guybedford/system-md",
   
 
-  "angular": "bower:angular",
-  "angular-ui": "cdnjs:angular-ui/angular-ui",
   "angularFire": "github:firebase/angularFire",
   "backbone": "npm:backbone",
   "backbone.babysitter": "github:marionettejs/backbone.babysitter",
@@ -45,7 +43,6 @@
   "spin": "github:fgnass/spin.js",
   "tinygrowl": "github:ajkochanowicz/tinygrowl",
   "typeahead": "github:twitter/typeahead.js",
-  "three.js": "cdnjs:three.js",
   "underscore": "npm:underscore",
   "webfont": "cdnjs:webfont"
 }
