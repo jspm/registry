@@ -7,7 +7,7 @@
   "md": "github:guybedford/system-md",
   
 
-  "angular": "cdnjs:angular.js",
+  "angular": "bower:angular",
   "angular-ui": "cdnjs:angular-ui/angular-ui",
   "angularFire": "github:firebase/angularFire",
   "backbone": "npm:backbone",
