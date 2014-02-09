@@ -5,7 +5,10 @@
   "main": "showdown",
   "shim": {
     "showdown": {
-      exports: "showdown"
+      exports: "Showdown"
     }
+  },
+  "buildConfig": {
+    "minify": true
   }
 }
