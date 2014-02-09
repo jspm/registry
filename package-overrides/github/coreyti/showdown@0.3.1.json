@@ -3,5 +3,8 @@
     "lib": "src"
   },
   "main": "showdown",
-  "format": "cjs"
+  "format": "cjs",
+  "map": {
+    "fs": "@empty"
+  }
 }
