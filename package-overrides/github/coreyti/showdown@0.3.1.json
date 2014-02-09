@@ -3,8 +3,9 @@
     "lib": "src"
   },
   "main": "showdown",
-  "format": "cjs",
-  "map": {
-    "fs": "@empty"
+  "shim": {
+    "showdown": {
+      exports: "showdown"
+    }
   }
 }
