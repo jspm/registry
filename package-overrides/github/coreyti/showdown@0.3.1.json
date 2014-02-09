@@ -5,7 +5,7 @@
   "main": "showdown",
   "shim": {
     "showdown": {
-      exports: "Showdown"
+      "exports": "Showdown"
     }
   },
   "buildConfig": {
