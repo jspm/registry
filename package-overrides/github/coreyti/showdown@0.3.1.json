@@ -1,0 +1,7 @@
+{ 
+  "directories": { 
+    "lib": "src"
+  },
+  "main": "showdown",
+  "format": "cjs"
+}
