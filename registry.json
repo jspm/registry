@@ -40,6 +40,7 @@
   "raphael": "github:DmitryBaranovskiy/raphael",
   "respond": "github:scottjehl/Respond",
   "select2": "github:ivaynberg/select2",
+  "showdown": "github:coreyti/showdown",
   "skrollr": "github:Prinzhorn/skrollr",
   "spin": "github:fgnass/spin.js",
   "tinygrowl": "github:ajkochanowicz/tinygrowl",
