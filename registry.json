@@ -6,7 +6,6 @@
   "font": "github:guybedford/system-font",
   "md": "github:guybedford/system-md",
   
-
   "angularFire": "github:firebase/angularFire",
   "backbone": "npm:backbone",
   "backbone.babysitter": "github:marionettejs/backbone.babysitter",
@@ -30,6 +29,7 @@
   "lodash": "npm:lodash-node",
   "marionette": "github:marionettejs/backbone.marionette",
   "masonry": "github:desandro/masonry",
+  "mocha": "github:visionmedia/mocha",
   "modernizr": "github:Modernizr/Modernizr",
   "moment": "github:moment/moment",
   "mustache": "github:janl/mustache.js",
