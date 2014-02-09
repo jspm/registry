@@ -1,7 +1,3 @@
 {
-  "main": "jquery",
-  "files": ["jquery.js", "jquery.min.js", "jquery.min.map"],
-  "buildConfig": {
-    "minify": true
-  }
+  "main": "jquery.min"
 }
