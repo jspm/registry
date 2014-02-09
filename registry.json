@@ -29,7 +29,7 @@
   "lodash": "npm:lodash-node",
   "marionette": "github:marionettejs/backbone.marionette",
   "masonry": "github:desandro/masonry",
-  "mocha": "github:visionmedia/mocha",
+  "mocha": "npm:mocha",
   "modernizr": "github:Modernizr/Modernizr",
   "moment": "github:moment/moment",
   "mustache": "github:janl/mustache.js",
