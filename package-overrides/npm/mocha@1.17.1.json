@@ -1,9 +1,9 @@
 {
   "browser": "mocha",
-  "registry": null,
+  "registry": false,
   "shim": {
     "mocha": {
-      "imports": "./mocha.css!",
+      "deps": ["./mocha.css!"],
       "exports": "mocha"
     }
   }
