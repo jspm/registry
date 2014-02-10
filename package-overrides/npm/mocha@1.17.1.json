@@ -1,10 +1,15 @@
 {
   "browser": "mocha",
-  "registry": false,
   "shim": {
     "mocha": {
       "deps": ["./mocha.css!"],
       "exports": "mocha"
     }
+  },
+  "jspm": {
+    "dependencies": {
+      "css": "*"
+    },
+    "registry": "jspm"
   }
 }
