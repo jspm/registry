@@ -1,5 +1,10 @@
 {
   "browser": "mocha",
-  "dependencies": {},
-  "format": "global"
+  "registry": null,
+  "shim": {
+    "mocha": {
+      "imports": "./mocha.css!",
+      "exports": "mocha"
+    }
+  }
 }
