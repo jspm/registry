@@ -1,6 +1,7 @@
 {
   "main": "jquery",
   "files": ["jquery.js"],
+  "format": "global",
   "buildConfig": {
     "uglify": true
   }
