@@ -1,4 +1,5 @@
 {
   "browser": "mocha",
-  "dependencies": {}
+  "dependencies": {},
+  "format": "global"
 }
