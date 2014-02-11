@@ -7,8 +7,8 @@
   "configFile": "config.js",
   "registry": "jspm",
   "dependencies": {
-    "mocha": "^1.17.1",
+    "text": "master",
     "angular": "^1.2.12",
-    "text": "master"
+    "mocha": "^1.17.1"
   }
 }
