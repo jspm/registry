@@ -1,3 +1,2 @@
-suite('Angular', function() {
-  require('tests/angular');
-});
+
+  exports['Angular'] = require('tests/angular');
