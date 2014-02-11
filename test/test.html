@@ -1,0 +1,20 @@
+<!doctype html>
+<script src="jspm_packages/system@0.4.1.js"></script>
+<script src="config.js"></script>
+
+<body><div id="mocha"></div></body>
+
+<script>
+  System.import('mocha').then(function(mocha) {
+    mocha.setup('tdd');
+    System.import('tests/tests').then(function() {
+      mocha.run();
+    })
+    .catch(function(e) {
+      setTimeout(function() {
+        throw e;
+      }, 1);
+    });
+  });
+</script>
+

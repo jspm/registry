@@ -1,0 +1,13 @@
+{
+  "name": "tests",
+  "directories": {
+    "lib": "tests",
+    "dist": "dist"
+  },
+  "configFile": "config.js",
+  "registry": "jspm",
+  "dependencies": {
+    "mocha": "^1.17.1",
+    "angular": "^1.2.12"
+  }
+}
