@@ -14,7 +14,7 @@
   "bootstrap": "github:twbs/bootstrap",
   "chosen": "github:harvesthq/chosen",
   "chart": "github:nnnick/Chart.js",
-  "d3": "npm:d3",
+  "d3": "github:mbostock/d3",
   "dropzone": "github:enyo/dropzone",
   "test.js": "github:some/test",
   "font-awesome": "npm:font-awesome",
