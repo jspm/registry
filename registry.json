@@ -22,6 +22,8 @@
   "hammer": "github:EightMedia/hammer.js",
   "intro": "github:usablica/intro.js",
   "jquery": "github:components/jquery",
+  "jquery@^2.1.0": "npm:jquery",
+  "jquery@^1.11.0": "npm:jquery",
   "jquery-file-upload": "github:blueimp/jQuery-File-Upload",
   "jquery-pjax": "github:defunkt/jquery-pjax",
   "jquery.cookie": "github:carhartl/jquery-cookie",
