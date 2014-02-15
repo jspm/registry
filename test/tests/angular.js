@@ -1,7 +1,6 @@
-var someHTML = require('./angular.html!text');
+var angular = require('angular');
 
 exports['load test'] = function(done) {
-  System.import('angular').then(function() {
+  if (angular)
     done();
-  });
 }

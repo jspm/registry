@@ -7,11 +7,12 @@
   "configFile": "config.js",
   "registry": "jspm",
   "dependencies": {
-    "angular": "^1.2.12",
     "mocha": "^1.17.1",
     "text": "master",
     "bootstrap": "^3.1.1",
+    "css": "master",
     "jquery": "^2.1.0",
-    "css": "master"
+    "d3": "^3.4.1",
+    "angular": "^1.2.13"
   }
 }
