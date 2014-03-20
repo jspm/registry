@@ -82,7 +82,7 @@ To submit a new package override:
 * Submit a pull request.
 * If the configuration is correct, this will be accepted and that will instantly enable the functionality on the endpoint.
 
-The overrides only apply to exact version, tag or branch names.
+The overrides only apply to exact version, tag or branch names. When set to an exact semver version, the override will apply for all semver versions greater than that version.
 
 
 
