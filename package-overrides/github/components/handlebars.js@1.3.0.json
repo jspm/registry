@@ -4,5 +4,8 @@
     "handlebars": {
       "exports": "Handlebars"
     }
+  },
+  "buildConfig": {
+    "minify": true
   }
 }
