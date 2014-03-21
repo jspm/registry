@@ -1,7 +1,7 @@
 {
   "shim": {
     "ember": {
-      "deps": ["jquery", "handlebars"]
+      "deps": ["jquery", "handlebars.js"]
     }
   },
   "registry": "jspm",
