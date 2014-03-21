@@ -1,12 +1,16 @@
 {
   "shim": {
     "ember": {
-      "deps": ["jquery", "handlebars.js"]
+      "deps": ["jquery", "handlebars.js"],
+      "exports": "Ember"
     }
   },
   "registry": "jspm",
   "dependencies": {
     "jquery": "*",
     "handlebars.js": "^1.3.0"
+  },
+  "buildConfig": {
+    "minify": true
   }
 }
