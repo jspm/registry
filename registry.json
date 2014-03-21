@@ -16,6 +16,7 @@
   "chart": "github:nnnick/Chart.js",
   "d3": "github:mbostock/d3",
   "dropzone": "github:enyo/dropzone",
+  "ember": "github:components/ember",
   "test.js": "github:some/test",
   "font-awesome": "npm:font-awesome",
   "foundation": "github:zurb/bower-foundation",
