@@ -33,6 +33,7 @@
   "lodash": "npm:lodash-node",
   "marionette": "github:marionettejs/backbone.marionette",
   "masonry": "github:desandro/masonry",
+  "minivents": "github:allouis/minivents",
   "mocha": "npm:mocha",
   "modernizr": "github:Modernizr/Modernizr",
   "moment": "github:moment/moment",
