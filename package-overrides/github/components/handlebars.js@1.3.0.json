@@ -5,6 +5,7 @@
       "exports": "Handlebars"
     }
   },
+  "files": ["handlebars.js"],
   "buildConfig": {
     "minify": true
   }
