@@ -20,6 +20,7 @@
   "font-awesome": "npm:font-awesome",
   "foundation": "github:zurb/bower-foundation",
   "hammer": "github:EightMedia/hammer.js",
+  "handlebars.js": "github:components/handlebars.js",
   "intro": "github:usablica/intro.js",
   "jquery": "github:components/jquery",
   "jquery@1.11.0": "npm:jquery",
