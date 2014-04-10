@@ -63,15 +63,9 @@ Further examples of jspm package.json files for common packages can be found in 
 
 ### Testing Package Overrides
 
-Package overrides may take some testing to get exactly the right configuration. The [jspm CLI](https://github.com/jspm/jspm-cli) provides an option to specify the package override for testing in this way.
+Package overrides may take some testing to get exactly the right configuration.
 
-Simply add the `-o` option to an install to set the package override:
-
-```
-jspm install github:twbs/bootstrap -o "{ main: 'js/bootstrap', shim: { 'js/bootstrap': ['jquery'] } }"
-```
-
-Once tested the exact override can then be included in the here with a pull request.
+See the [testing guide within Configuration Packages for jspm](https://github.com/jspm/registry/wiki/Configuring-Packages-for-jspm#testing-configuration).
 
 ### Submitting a Package Override
 
