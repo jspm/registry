@@ -7,12 +7,13 @@
   "configFile": "config.js",
   "registry": "jspm",
   "dependencies": {
-    "mocha": "^1.17.1",
-    "text": "master",
-    "bootstrap": "^3.1.1",
-    "css": "master",
+    "npm:voxel-demo": "^0.0.1",
     "jquery": "^2.1.0",
-    "d3": "^3.4.1",
-    "angular": "^1.2.13"
+    "text": "master",
+    "mocha": "^1.17.1",
+    "d3": "^3.4.6",
+    "css": "master",
+    "angular": "^1.2.13",
+    "bootstrap": "^3.1.1"
   }
 }
