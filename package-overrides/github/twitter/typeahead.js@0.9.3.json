@@ -3,7 +3,7 @@
     "directories": {
         "lib": "dist"
     },
-    "files": ["dist/typeahead.js"],
+    "files": ["dist/typeahead.bundle.js"],
     "shim": {
         "typeahead": {
             "imports": "jquery",
