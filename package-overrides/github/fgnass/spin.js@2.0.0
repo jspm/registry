@@ -1,0 +1,7 @@
+{
+  "main": "spin",
+  "files": ["spin.js"],
+  "buildConfig": {
+    "minify": true
+  }
+}
