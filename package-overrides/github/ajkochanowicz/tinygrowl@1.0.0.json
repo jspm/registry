@@ -1,4 +1,5 @@
 {
+  "main": "tinygrowl",
   "files": ["tinygrowl.js"],
   "shim": {
     "tinygrowl": ["bootstrap@3.0"]
