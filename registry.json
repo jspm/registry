@@ -49,7 +49,7 @@
   "select2": "github:ivaynberg/select2",
   "showdown": "github:coreyti/showdown",
   "skrollr": "github:Prinzhorn/skrollr",
-  "spin": "github:fgnass/spin.js",
+  "spin": "github:fgnass/spin",
   "tinygrowl": "github:ajkochanowicz/tinygrowl",
   "typeahead": "github:twitter/typeahead.js",
   "underscore": "npm:underscore",
