@@ -8,4 +8,5 @@ exports['modal test'] = function(done) {
     done();
   });
   $('#sandbox .btn').click();
+  done();
 }

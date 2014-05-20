@@ -53,5 +53,5 @@
   "tinygrowl": "github:ajkochanowicz/tinygrowl",
   "typeahead": "github:twitter/typeahead.js",
   "underscore": "npm:underscore",
-  "webfont": "cdnjs:webfont"
+  "webfont": "github:components/webfontloader"
 }
