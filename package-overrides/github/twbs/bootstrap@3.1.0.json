@@ -6,7 +6,7 @@
   },
   "shim": {
     "js/bootstrap": {
-      "deps": ["jquery", "css"],
+      "deps": ["jquery", "../css/bootstrap.css!"],
       "exports": "$"
     }
   }
