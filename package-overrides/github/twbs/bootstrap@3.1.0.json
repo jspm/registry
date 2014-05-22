@@ -1,11 +1,12 @@
 {
   "registry": "jspm",
   "dependencies": {
-    "jquery": "*"
+    "jquery": "*",
+    "css": "*"
   },
   "shim": {
     "js/bootstrap": {
-      "deps": ["jquery"],
+      "deps": ["jquery", "css"],
       "exports": "$"
     }
   }
