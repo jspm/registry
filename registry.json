@@ -44,6 +44,7 @@
   "msgs": "github:cujojs/msgs",
   "mustache": "github:janl/mustache.js",
   "nprogress": "github:rstacruz/nprogress",
+  "nodelibs": "github:jspm/nodelibs",
   "parallax": "github:wagerfield/parallax",
   "pikaday": "github:dbushell/Pikaday",
   "poly": "github:cujojs/poly",
