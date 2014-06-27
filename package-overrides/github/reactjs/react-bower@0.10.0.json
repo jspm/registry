@@ -1,3 +1,4 @@
 {
-  "main": "react"
+  "main": "react",
+  "format": "global"
 }
