@@ -49,6 +49,7 @@
   "pikaday": "github:dbushell/Pikaday",
   "poly": "github:cujojs/poly",
   "prism": "github:LeaVerou/prism",
+  "quint": "github:jquery/qunit",
   "ratchet": "github:maker/ratchet",
   "raphael": "github:DmitryBaranovskiy/raphael",
   "reqwest": "github:ded/reqwest",
