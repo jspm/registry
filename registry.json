@@ -23,7 +23,7 @@
   "test.js": "github:some/test",
   "font-awesome": "npm:font-awesome",
   "foundation": "github:zurb/bower-foundation",
-  "hammer": "github:EightMedia/hammer.js",
+  "hammer": "github:hammerjs/hammer.js",
   "handlebars.js": "github:components/handlebars.js",
   "intro": "github:usablica/intro.js",
   "jiff": "github:cujojs/jiff",
