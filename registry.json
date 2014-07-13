@@ -33,7 +33,7 @@
   "jquery.cookie": "github:carhartl/jquery-cookie",
   "kickstrap": "github:ajkochanowicz/Kickstrap",
   "less": "github:matthewp/plugin-less",
-  "lodash": "npm:lodash-node",
+  "lodash": "npm:lodash",
   "marionette": "github:marionettejs/backbone.marionette",
   "masonry": "github:desandro/masonry",
   "meld": "github:cujojs/meld",
