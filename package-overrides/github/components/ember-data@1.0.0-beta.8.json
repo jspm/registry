@@ -1,0 +1,13 @@
+{
+  "registry": "jspm",
+  "dependencies": {
+    "ember": “> 1.0.0”
+  },
+  "shim": {
+    "ember-data": {
+      "deps": [
+        "ember"
+      ]
+    }
+  }
+}
