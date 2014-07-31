@@ -20,6 +20,7 @@
   "d3": "github:mbostock/d3",
   "dropzone": "github:enyo/dropzone",
   "ember": "github:components/ember",
+  "ember-data": "github:components/ember-data",
   "test.js": "github:some/test",
   "font-awesome": "npm:font-awesome",
   "foundation": "github:zurb/bower-foundation",
