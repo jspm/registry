@@ -1,7 +1,7 @@
 {
   "registry": "jspm",
   "dependencies": {
-    "ember": "github:components/ember@1.6.1"
+    "ember": “> 1.0.0”
   },
   "shim": {
     "ember-data": {
