@@ -1,0 +1,8 @@
+{
+  "main": "angular-mocks",
+  "shim": {
+    "angular-mocks": {
+      "deps": ["angular"]
+    }
+  }
+}
