@@ -1,0 +1,11 @@
+{
+  "main": "angular-mocks",
+  "shim": {
+    "angular-mocks": {
+      "deps": ["angular"]
+    }
+  },
+  "dependencies": {
+  	"angular": "^1.2.20"
+  }
+}
