@@ -26,6 +26,7 @@
   "font-awesome": "npm:font-awesome",
   "foundation": "github:zurb/bower-foundation",
   "hammer": "github:hammerjs/hammer.js",
+  "handlebars": "github:components/handlebars.js",
   "handlebars.js": "github:components/handlebars.js",
   "intro": "github:usablica/intro.js",
   "jiff": "github:cujojs/jiff",
