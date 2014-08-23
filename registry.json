@@ -5,8 +5,9 @@
   "text": "github:systemjs/plugin-text",
   "font": "github:guybedford/system-font",
   "md": "github:guybedford/system-md",
-  
+
   "angular": "github:angular/bower-angular",
+  "angular-mocks": "github:angular/bower-angular-mocks",
   "angularFire": "github:firebase/angularFire",
   "backbone": "npm:backbone",
   "backbone.babysitter": "github:marionettejs/backbone.babysitter",
@@ -25,6 +26,7 @@
   "font-awesome": "npm:font-awesome",
   "foundation": "github:zurb/bower-foundation",
   "hammer": "github:hammerjs/hammer.js",
+  "handlebars": "github:components/handlebars.js",
   "handlebars.js": "github:components/handlebars.js",
   "intro": "github:usablica/intro.js",
   "jiff": "github:cujojs/jiff",
