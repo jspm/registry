@@ -6,6 +6,7 @@
   "font": "github:guybedford/system-font",
   "md": "github:guybedford/system-md",
 
+  "ace": "github:ajaxorg/ace-builds",
   "angular": "github:angular/bower-angular",
   "angular-mocks": "github:angular/bower-angular-mocks",
   "angularFire": "github:firebase/angularFire",

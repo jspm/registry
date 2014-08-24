@@ -1,0 +1,12 @@
+{
+  "main": "ace",
+  "format": "global",
+  "directories": {
+    "lib": "src"
+  },
+  "shim": {
+    "ace": {
+      "exports": "ace"
+    }
+  }
+}
