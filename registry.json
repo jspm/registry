@@ -57,7 +57,7 @@
   "ratchet": "github:maker/ratchet",
   "raphael": "github:DmitryBaranovskiy/raphael",
   "reqwest": "github:ded/reqwest",
-  "react": "github:reactjs/react-bower",
+  "react": "npm:react",
   "respond": "github:scottjehl/Respond",
   "rest": "github:cujojs/rest",
   "select2": "github:ivaynberg/select2",
