@@ -1,0 +1,7 @@
+{
+  "main": "index",
+  "directories": {
+    "lib": "src"
+  },
+  "format": "es6"
+}
