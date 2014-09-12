@@ -9,6 +9,7 @@
   "ace": "github:ajaxorg/ace-builds",
   "angular": "github:angular/bower-angular",
   "angular-mocks": "github:angular/bower-angular-mocks",
+  "angular-cookies": "github:angular/bower-angular-cookies",
   "angularFire": "github:firebase/angularFire",
   "backbone": "npm:backbone",
   "backbone.babysitter": "github:marionettejs/backbone.babysitter",
