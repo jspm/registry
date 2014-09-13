@@ -21,6 +21,7 @@
   "cram": "github:cujojs/cram",
   "curl": "github:cujojs/curl",
   "d3": "github:mbostock/d3",
+  "di": "github:angular/di.js",
   "dropzone": "github:enyo/dropzone",
   "ember": "github:components/ember",
   "ember-data": "github:components/ember-data",
