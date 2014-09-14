@@ -1,7 +1,7 @@
 {
-  "main": "angular-cookies",
+  "main": "angular-animate",
   "shim": {
-    "angular-cookies": {
+    "angular-animate": {
       "deps": ["angular"]
     }
   },
