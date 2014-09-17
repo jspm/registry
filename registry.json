@@ -12,6 +12,7 @@
   "angular-cookies": "github:angular/bower-angular-cookies",
   "angular-animate": "github:angular/bower-angular-animate",
   "angular-material": "github:angular/bower-material",
+  "angular-ui-router": "github:angular-ui/ui-router",
   "angularFire": "github:firebase/angularFire",
   "backbone": "npm:backbone",
   "backbone.babysitter": "github:marionettejs/backbone.babysitter",
