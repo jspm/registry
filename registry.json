@@ -69,6 +69,7 @@
   "showdown": "github:coreyti/showdown",
   "skrollr": "github:Prinzhorn/skrollr",
   "spin": "github:fgnass/spin.js",
+  "jsplumb": "github:sporritt/jsPlumb",
   "tinygrowl": "github:ajkochanowicz/tinygrowl",
   "typeahead": "github:twitter/typeahead.js",
   "underscore": "npm:underscore",
