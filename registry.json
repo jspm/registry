@@ -35,6 +35,7 @@
   "handlebars": "github:components/handlebars.js",
   "handlebars.js": "github:components/handlebars.js",
   "intro": "github:usablica/intro.js",
+  "jcrop": "github:tapmodo/Jcrop",
   "jiff": "github:cujojs/jiff",
   "jquery": "github:components/jquery",
   "jquery-file-upload": "github:blueimp/jQuery-File-Upload",
