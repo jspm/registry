@@ -1,11 +1,13 @@
 {
   "main": "js/jquery.Jcrop",
   "dependencies": {
-    "jquery": "*"
+    "jquery": "*",
+    "css": "*"
   },
   "shim": {
     "js/jquery.Jcrop": [
-      "jquery"
+      "jquery",
+      "../css/jquery.Jcrop.css!"
     ]
   },
   "files": [
