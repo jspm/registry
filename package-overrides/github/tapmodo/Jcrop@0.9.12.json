@@ -1,0 +1,16 @@
+{
+  "main": "js/jquery.Jcrop",
+  "shim": {
+    "js/jquery.Jcrop": [
+      "jquery"
+    ]
+  },
+  "files": [
+    "js/jquery.Jcrop.js",
+    "css/Jcrop.gif",
+    "css/jquery.Jcrop.css"
+  ],
+  "buildConfig": {
+    "uglify": true
+  }
+}
