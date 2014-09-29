@@ -1,0 +1,19 @@
+{
+  "main": "js/jquery.Jcrop",
+  "dependencies": {
+    "jquery": "*"
+  },
+  "shim": {
+    "js/jquery.Jcrop": [
+      "jquery"
+    ]
+  },
+  "files": [
+    "js/jquery.Jcrop.js",
+    "css/Jcrop.gif",
+    "css/jquery.Jcrop.css"
+  ],
+  "buildConfig": {
+    "uglify": true
+  }
+}
