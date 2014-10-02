@@ -13,6 +13,7 @@
   "angular-animate": "github:angular/bower-angular-animate",
   "angular-material": "github:angular/bower-material",
   "angular-ui-router": "github:angular-ui/ui-router",
+  "angular-ui-router-extras": "github:christopherthielen/ui-router-extras",
   "angularFire": "github:firebase/angularFire",
   "backbone": "npm:backbone",
   "backbone.babysitter": "github:marionettejs/backbone.babysitter",
