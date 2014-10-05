@@ -30,6 +30,8 @@
   "ember": "github:components/ember",
   "ember-data": "github:components/ember-data",
   "test.js": "github:some/test",
+  "famous": "github:Famous/famous",
+  "famous-angular": "github:Famous/famous-angular",
   "font-awesome": "npm:font-awesome",
   "foundation": "github:zurb/bower-foundation",
   "hammer": "github:hammerjs/hammer.js",
