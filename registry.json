@@ -71,7 +71,7 @@
   "respond": "github:scottjehl/Respond",
   "rest": "github:cujojs/rest",
   "select2": "github:ivaynberg/select2",
-  "showdown": "github:coreyti/showdown",
+  "showdown": "github:showdownjs/showdown",
   "skrollr": "github:Prinzhorn/skrollr",
   "spin": "github:fgnass/spin.js",
   "tinygrowl": "github:ajkochanowicz/tinygrowl",
