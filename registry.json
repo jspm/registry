@@ -58,6 +58,7 @@
   "moment": "github:moment/moment",
   "msgs": "github:cujojs/msgs",
   "mustache": "github:janl/mustache.js",
+  "ng-multi-transclude": "github:zachsnow/ng-multi-transclude",
   "nprogress": "github:rstacruz/nprogress",
   "nodelibs": "github:jspm/nodelibs",
   "parallax": "github:wagerfield/parallax",
