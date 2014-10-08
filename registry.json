@@ -68,6 +68,7 @@
   "raphael": "github:DmitryBaranovskiy/raphael",
   "reqwest": "github:ded/reqwest",
   "react": "github:reactjs/react-bower",
+  "react-router": "github:rackt/react-router",
   "respond": "github:scottjehl/Respond",
   "rest": "github:cujojs/rest",
   "select2": "github:ivaynberg/select2",
