@@ -1,0 +1,15 @@
+{
+  "main": "angular-cookies",
+  "shim": {
+    "angular-cookies": {
+      "deps": ["angular"]
+    }
+  },
+  "registry": "jspm",
+  "dependencies": {
+    "angular": "^1.3.0-rc.1"
+  },
+  "buildConfig": {
+    "minify": true
+  }
+}
