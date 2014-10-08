@@ -14,6 +14,7 @@
   "angular-material": "github:angular/bower-material",
   "angular-ui-router": "github:angular-ui/ui-router",
   "angular-ui-router-extras": "github:christopherthielen/ui-router-extras",
+  "angular-ui-tree": "github:JimLiu/angular-ui-tree",
   "angularFire": "github:firebase/angularFire",
   "backbone": "npm:backbone",
   "backbone.babysitter": "github:marionettejs/backbone.babysitter",
