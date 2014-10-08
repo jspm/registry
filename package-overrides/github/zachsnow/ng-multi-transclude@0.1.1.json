@@ -1,3 +1,6 @@
 {
-  "main": "src/multi-transclude"
+  "main": "multi-transclude",
+  "directories": {
+    "lib": "src"
+  }
 }
