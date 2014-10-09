@@ -1,0 +1,12 @@
+{
+    "registry": "jspm",
+    "dependencies": {
+        "famous-polyfills": "*",
+        "css": "*"
+    },
+    "shim": {
+        "src/*/*": {
+            deps: ['famous-polyfills', '../core/famous.css!']
+        }
+    }
+}

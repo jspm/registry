@@ -1,0 +1,14 @@
+{
+    "registry": "jspm",
+    "main": "dist/famous-angular",
+    "dependencies": {
+        "famous": "*",
+        "angular": "*",
+        "css": "*"
+    },
+    "shim": {
+        "dist/famous-angular": {
+            deps: ['./famous-angular.css!']
+        }
+    }
+}
