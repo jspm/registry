@@ -48,6 +48,7 @@
   "backbone": "npm:backbone",
   "backbone.babysitter": "github:marionettejs/backbone.babysitter",
   "backbone.wreqr": "github:marionettejs/backbone.wreqr",
+  "big.js": "github:MikeMcl/big.js",
   "bootstrap": "github:twbs/bootstrap",
   "buffer": "github:jspm/nodelibs-buffer",
   "chart": "github:nnnick/Chart.js",
