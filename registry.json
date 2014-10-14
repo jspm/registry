@@ -64,6 +64,7 @@
   "parallax": "github:wagerfield/parallax",
   "pikaday": "github:dbushell/Pikaday",
   "poly": "github:cujojs/poly",
+  "pouchdb": "github:pouchdb/pouchdb",
   "prism": "github:LeaVerou/prism",
   "quint": "github:jquery/qunit",
   "raphael": "github:DmitryBaranovskiy/raphael",
