@@ -1,0 +1,15 @@
+{
+  "main": "angular-route",
+  "shim": {
+    "angular-route": {
+      "deps": ["angular"]
+    }
+  },
+  "registry": "jspm",
+  "dependencies": {
+    "angular": "^1.3.0"
+  },
+  "buildConfig": {
+    "minify": true
+  }
+}
