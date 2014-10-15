@@ -9,6 +9,7 @@
   "ace": "github:ajaxorg/ace-builds",
   "angular": "github:angular/bower-angular",
   "angular-animate": "github:angular/bower-angular-animate",
+  "angular-aria": "github:angular/bower-angular-aria",
   "angular-cookies": "github:angular/bower-angular-cookies",
   "angular-material": "github:angular/bower-material",
   "angular-mocks": "github:angular/bower-angular-mocks",
