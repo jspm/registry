@@ -1,0 +1,6 @@
+{
+  "main": "angular-ui-tree.min",
+  "directories": {
+    "lib": "dist"
+  }
+}
