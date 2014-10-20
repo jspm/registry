@@ -1,0 +1,7 @@
+{
+  "directories": {
+    "lib": "cjs"
+  },
+  "format": "cjs",
+  "main": "main"
+}
