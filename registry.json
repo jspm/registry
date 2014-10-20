@@ -53,6 +53,7 @@
   "lodash": "npm:lodash-node",
   "marionette": "github:marionettejs/backbone.marionette",
   "masonry": "github:desandro/masonry",
+  "material-design-icons": "github:google/material-design-icons",
   "meld": "github:cujojs/meld",
   "minivents": "github:allouis/minivents",
   "mocha": "npm:mocha",
