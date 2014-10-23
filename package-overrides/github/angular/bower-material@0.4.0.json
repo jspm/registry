@@ -2,7 +2,12 @@
   "main": "angular-material",
   "shim": {
     "angular-material": {
-      "deps": ["angular"]
+      "deps": [
+        "angular",
+        "hammer",
+        "angular-animate",
+        "angular-aria"
+      ]
     }
   },
   "registry": "jspm",
