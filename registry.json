@@ -14,6 +14,7 @@
   "angular-cookies": "github:angular/bower-angular-cookies",
   "angular-material": "github:angular/bower-material",
   "angular-mocks": "github:angular/bower-angular-mocks",
+  "angular-route": "github:angular/bower-angular-route",
   "angular-ui-router": "github:angular-ui/ui-router",
   "angular-ui-router-extras": "github:christopherthielen/ui-router-extras",
   "angular-ui-tree": "github:JimLiu/angular-ui-tree",
