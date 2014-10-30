@@ -51,7 +51,7 @@
   "jsplumb": "github:sporritt/jsPlumb",
   "kickstrap": "github:ajkochanowicz/Kickstrap",
   "less": "github:matthewp/plugin-less",
-  "lodash": "npm:lodash-node",
+  "lodash": "npm:lodash",
   "marionette": "github:marionettejs/backbone.marionette",
   "masonry": "github:desandro/masonry",
   "material-design-icons": "github:google/material-design-icons",
