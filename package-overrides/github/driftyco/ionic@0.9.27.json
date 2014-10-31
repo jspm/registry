@@ -1,0 +1,15 @@
+{
+  "directories": {
+    "lib": "release"
+  },
+  "main": "js/ionic",
+  "shim": {
+    "js/ionic": {
+      "deps": ["../css/ionic.css!"]
+    }
+  },
+  "registry": "jspm",
+  "dependencies": {
+    "css": "0.1.0"
+  }
+}

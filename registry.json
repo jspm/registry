@@ -42,6 +42,7 @@
   "handlebars": "github:components/handlebars.js",
   "handlebars.js": "github:components/handlebars.js",
   "intro": "github:usablica/intro.js",
+  "ionic": "github:driftyco/ionic",
   "jcrop": "github:tapmodo/Jcrop",
   "jiff": "github:cujojs/jiff",
   "jquery": "github:components/jquery",
