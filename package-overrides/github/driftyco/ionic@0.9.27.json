@@ -8,7 +8,7 @@
       "deps": ["../css/ionic.css!"]
     },
     "js/ionic-angular": {
-      "deps": ["angular"]
+      "deps": ["angular", "./ionic"]
     }
   },
   "registry": "jspm",
