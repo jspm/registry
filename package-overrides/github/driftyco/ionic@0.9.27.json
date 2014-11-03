@@ -6,10 +6,14 @@
   "shim": {
     "js/ionic": {
       "deps": ["../css/ionic.css!"]
+    },
+    "js/ionic-angular": {
+      "deps": ["angular"]
     }
   },
   "registry": "jspm",
   "dependencies": {
-    "css": "0.1.0"
+    "css": "0.1.0",
+    "angular": "^1.3.1"
   }
 }
