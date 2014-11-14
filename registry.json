@@ -18,6 +18,7 @@
   "angular-ui-router": "github:angular-ui/ui-router",
   "angular-ui-router-extras": "github:christopherthielen/ui-router-extras",
   "angular-ui-tree": "github:JimLiu/angular-ui-tree",
+  "angular-sanitize": "github:angular/bower-angular-sanitize",
   "angularFire": "github:firebase/angularFire",
   "backbone": "npm:backbone",
   "backbone.babysitter": "github:marionettejs/backbone.babysitter",
