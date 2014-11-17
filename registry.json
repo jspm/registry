@@ -76,6 +76,7 @@
   "quint": "github:jquery/qunit",
   "raphael": "github:DmitryBaranovskiy/raphael",
   "ratchet": "github:maker/ratchet",
+  "raven-js": "github:getsentry/raven-js",
   "react": "npm:react",
   "react-router": "npm:react-router",
   "reqwest": "github:ded/reqwest",
