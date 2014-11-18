@@ -1,8 +1,5 @@
 {
     "registry": "jspm",
-    "directories": {
-        "lib": "release"
-    },
     "main": "js/ionic-angular",
     "shim": {
         "js/ionic-angular": {
