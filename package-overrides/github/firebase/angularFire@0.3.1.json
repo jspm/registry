@@ -1,7 +1,7 @@
 {
   "files": ["angularFire.js"],
   "shim": {
-    "angularFire": ["angular"]
+    "angularFire": ["firebase", "angular"]
   },
   "buildConfig": {
     "uglify": "true"
