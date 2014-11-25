@@ -1,0 +1,13 @@
+{
+  "files": ["angularfire.js"],
+  "shim": {
+    "angularFire": ["firebase", "angular"]
+  },
+  "buildConfig": {
+    "uglify": "true"
+  },
+  "dependencies": {
+    "angular": "^1.3.2",
+    "firebase": "^2.0.4"
+  }
+}
