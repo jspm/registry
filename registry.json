@@ -20,6 +20,7 @@
   "angular-ui-tree": "github:JimLiu/angular-ui-tree",
   "angular-sanitize": "github:angular/bower-angular-sanitize",
   "angularFire": "github:firebase/angularFire",
+  "firebase": "github:firebase/firebase-bower",
   "backbone": "npm:backbone",
   "backbone.babysitter": "github:marionettejs/backbone.babysitter",
   "backbone.wreqr": "github:marionettejs/backbone.wreqr",

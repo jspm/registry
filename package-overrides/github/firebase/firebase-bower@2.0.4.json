@@ -1,0 +1,7 @@
+{
+  "main": "firebase",
+  "registry": "jspm",
+  "buildConfig": {
+    "minify": true
+  }
+}
