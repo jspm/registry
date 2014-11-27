@@ -2,7 +2,7 @@
   "directories": {
     "lib": "dist"
   },
-  "files": ["angularfire.js"],
+  "files": ["dist/angularfire.js"],
   "shim": {
     "angularfire": ["firebase", "angular"]
   },
