@@ -4,7 +4,7 @@
     "shim": {
         "js/ionic-angular": {
             "deps": [
-                "../css/ionic.css!",
+                "../css/ionic.min.css!",
                 "./ionic",
                 "angular",
                 "angular-animate",
