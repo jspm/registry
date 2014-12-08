@@ -1,0 +1,14 @@
+{
+  "directories": {
+    "lib": "dist"
+  },
+  "files": ["dist/angularfire.js"],
+  "shim": {
+    "angularfire": ["firebase", "angular"]
+  },
+  "registry": "jspm",
+  "dependencies": {
+    "angular": "^1.3.2",
+    "firebase": "^2.0.4"
+  }
+}
