@@ -81,6 +81,7 @@
   "raven-js": "github:getsentry/raven-js",
   "react": "npm:react",
   "react-router": "npm:react-router",
+  "reflux": "npm:reflux",
   "reqwest": "github:ded/reqwest",
   "respond": "github:scottjehl/Respond",
   "rest": "github:cujojs/rest",
