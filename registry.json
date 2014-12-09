@@ -5,6 +5,7 @@
   "json": "github:systemjs/plugin-json",
   "md": "github:guybedford/system-md",
   "text": "github:systemjs/plugin-text",
+  "jsx": "github:floatdrop/plugin-jsx",
 
   "extra": "thing",
   "ace": "github:ajaxorg/ace-builds",
