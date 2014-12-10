@@ -97,5 +97,6 @@
   "underscore": "npm:underscore",
   "webfont": "github:components/webfontloader",
   "when": "github:cujojs/when",
-  "wire": "github:cujojs/wire"
+  "wire": "github:cujojs/wire",
+  "xlsjs": "github:SheetJS/js-xls"
 }
