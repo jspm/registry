@@ -1,0 +1,14 @@
+{
+    "main": "flowtype",
+    "shim": {
+        "flowtype": {
+            "deps": [
+                "jquery"
+            ]
+        }
+    },
+    "registry": "jspm",
+    "dependencies": {
+        "jquery": "jquery@^2.1.2"
+    }
+}
