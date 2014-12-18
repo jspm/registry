@@ -9,6 +9,6 @@
     },
     "registry": "jspm",
     "dependencies": {
-        "jquery": "jquery@^2.1.2"
+        "jquery": "jquery@^2.1.1"
     }
 }
