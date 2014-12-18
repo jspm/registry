@@ -2,6 +2,7 @@
     "main": "jquery.hammer.js",
     "registry": "jspm",
     "dependencies": {
+    	"hammerjs": "hammer@^2.0.4",
         "jquery": "jquery@^2.1.1"
     }
 }
