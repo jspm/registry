@@ -62,6 +62,7 @@
   "famous": "github:Famous/famous",
   "famous-angular": "github:Famous/famous-angular",
   "famous-polyfills": "github:Famous/polyfills",
+  "flowtype": "github:simplefocus/FlowType.JS",
   "font-awesome": "npm:font-awesome",
   "foundation": "github:zurb/bower-foundation",
   "hammer": "github:hammerjs/hammer.js",
