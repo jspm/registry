@@ -1,0 +1,14 @@
+{
+  "main": "dist/sofa.stateResolverService",
+  "shim": {
+    "sofa-state-resolver-service": {
+      "deps": [
+        "sofa-core"
+      ]
+    }
+  },
+  "registry": "jspm",
+  "dependencies": {
+    "sofa-core": "~0.6.1"
+  }
+}

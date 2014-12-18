@@ -1,0 +1,20 @@
+{
+  "main": "dist/sofa.userService",
+  "shim": {
+    "sofa-user-service": {
+      "deps": [
+        "sofa-core",
+        "sofa-storages",
+        "sofa-q-service",
+        "sofa-http-service"
+      ]
+    }
+  },
+  "registry": "jspm",
+  "dependencies": {
+    "sofa-core": "~0.13",
+    "sofa-storages": "~0.4",
+    "sofa-q-service": "~0.3",
+    "sofa-http-service": "~0.5"
+  }
+}

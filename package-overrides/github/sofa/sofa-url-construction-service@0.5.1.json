@@ -1,0 +1,14 @@
+{
+  "main": "dist/sofa.urlConstructionService",
+  "shim": {
+    "sofa-url-construction-service": {
+      "deps": [
+        "sofa-core"
+      ]
+    }
+  },
+  "registry": "jspm",
+  "dependencies": {
+    "sofa-core": "~0.3"
+  }
+}

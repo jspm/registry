@@ -1,0 +1,24 @@
+{
+  "main": "dist/sofa.checkoutService",
+  "shim": {
+    "sofa-checkout-service": {
+      "deps": [
+        "sofa-core",
+        "sofa-http-service",
+        "sofa-logging-service",
+        "sofa-basket-service",
+        "sofa-q-service",
+        "sofa-storages"
+      ]
+    }
+  },
+  "registry": "jspm",
+  "dependencies": {
+    "sofa-core": "~0.13",
+    "sofa-http-service": "~0.5",
+    "sofa-logging-service": "~0.3",
+    "sofa-basket-service": "~0.4",
+    "sofa-q-service": "~0.3",
+    "sofa-storages": "~0.4"
+  }
+}

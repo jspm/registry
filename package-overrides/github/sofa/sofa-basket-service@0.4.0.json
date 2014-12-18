@@ -1,0 +1,16 @@
+{
+  "main": "dist/sofa.basketService",
+  "shim": {
+    "sofa-basket-service": {
+      "deps": [
+        "sofa-core",
+        "sofa-storages"
+      ]
+    }
+  },
+  "registry": "jspm",
+  "dependencies": {
+    "sofa-core": "^0.7.0",
+    "sofa-storages": " 0.2.0"
+  }
+}

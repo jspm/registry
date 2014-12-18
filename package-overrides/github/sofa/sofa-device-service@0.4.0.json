@@ -1,0 +1,14 @@
+{
+  "main": "dist/sofa.deviceService",
+  "shim": {
+    "sofa-device-service": {
+      "deps": [
+        "sofa-core"
+      ]
+    }
+  },
+  "registry": "jspm",
+  "dependencies": {
+    "sofa-core": "~0.1"
+  }
+}

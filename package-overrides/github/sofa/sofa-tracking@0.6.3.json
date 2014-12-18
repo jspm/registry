@@ -1,0 +1,14 @@
+{
+  "main": "dist/sofa.tracking",
+  "shim": {
+    "sofa-tracking": {
+      "deps": [
+        "sofa-core"
+      ]
+    }
+  },
+  "registry": "jspm",
+  "dependencies": {
+    "sofa-core": "~0.1"
+  }
+}
