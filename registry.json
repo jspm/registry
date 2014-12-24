@@ -118,6 +118,7 @@
   "tinygrowl": "github:ajkochanowicz/tinygrowl",
   "trusktr-famous": "github:trusktr/famous",
   "typeahead": "github:twitter/typeahead.js",
+  "ua-parser-js": "npm:ua-parser-js",
   "underscore": "npm:underscore",
   "webfont": "github:components/webfontloader",
   "when": "github:cujojs/when",
