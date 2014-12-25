@@ -55,7 +55,7 @@
   "cram": "github:cujojs/cram",
   "curl": "github:cujojs/curl",
   "d3": "github:mbostock/d3",
-  "decimal.js": "github:MikeMcl/decimal.js",
+  "decimal.js": "npm:decimal.js",
   "di": "github:angular/di.js",
   "dropzone": "github:enyo/dropzone",
   "ember": "github:components/ember",
