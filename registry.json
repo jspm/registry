@@ -60,6 +60,7 @@
   "dropzone": "github:enyo/dropzone",
   "ember": "github:components/ember",
   "ember-data": "github:components/ember-data",
+  "es6-promise": "es6-promise",
   "famous": "github:Famous/famous",
   "famous-angular": "github:Famous/famous-angular",
   "famous-polyfills": "github:Famous/polyfills",
