@@ -153,5 +153,6 @@
   "when": "github:cujojs/when",
   "wire": "github:cujojs/wire",
   "xlsjs": "github:SheetJS/js-xls",
-  "xlsx": "github:SheetJS/js-xlsx"
+  "xlsx": "github:SheetJS/js-xlsx",
+  "zlib": "github:jspm/nodelibs-zlib"
 }
