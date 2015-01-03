@@ -69,6 +69,8 @@
   "dropzone": "github:enyo/dropzone",
   "ember": "github:components/ember",
   "ember-data": "github:components/ember-data",
+  "es5-shim": "github:es-shims/es5-shim",
+  "es6-shim": "github:es-shims/es6-shim",
   "events": "github:jspm/nodelibs-events",
   "famous": "github:Famous/famous",
   "famous-angular": "github:Famous/famous-angular",
