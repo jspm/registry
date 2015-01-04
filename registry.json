@@ -134,6 +134,7 @@
   "reqwest": "github:ded/reqwest",
   "respond": "github:scottjehl/Respond",
   "rest": "github:cujojs/rest",
+  "rx": "npm:rx",
   "select2": "github:ivaynberg/select2",
   "showdown": "github:showdownjs/showdown",
   "skrollr": "github:Prinzhorn/skrollr",
