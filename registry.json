@@ -84,6 +84,7 @@
   "handlebars.js": "github:components/handlebars.js",
   "http": "github:jspm/nodelibs-http",
   "https": "github:jspm/nodelibs-https",
+  "infamous": "github:infamous/infamous",
   "intro": "github:usablica/intro.js",
   "ionic": "github:driftyco/ionic-bower",
   "jcrop": "github:tapmodo/Jcrop",
