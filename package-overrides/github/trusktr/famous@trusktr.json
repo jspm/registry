@@ -1,0 +1,13 @@
+{
+    "directories": {
+        "lib": "src"
+    },
+    "dependencies": {
+        "css": "^0.1.0"
+    },
+    "shim": {
+        "*/*": {
+            "deps": ["../core/famous.css!"]
+        }
+    }
+}
