@@ -3,12 +3,11 @@
         "lib": "src"
     },
     "dependencies": {
-        "famous-polyfills": "^0.3.0",
         "css": "^0.1.0"
     },
     "shim": {
         "*/*": {
-            "deps": ["famous-polyfills", "../core/famous.css!"]
+            "deps": ["../core/famous.css!"]
         }
     }
 }
