@@ -145,7 +145,6 @@
   "timers": "github:jspm/nodelibs-timers",
   "tinygrowl": "github:ajkochanowicz/tinygrowl",
   "tls": "github:jspm/nodelibs-tls",
-  "trusktr-famous": "github:trusktr/famous@jspm",
   "tty": "github:jspm/nodelibs-tty",
   "typeahead": "github:twitter/typeahead.js",
   "ua-parser-js": "npm:ua-parser-js",
