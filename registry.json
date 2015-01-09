@@ -145,6 +145,7 @@
   "spin": "github:fgnass/spin.js",
   "stream": "github:jspm/nodelibs-stream",
   "string_decoder": "github:jspm/nodelibs-string_decoder",
+  "theseus": "github:argo-rest/theseus",
   "timers": "github:jspm/nodelibs-timers",
   "tinygrowl": "github:ajkochanowicz/tinygrowl",
   "tls": "github:jspm/nodelibs-tls",
