@@ -150,6 +150,7 @@
   "tinygrowl": "github:ajkochanowicz/tinygrowl",
   "tls": "github:jspm/nodelibs-tls",
   "tty": "github:jspm/nodelibs-tty",
+  "twitter": "npm:twitter",
   "typeahead": "github:twitter/typeahead.js",
   "ua-parser-js": "npm:ua-parser-js",
   "underscore": "npm:underscore",
