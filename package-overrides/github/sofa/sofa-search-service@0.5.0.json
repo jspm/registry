@@ -1,0 +1,14 @@
+{
+  "main": "dist/sofa.searchService",
+  "shim": {
+    "sofa-search-service": {
+      "deps": [
+        "sofa-core"
+      ]
+    }
+  },
+  "registry": "jspm",
+  "dependencies": {
+    "sofa-core": "~0.1"
+  }
+}

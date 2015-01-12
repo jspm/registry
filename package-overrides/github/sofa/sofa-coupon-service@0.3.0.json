@@ -1,0 +1,26 @@
+{
+  "main": "dist/sofa.couponService",
+  "shim": {
+    "sofa-coupon-service": {
+      "deps": [
+        "sofa-core",
+        "sofa-http-service",
+        "sofa-q-service",
+        "sofa-basket-service",
+        "sofa-checkout-service",
+        "sofa-logging-service",
+        "sofa-storages"
+      ]
+    }
+  },
+  "registry": "jspm",
+  "dependencies": {
+    "sofa-core": "~0.6",
+    "sofa-http-service": "~0.2",
+    "sofa-q-service": "~0.1",
+    "sofa-basket-service": "~0.1",
+    "sofa-checkout-service": "~0.1",
+    "sofa-logging-service": "~0.1",
+    "sofa-storages": "~0.2"
+  }
+}

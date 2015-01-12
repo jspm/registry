@@ -1,0 +1,14 @@
+{
+  "main": "dist/sofa.imageResizerService",
+  "shim": {
+    "sofa-image-resizer-service": {
+      "deps": [
+        "sofa-core"
+      ]
+    }
+  },
+  "registry": "jspm",
+  "dependencies": {
+    "sofa-core": "~0.6.1"
+  }
+}

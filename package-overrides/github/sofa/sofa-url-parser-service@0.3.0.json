@@ -1,0 +1,14 @@
+{
+  "main": "dist/sofa.urlParserService",
+  "shim": {
+    "sofa-url-parser-service": {
+      "deps": [
+        "sofa-core"
+      ]
+    }
+  },
+  "registry": "jspm",
+  "dependencies": {
+    "sofa-core": "~0.3"
+  }
+}

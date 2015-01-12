@@ -1,0 +1,4 @@
+{
+  "main": "dist/sofa.core",
+  "registry": "jspm"
+}

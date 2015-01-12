@@ -1,0 +1,14 @@
+{
+  "main": "dist/sofa.qService",
+  "shim": {
+    "sofa-q-service": {
+      "deps": [
+        "sofa-core"
+      ]
+    }
+  },
+  "registry": "jspm",
+  "dependencies": {
+    "sofa-core": "~0.4"
+  }
+}

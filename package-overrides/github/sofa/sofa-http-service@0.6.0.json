@@ -1,0 +1,16 @@
+{
+  "main": "dist/sofa.httpService",
+  "shim": {
+    "sofa-http-service": {
+      "deps": [
+        "sofa-core",
+        "sofa-q-service"
+      ]
+    }
+  },
+  "registry": "jspm",
+  "dependencies": {
+    "sofa-core": "~0.13",
+    "sofa-q-service": "~0.3"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "main": "dist/sofa.loggingService",
+  "shim": {
+    "sofa-logging-service": {
+      "deps": [
+        "sofa-core"
+      ]
+    }
+  },
+  "registry": "jspm",
+  "dependencies": {
+    "sofa-core": "~0.1"
+  }
+}

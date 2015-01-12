@@ -1,0 +1,14 @@
+{
+  "main": "dist/sofa.storages",
+  "shim": {
+    "sofa-storages": {
+      "deps": [
+        "sofa-core"
+      ]
+    }
+  },
+  "registry": "jspm",
+  "dependencies": {
+    "sofa-core": "~0.1"
+  }
+}

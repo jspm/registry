@@ -1,0 +1,16 @@
+{
+  "main": "dist/sofa.wishlistService",
+  "shim": {
+    "sofa-wishlist-service": {
+      "deps": [
+        "sofa-core",
+        "sofa-storages"
+      ]
+    }
+  },
+  "registry": "jspm",
+  "dependencies": {
+    "sofa-core": "~0.6.1",
+    "sofa-storages": "~0.2"
+  }
+}
