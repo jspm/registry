@@ -118,6 +118,7 @@
   "os": "github:jspm/nodelibs-os",
   "parallax": "github:wagerfield/parallax",
   "path": "github:jspm/nodelibs-path",
+  "phaser": "github:photonstorm/phaser",
   "pikaday": "github:dbushell/Pikaday",
   "poly": "github:cujojs/poly",
   "postal": "npm:postal",
