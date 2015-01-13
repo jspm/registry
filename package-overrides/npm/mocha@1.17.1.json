@@ -6,10 +6,8 @@
       "exports": "mocha"
     }
   },
-  "jspm": {
-    "dependencies": {
-      "css": "*"
-    },
-    "registry": "jspm"
-  }
+  "dependencies": {
+    "css": "*"
+  },
+  "registry": "jspm"
 }
