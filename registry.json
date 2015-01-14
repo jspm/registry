@@ -110,6 +110,7 @@
   "mocha": "npm:mocha",
   "modernizr": "github:Modernizr/Modernizr",
   "moment": "github:moment/moment",
+  "mq4-hover-hover-shim": "npm:mq4-hover-hover-shim",
   "msgs": "github:cujojs/msgs",
   "mustache": "github:janl/mustache.js",
   "net": "github:jspm/nodelibs-net",
