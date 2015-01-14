@@ -1,4 +1,5 @@
 {
+  "coffee": "github:forresto/plugin-coffee",
   "css": "github:systemjs/plugin-css",
   "font": "github:guybedford/system-font",
   "image": "github:systemjs/plugin-image",
@@ -6,7 +7,6 @@
   "md": "github:guybedford/system-md",
   "text": "github:systemjs/plugin-text",
   "jsx": "github:floatdrop/plugin-jsx",
-  "coffee": "github:forresto/plugin-coffee",
 
   "ace": "github:ajaxorg/ace-builds",
   "angular": "github:angular/bower-angular",
