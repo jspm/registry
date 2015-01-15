@@ -6,8 +6,8 @@
   "json": "github:systemjs/plugin-json",
   "md": "github:guybedford/system-md",
   "text": "github:systemjs/plugin-text",
-  "jsx": "github:floatdrop/plugin-jsx",
   "jade": "github:johnsoftek/plugin-jade",
+  "jsx": "github:floatdrop/plugin-jsx",
 
   "ace": "github:ajaxorg/ace-builds",
   "angular": "github:angular/bower-angular",
