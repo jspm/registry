@@ -1,0 +1,17 @@
+{
+  "main": "js/lightbox",
+  "format": "global",
+  "dependencies": {
+    "jquery": "^2.1.3",
+    "css": "0.1.0"
+  },
+  "shim": {
+    "js/lightbox": {
+      "deps": [
+        "jquery",
+        "../css/lightbox.css!"
+      ],
+      "exports": "$"
+    }
+  }
+}

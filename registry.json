@@ -103,6 +103,7 @@
   "jsfromhell": "github:jonasraoni/JSFromHell",
   "jsplumb": "github:sporritt/jsPlumb",
   "kickstrap": "github:ajkochanowicz/Kickstrap",
+  "lightbox2": "github:lokesh/lightbox2",
   "less": "github:matthewp/plugin-less",
   "lodash": "npm:lodash",
   "marionette": "github:marionettejs/backbone.marionette",
