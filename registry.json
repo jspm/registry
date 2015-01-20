@@ -121,6 +121,7 @@
   "mustache": "github:janl/mustache.js",
   "net": "github:jspm/nodelibs-net",
   "ng-multi-transclude": "github:zachsnow/ng-multi-transclude",
+  "ng-sortable": "github:a5hik/ng-sortable",
   "nodelibs": "github:jspm/nodelibs",
   "nprogress": "github:rstacruz/nprogress",
   "omniscient": "npm:omniscient",
