@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "angular": "~1.2.0"
+  },
+  "main": "ui-bootstrap-tpls",
+  "registry": "jspm",
+  "shim": {
+    "angular-bootstrap": {
+      "deps": [
+        "angular"
+      ]
+    }
+  }
+}
