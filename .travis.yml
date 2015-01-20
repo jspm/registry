@@ -1,0 +1,10 @@
+---
+git:
+  depth: 1
+language: node_js
+node_js:
+  - '0.10'
+before_install:
+  - npm update -g
+before_script:
+  - npm install -g jspm
