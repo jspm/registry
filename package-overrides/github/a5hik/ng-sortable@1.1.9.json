@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "css": "*"
+  },
+  "directories": {
+    "lib": "dist"
+  },
+  "main": "ng-sortable",
+  "registry": "jspm",
+  "shim": {
+    "ng-sortable": {
+      "deps": [
+        "./ng-sortable.min.css!"
+      ]
+    }
+  }
+}
