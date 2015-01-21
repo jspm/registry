@@ -1,0 +1,11 @@
+{
+  "main": "angular-touch",
+  "shim": {
+    "angular-touch": {
+      "deps": ["angular"]
+    }
+  },
+  "dependencies": {
+    "angular": "^1.3"
+  }
+}
