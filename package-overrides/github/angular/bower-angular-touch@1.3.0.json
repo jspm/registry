@@ -1,7 +1,7 @@
 {
-  "main": "angular-mocks",
+  "main": "angular-touch",
   "shim": {
-    "angular-mocks": {
+    "angular-touch": {
       "deps": ["angular"]
     }
   },
