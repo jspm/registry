@@ -34,7 +34,7 @@
   "aurelia-html-template-element": "github:aurelia/html-template-element",
   "aurelia-http-client": "github:aurelia/http-client",
   "aurelia-loader": "github:aurelia/loader",
-  "aurelia-loader-systemjs": "github:aurelia/loader-systemjs",
+  "aurelia-loader-default": "github:aurelia/loader-default",
   "aurelia-logging": "github:aurelia/logging",
   "aurelia-logging-console": "github:aurelia/logging-console",
   "aurelia-metadata": "github:aurelia/metadata",
