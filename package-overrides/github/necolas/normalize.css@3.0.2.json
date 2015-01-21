@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "css": "*"
+  },
+  "main": "normalize.css!",
+  "registry": "jspm"
+}
