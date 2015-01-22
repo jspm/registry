@@ -22,7 +22,7 @@
   "angular-ui-router": "github:angular-ui/ui-router",
   "angular-ui-router-extras": "github:christopherthielen/ui-router-extras",
   "angular-ui-select": "github:angular-ui/ui-select",
-  "angular-ui-tree": "github:JimLiu/angular-ui-tree",
+  "angular-ui-tree": "github:angular-ui-tree/angular-ui-tree",
   "angular-sanitize": "github:angular/bower-angular-sanitize",
   "assert": "github:jspm/nodelibs-assert",
   "aurelia-binding": "github:aurelia/binding",
