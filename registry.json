@@ -27,6 +27,7 @@
   "any-http-angular": "npm:any-http-angular",
   "any-http-jquery": "npm:any-http-jquery",
   "any-http-reqwest": "npm:any-http-reqwest",
+  "any-promise-angular": "npm:any-promise-angular",
   "assert": "github:jspm/nodelibs-assert",
   "aurelia-binding": "github:aurelia/binding",
   "aurelia-bootstrapper": "github:aurelia/bootstrapper",
