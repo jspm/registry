@@ -165,6 +165,7 @@
   "stream": "github:jspm/nodelibs-stream",
   "string_decoder": "github:jspm/nodelibs-string_decoder",
   "theseus": "npm:theseus",
+  "theseus-angular": "npm:theseus-angular",
   "timers": "github:jspm/nodelibs-timers",
   "tinygrowl": "github:ajkochanowicz/tinygrowl",
   "tls": "github:jspm/nodelibs-tls",
