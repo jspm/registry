@@ -1,0 +1,4 @@
+{
+    "main": "./happy.js",
+    "registry": "jspm"
+}
