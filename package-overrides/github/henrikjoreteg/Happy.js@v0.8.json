@@ -1,4 +1,7 @@
 {
     "main": "./happy.js",
-    "registry": "jspm"
+    "registry": "jspm",
+    "dependencies": {
+        "jquery": "jquery@^2.1.1"
+    }
 }
