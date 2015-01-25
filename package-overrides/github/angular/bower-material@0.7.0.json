@@ -1,0 +1,22 @@
+{
+  "main": "angular-material",
+  "shim": {
+    "angular-material": {
+      "deps": [
+        "./angular-material.css!",
+        "angular",
+        "hammer",
+        "angular-animate",
+        "angular-aria"
+      ]
+    }
+  },
+  "registry": "jspm",
+  "dependencies": {
+    "angular": "^1.3.0",
+    "angular-animate": "^1.3.0",
+    "angular-aria": "^1.3.0",
+    "hammer": "^2.0.2",
+    "css": "^0.1.0"
+  }
+}
