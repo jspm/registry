@@ -6,5 +6,11 @@
   "registry": "jspm",
   "dependencies": {
     "jquery": "^1.11.2"
+  },
+  "shim": {
+    "js/jquery.dataTables": {
+      "imports": "jquery",
+      "exports": "$"
+    }
   }
 }
