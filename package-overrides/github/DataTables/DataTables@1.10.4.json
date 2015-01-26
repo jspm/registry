@@ -1,0 +1,10 @@
+{
+  "directories": {
+    "lib": "media"
+  },
+  "main": "js/jquery.dataTables",
+  "registry": "jspm",
+  "dependencies": {
+    "jquery": "^1.11.2"
+  }
+}
