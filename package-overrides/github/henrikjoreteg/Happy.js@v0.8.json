@@ -1,0 +1,14 @@
+{
+    "main": "./happy.js",
+    "registry": "jspm",
+    "shim": {
+        "happy": {
+            "deps": [
+                "jquery"
+            ]
+        }
+    },
+    "dependencies": {
+        "jquery": "jquery@^2.1.1"
+    }
+}
