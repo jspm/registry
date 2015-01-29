@@ -131,6 +131,7 @@
   "msgs": "github:cujojs/msgs",
   "mustache": "github:janl/mustache.js",
   "net": "github:jspm/nodelibs-net",
+  "ng-infinite-scroll": "github:sroze/ngInfiniteScroll",
   "ng-multi-transclude": "github:zachsnow/ng-multi-transclude",
   "ng-sortable": "github:a5hik/ng-sortable",
   "nodelibs": "github:jspm/nodelibs",
