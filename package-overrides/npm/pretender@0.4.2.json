@@ -1,5 +1,8 @@
 {
-  "map": {
-    "./bower_components/FakeXMLHttpRequest/fake_xml_http_request": "@empty"
+  "shim": {
+    "pretender": {
+      "deps": ["route-recognizer", "fake-xml-http-request"],
+      "exports": "Pretender"
+    }
   }
 }
