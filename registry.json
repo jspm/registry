@@ -29,6 +29,7 @@
   "any-http-reqwest": "npm:any-http-reqwest",
   "any-promise-angular": "npm:any-promise-angular",
   "any-promise-es6": "npm:any-promise-es6",
+  "army-knife": "npm:army-knife",
   "assert": "github:jspm/nodelibs-assert",
   "aurelia-binding": "github:aurelia/binding",
   "aurelia-bootstrapper": "github:aurelia/bootstrapper",
