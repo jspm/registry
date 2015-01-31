@@ -1,6 +1,6 @@
 {
   "directories": {
-    "lib": "src"
+    "lib": "js"
   },
   "main": "dataTables.tableTools",
   "dependencies": {
