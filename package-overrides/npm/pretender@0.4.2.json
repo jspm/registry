@@ -1,0 +1,8 @@
+{
+  "shim": {
+    "pretender": {
+      "deps": ["route-recognizer", "fake-xml-http-request"],
+      "exports": "Pretender"
+    }
+  }
+}

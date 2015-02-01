@@ -1,0 +1,14 @@
+{
+    "main": "./dist/jquery.validate.js",
+    "registry": "jspm",
+    "shim": {
+        "jquery-validation": {
+            "deps": [
+                "jquery"
+            ]
+        }
+    },
+    "dependencies": {
+        "jquery": "*"
+    }
+}

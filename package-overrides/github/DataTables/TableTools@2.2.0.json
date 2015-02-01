@@ -1,0 +1,18 @@
+{
+  "directories": {
+    "lib": "js"
+  },
+  "main": "dataTables.tableTools",
+  "dependencies": {
+    "jquery": "*",
+    "datatables": "^1.9.0"
+  },
+  "registry": "jspm",
+  "shim": {
+    "dataTables.tableTools": {
+      "deps": ["jquery", "datatables"],
+      "imports": "jquery",
+      "exports": "TableTools"
+    }
+  }
+}

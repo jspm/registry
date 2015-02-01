@@ -1,0 +1,15 @@
+{
+  "directories": {
+    "lib": "build"
+  },
+  "main": "ng-infinite-scroll",
+  "shim": {
+    "ng-infinite-scroll": {
+      "deps": ["angular"]
+    }
+  },
+  "registry": "jspm",
+  "dependencies": {
+    "angular": "^1.2.0"
+  }
+}
