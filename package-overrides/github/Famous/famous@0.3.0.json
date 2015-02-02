@@ -1,13 +1,14 @@
 {
-    "directories": {
-        "lib": "src"
-    },
-    "dependencies": {
-        "css": "^0.1.0"
-    },
-    "shim": {
-        "*/*": {
-            "deps": ["../core/famous.css!"]
-        }
+  "directories": {
+    "lib": "src"
+  },
+  "dependencies": {
+    "css": "^0.1.0",
+    "famous-polyfills": "github:Famous/polyfills"
+  },
+  "shim": {
+    "*": {
+      "deps": ["src/core/famous.css!", "famous-polyfills"]
     }
+  }
 }
