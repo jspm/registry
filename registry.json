@@ -22,6 +22,7 @@
   "angular-sanitize": "github:angular/bower-angular-sanitize",
   "angular-strap": "github:mgcrea/angular-strap",
   "angular-touch": "github:angular/bower-angular-touch",
+  "angular-translate": "github:angular-translate/bower-angular-translate",
   "angular-ui-router": "github:angular-ui/ui-router",
   "angular-ui-router-extras": "github:christopherthielen/ui-router-extras",
   "angular-ui-select": "github:angular-ui/ui-select",
