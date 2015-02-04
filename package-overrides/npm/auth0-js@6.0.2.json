@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "Base64": "~0.1.3",
+    "debug": "~1.0.4",
+    "json-fallback": "0.0.1",
+    "jsonp": "~0.0.4",
+    "packageify": "^0.2.0",
+    "reqwest": "^1.1.4",
+    "trim": "~0.0.1",
+    "winchan": "^0.1.1",
+    "xtend": "~2.1.1"
+  }
+}
