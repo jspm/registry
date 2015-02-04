@@ -1,0 +1,16 @@
+{
+  "main": "angular-translate-storage-cookie",
+  "registry": "jspm",
+  "format": "global",
+  "shim": {
+    "angular-translate-storage-cookie": {
+      "deps": [
+        "angular",
+        "angular-translate"
+      ]
+    }
+  },
+  "dependencies": {
+    "angular-translate": "~2.5.2"
+  }
+}

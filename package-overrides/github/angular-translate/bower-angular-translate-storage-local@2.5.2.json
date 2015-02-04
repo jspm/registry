@@ -1,0 +1,16 @@
+{
+  "main": "angular-translate-storage-local",
+  "registry": "jspm",
+  "format": "global",
+  "shim": {
+    "angular-translate-storage-local": {
+      "deps": [
+        "angular",
+        "angular-translate"
+      ]
+    }
+  },
+  "dependencies": {
+    "angular-translate": "~2.5.2"
+  }
+}
