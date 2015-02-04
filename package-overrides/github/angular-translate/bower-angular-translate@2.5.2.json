@@ -1,0 +1,13 @@
+{
+  "main": "angular-translate",
+  "registry": "jspm",
+  "format": "global",
+  "dependencies": {
+    "angular": "~1.2.26"
+  },
+  "shim": {
+    "angular-translate": {
+      "deps": "angular"
+    }
+  }
+}
