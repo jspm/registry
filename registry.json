@@ -193,5 +193,6 @@
   "wire": "github:cujojs/wire",
   "xlsjs": "github:SheetJS/js-xls",
   "xlsx": "github:SheetJS/js-xlsx",
-  "zlib": "github:jspm/nodelibs-zlib"
+  "zlib": "github:jspm/nodelibs-zlib",
+  "zygo": "github:zygo-io/zygo"
 }
