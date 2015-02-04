@@ -141,6 +141,7 @@
   "nprogress": "github:rstacruz/nprogress",
   "omniscient": "npm:omniscient",
   "os": "github:jspm/nodelibs-os",
+  "page": "npm:page",
   "parallax": "github:wagerfield/parallax",
   "path": "github:jspm/nodelibs-path",
   "phaser": "github:photonstorm/phaser",
