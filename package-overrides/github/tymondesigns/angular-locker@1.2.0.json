@@ -3,12 +3,13 @@
     "lib": "dist"
   },
   "main": "angular-locker",
+  registry: "jspm",
   "dependencies": {
-    "angular": "*"
+    "angular": "^1.2.0"
   },
   "shim": {
     "angular-locker": {
-      "deps": "angular"
+      "deps": ["angular"]
     }
   }
 }
