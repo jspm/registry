@@ -1,8 +1,0 @@
-{
-  "main": "angular.min",
-  "shim": {
-    "angular.min": {
-      "exports": "angular"
-    }
-  }
-}
