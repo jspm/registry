@@ -1,0 +1,9 @@
+{
+  "directories": {
+    "lib": "dist"
+  },
+  "main": "angular-locker",
+  "dependencies": {
+    "angular": "*"
+  }
+}
