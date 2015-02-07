@@ -5,5 +5,10 @@
   "main": "angular-locker",
   "dependencies": {
     "angular": "*"
+  },
+  "shim": {
+    "angular-locker": {
+      "deps": "angular"
+    }
   }
 }
