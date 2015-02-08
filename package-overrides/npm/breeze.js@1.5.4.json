@@ -1,0 +1,7 @@
+{
+  "directories": { 
+    "lib": "build"
+  },
+  "main": "breeze.min.js",
+  "format": "global"
+}

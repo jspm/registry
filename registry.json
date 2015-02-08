@@ -69,6 +69,7 @@
   "big.js": "npm:big.js",
   "bignumber.js": "npm:bignumber.js",
   "bootstrap": "github:twbs/bootstrap",
+  "breeze": "npm:breeze-client",
   "buffer": "github:jspm/nodelibs-buffer",
   "chart": "github:nnnick/Chart.js",
   "child_process": "github:jspm/nodelibs-child_process",
