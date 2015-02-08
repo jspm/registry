@@ -39,6 +39,7 @@
   "army-knife": "npm:army-knife",
   "assert": "github:jspm/nodelibs-assert",
   "aurelia-binding": "github:aurelia/binding",
+  "aurelia-breeze": "github:jdanyow/aurelia-breeze",
   "aurelia-bootstrapper": "github:aurelia/bootstrapper",
   "aurelia-dependency-injection": "github:aurelia/dependency-injection",
   "aurelia-event-aggregator": "github:aurelia/event-aggregator",
