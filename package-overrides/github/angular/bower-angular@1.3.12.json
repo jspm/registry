@@ -1,0 +1,8 @@
+{
+  "main": "angular",
+  "shim": {
+    "angular": {
+      "exports": "angular"
+    }
+  }
+}
