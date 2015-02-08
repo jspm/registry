@@ -1,0 +1,15 @@
+{
+  "directories": {
+    "lib": "src"
+  },
+  "main": "http-auth-interceptor",
+  "dependencies": {
+    "angular": "^1.2.0"
+  },
+  "registry": "jspm",
+  "shim": {
+    "http-auth-interceptor": {
+      "deps": ["angular"]
+    }
+  }
+}
