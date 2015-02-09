@@ -207,5 +207,6 @@
   "xlsjs": "github:SheetJS/js-xls",
   "xlsx": "github:SheetJS/js-xlsx",
   "zlib": "github:jspm/nodelibs-zlib",
-  "zygo": "github:zygo-io/zygo"
+  "zygo": "github:zygo-io/zygo",
+  "zygo-blog": "github:zygo-io/zygo-blog"
 }
