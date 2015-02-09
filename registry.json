@@ -150,6 +150,7 @@
   "nodelibs": "github:jspm/nodelibs",
   "normalize.css": "github:necolas/normalize.css",
   "nprogress": "github:rstacruz/nprogress",
+  "observe-js": "github:Polymer/observe-js",
   "omniscient": "npm:omniscient",
   "os": "github:jspm/nodelibs-os",
   "page": "npm:page",
