@@ -2,12 +2,13 @@
   "main": "js/foundation/foundation",
   "shim": {
     "js/foundation/foundation.*": "./foundation",
-    "js/foundation/foundation": ["jquery", "../vendor/modernizr"]
+    "js/foundation/foundation": ["../vendor/jquery"]
   },
   "ignore": [
     "js/foundation.min.js", 
     "js/vendor/jquery.cookie.js", 
-    "js/vendor/jquery.js",
+    "js/vendor/modernizer.js",
+    "js/vendor/fastclick.js",
     "js/vendor/jquery.autocomplete.js",
     "js/vendor/placeholder.js"
   ],
