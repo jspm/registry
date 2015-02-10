@@ -121,6 +121,7 @@
   "jiff": "github:cujojs/jiff",
   "jquery": "github:components/jquery",
   "jquery-file-upload": "github:blueimp/jQuery-File-Upload",
+  "jquery-hoverIntent": "github:briancherne/jquery-hoverIntent",
   "jquery-pjax": "github:defunkt/jquery-pjax",
   "jquery.cookie": "github:carhartl/jquery-cookie",
   "jquery.hammer": "github:hammerjs/jquery.hammer.js",

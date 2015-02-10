@@ -1,0 +1,13 @@
+{
+  "main": "jquery.hoverIntent",
+  "registry": "jspm",
+  "dependencies": {
+    "jquery": "*"
+  },
+  "shim": {
+    "jquery.hoverIntent": {
+      "deps": ["jquery"],
+      "exports": "$"
+    }
+  }
+}
