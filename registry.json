@@ -142,7 +142,7 @@
   "module": "github:jspm/nodelibs-module",
   "moment": "github:moment/moment",
   "moment-json-parser": "npm:moment-json-parser",
-  "mq4-hover-hover-shim": "npm:mq4-hover-hover-shim",
+  "mq4-hover-shim": "npm:mq4-hover-shim",
   "msgs": "github:cujojs/msgs",
   "mustache": "github:janl/mustache.js",
   "net": "github:jspm/nodelibs-net",
