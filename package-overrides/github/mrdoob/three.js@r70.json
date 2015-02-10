@@ -1,0 +1,10 @@
+{ 
+	"main": "build/three",
+ 	"ignore": ["docs", "src", "editor", "test", "utils", "examples/*.html", "examples/models", "examples/scenes", "examples/sounds", "examples/obj", "examples/textures"],
+ 	"format": "global", 
+ 	"shim": { 
+ 		"build/three": {
+ 			"exports": "THREE"
+ 		}
+ 	}
+ }

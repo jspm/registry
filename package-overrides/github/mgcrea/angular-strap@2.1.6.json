@@ -1,0 +1,14 @@
+{
+  "directories": {
+    "lib": "dist"
+  },
+  "main": "angular-strap.tpl",
+  "dependencies": {
+    "angular": "^1.2.0"
+  },
+  "shim": {
+    "angular-strap.tpl": {
+      "deps": ["./angular-strap", "angular"]
+    }
+  }
+}
