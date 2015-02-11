@@ -1,0 +1,15 @@
+{
+  "directories": {
+    "lib": "dist"
+  },
+  "main": "angular-breadcrumb",
+  "registry": "jspm",
+  "dependencies": {
+    "angular-ui-router": "^0.2.0"
+  },
+  "shim": {
+    "angular-breadcrumb": {
+      "deps": ["angular-ui-router"]
+    }
+  }
+}
