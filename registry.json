@@ -14,6 +14,7 @@
   "angular-animate": "github:angular/bower-angular-animate",
   "angular-aria": "github:angular/bower-angular-aria",
   "angular-bootstrap": "github:angular-ui/bootstrap-bower",
+  "angular-breadcrumb": "github:ncuillery/angular-breadcrumb",
   "angular-cookies": "github:angular/bower-angular-cookies",
   "angular-http-auth": "github:witoldsz/angular-http-auth",
   "angular-loading-bar": "github:chieffancypants/angular-loading-bar",
