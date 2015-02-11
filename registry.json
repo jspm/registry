@@ -189,6 +189,7 @@
   "skrollr": "github:Prinzhorn/skrollr",
   "sockjs-client": "github:sockjs/sockjs-client",
   "spin": "github:fgnass/spin.js",
+  "stomp-websocket": "github:jmesnil/stomp-websocket",
   "stream": "github:jspm/nodelibs-stream",
   "string_decoder": "github:jspm/nodelibs-string_decoder",
   "tabletools": "github:DataTables/TableTools",

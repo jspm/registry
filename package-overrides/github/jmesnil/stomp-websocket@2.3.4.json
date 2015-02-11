@@ -1,0 +1,8 @@
+{
+  "main": "lib/stomp.min",
+  "shim": {
+    "lib/stomp.min": {
+      "exports": "Stomp"
+    }
+  }
+}
