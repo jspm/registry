@@ -7,7 +7,37 @@
     "famous-polyfills": "github:Famous/polyfills"
   },
   "shim": {
-    "*": {
+    "core/*": {
+      "deps": ["src/core/famous.css!", "famous-polyfills"]
+    },
+    "events/*": {
+      "deps": ["src/core/famous.css!", "famous-polyfills"]
+    },
+    "inputs/*": {
+      "deps": ["src/core/famous.css!", "famous-polyfills"]
+    },
+    "math/*": {
+      "deps": ["src/core/famous.css!", "famous-polyfills"]
+    },
+    "modifiers/*": {
+      "deps": ["src/core/famous.css!", "famous-polyfills"]
+    },
+    "physics/*": {
+      "deps": ["src/core/famous.css!", "famous-polyfills"]
+    },
+    "surfaces/*": {
+      "deps": ["src/core/famous.css!", "famous-polyfills"]
+    },
+    "transitions/*": {
+      "deps": ["src/core/famous.css!", "famous-polyfills"]
+    },
+    "utilities/*": {
+      "deps": ["src/core/famous.css!", "famous-polyfills"]
+    },
+    "views/*": {
+      "deps": ["src/core/famous.css!", "famous-polyfills"]
+    },
+    "widgets/*": {
       "deps": ["src/core/famous.css!", "famous-polyfills"]
     }
   }
