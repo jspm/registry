@@ -16,6 +16,7 @@
   "angular-bootstrap": "github:angular-ui/bootstrap-bower",
   "angular-cookies": "github:angular/bower-angular-cookies",
   "angular-http-auth": "github:witoldsz/angular-http-auth",
+  "angular-loading-bar": "github:chieffancypants/angular-loading-bar",
   "angular-locker": "github:tymondesigns/angular-locker",
   "angular-material": "github:angular/bower-material",
   "angular-messages": "github:angular/bower-angular-messages",
