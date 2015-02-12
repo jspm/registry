@@ -114,7 +114,7 @@
   "jsplumb": "github:sporritt/jsPlumb",
   "kickstrap": "github:ajkochanowicz/Kickstrap",
   "lightbox2": "github:lokesh/lightbox2",
-  "less": "github:matthewp/plugin-less",
+  "less": "github:aaike/jspm-less-plugin",
   "lodash": "npm:lodash",
   "marionette": "github:marionettejs/backbone.marionette",
   "masonry": "github:desandro/masonry",
