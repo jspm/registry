@@ -1,0 +1,8 @@
+{
+  "directories": {
+    "lib": "lib"
+  },
+  "main": "sifter",
+  "registry": "jspm",
+  "dependencies": {}
+}
