@@ -115,6 +115,8 @@
   "kickstrap": "github:ajkochanowicz/Kickstrap",
   "lightbox2": "github:lokesh/lightbox2",
   "less": "github:aaike/jspm-less-plugin",
+  "less.js": "github:less/less.js.js",
+  "less-dist": "github:distros/less.js",
   "lodash": "npm:lodash",
   "marionette": "github:marionettejs/backbone.marionette",
   "masonry": "github:desandro/masonry",
