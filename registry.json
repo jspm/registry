@@ -140,6 +140,7 @@
   "masonry": "github:desandro/masonry",
   "material-design-icons": "github:google/material-design-icons",
   "meld": "github:cujojs/meld",
+  "microplugin": "npm:microplugin",
   "minivents": "github:allouis/minivents",
   "mocha": "npm:mocha",
   "modernizr": "github:Modernizr/Modernizr",
