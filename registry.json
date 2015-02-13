@@ -8,6 +8,7 @@
   "text": "github:systemjs/plugin-text",
   "jade": "github:johnsoftek/plugin-jade",
   "jsx": "github:floatdrop/plugin-jsx",
+  "less": "github:aaike/jspm-less-plugin",
 
   "ace": "github:ajaxorg/ace-builds",
   "angular": "github:angular/bower-angular",
@@ -133,8 +134,8 @@
   "jsfromhell": "github:jonasraoni/JSFromHell",
   "jsplumb": "github:sporritt/jsPlumb",
   "kickstrap": "github:ajkochanowicz/Kickstrap",
+  "less.js": "github:distros/less",
   "lightbox2": "github:lokesh/lightbox2",
-  "less": "github:matthewp/plugin-less",
   "lodash": "npm:lodash",
   "marionette": "github:marionettejs/backbone.marionette",
   "masonry": "github:desandro/masonry",
