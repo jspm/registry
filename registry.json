@@ -130,6 +130,7 @@
   "jquery-pjax": "github:defunkt/jquery-pjax",
   "jquery.cookie": "github:carhartl/jquery-cookie",
   "jquery.hammer": "github:hammerjs/jquery.hammer.js",
+  "jquery-ui": "github:jquery/jquery-ui",
   "jquery-validation": "github:jzaefferer/jquery-validation",
   "jsfromhell": "github:jonasraoni/JSFromHell",
   "jsplumb": "github:sporritt/jsPlumb",
