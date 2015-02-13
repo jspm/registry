@@ -1,0 +1,16 @@
+{
+  "main": "restangular",
+  "directories": {
+    "lib": "dist"
+  },
+  "registry": "jspm",
+  "dependencies": {
+    "angular": "^1.2.0",
+    "lodash": "*"
+  },
+  "shim": {
+    "restangular": {
+      "deps": ["angular", "lodash"]
+    }
+  }
+}
