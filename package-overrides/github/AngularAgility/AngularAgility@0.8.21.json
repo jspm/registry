@@ -1,0 +1,15 @@
+{
+  "directories": {
+    "lib": "dist"
+  },
+  "main": "angular-agility",
+  "registry": "jspm",
+  "dependencies": {
+    "angular": "^1.2.0"
+  },
+  "shim": {
+    "angular-agility": {
+      "deps": ["angular"]
+    }
+  }
+}
