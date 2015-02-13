@@ -4,5 +4,11 @@
   },
   "main": "sifter",
   "registry": "jspm",
-  "dependencies": {}
+  "dependencies": {},
+  "format": "global",
+  "shim": {
+    "sifter": {
+      "exports": "Sifter"
+    }
+  }
 }
