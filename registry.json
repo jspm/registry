@@ -190,6 +190,7 @@
   "restangular": "github:mgonto/restangular",
   "rx": "npm:rx",
   "select2": "github:ivaynberg/select2",
+  "selectize": "github:brianreavis/selectize.js",
   "showdown": "github:showdownjs/showdown",
   "sifter": "github:brianreavis/sifter.js",
   "skrollr": "github:Prinzhorn/skrollr",

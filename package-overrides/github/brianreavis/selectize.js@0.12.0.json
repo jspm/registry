@@ -1,0 +1,19 @@
+{
+  "directories": {
+    "lib": "dist"
+  },
+  "main": "js/selectize",
+  "registry": "jspm",
+  "dependencies": {
+    "jquery": "*",
+    "sifter": "^0.4.1",
+    "microplugin": "^0.0.3",
+    "css": "*"
+  },
+  "shim": {
+    "js/selectize": {
+      "deps": ["jquery", "sifter", "microplugin", "../css/selectize.css!"],
+      "exports": "$"
+    }
+  }
+}
