@@ -6,8 +6,8 @@
   "registry": "jspm",
   "dependencies": {
     "jquery": "*",
-    "sifter": "*",
-    "microplugin": "*",
+    "sifter": "^0.4.1",
+    "microplugin": "^0.0.3",
     "css": "*"
   },
   "shim": {
