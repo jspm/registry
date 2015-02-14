@@ -189,7 +189,7 @@
   "rest": "github:cujojs/rest",
   "restangular": "github:mgonto/restangular",
   "rx": "npm:rx",
-  "select2": "github:ivaynberg/select2",
+  "select2": "github:select2/select2",
   "showdown": "github:showdownjs/showdown",
   "sifter": "github:brianreavis/sifter.js",
   "skrollr": "github:Prinzhorn/skrollr",
