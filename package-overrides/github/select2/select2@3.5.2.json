@@ -1,0 +1,15 @@
+{
+  "main": "select2",
+  "files": ["*.js", "*.template", "select2.png", "select2.css", "select2-spinner.gif"],
+  "registry": "jspm",
+  "dependencies": {
+    "jquery": "*",
+    "css": "*"
+  },
+  "shim": {
+    "select2": {
+      "deps": ["jquery", "./select2.css!"],
+      "exports": "$"
+    }
+  }
+}
