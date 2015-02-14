@@ -1,6 +1,7 @@
 {
   "main": "select2",
   "files": ["select2.js", "select2.png", "select2.css", "select2-spinner.gif"],
+  "registry": "jspm",
   "dependencies": {
     "jquery": "*",
     "css": "*"
