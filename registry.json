@@ -18,6 +18,7 @@
   "angular-bootstrap": "github:angular-ui/bootstrap-bower",
   "angular-breadcrumb": "github:ncuillery/angular-breadcrumb",
   "angular-cookies": "github:angular/bower-angular-cookies",
+  "angular-file-upload": "github:danialfarid/angular-file-upload-bower",
   "angular-http-auth": "github:witoldsz/angular-http-auth",
   "angular-loading-bar": "github:chieffancypants/angular-loading-bar",
   "angular-locker": "github:tymondesigns/angular-locker",
