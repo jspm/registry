@@ -127,6 +127,7 @@
   "jiff": "github:cujojs/jiff",
   "joi": "github:capaj/joi-browser",
   "jquery": "github:components/jquery",
+  "jquery-autosize": "github:jackmoore/autosize",
   "jquery-file-upload": "github:blueimp/jQuery-File-Upload",
   "jquery-hoverIntent": "github:briancherne/jquery-hoverIntent",
   "jquery-pjax": "github:defunkt/jquery-pjax",

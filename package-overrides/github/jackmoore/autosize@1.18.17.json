@@ -1,0 +1,11 @@
+{
+  "format": "global",
+  "dependencies": {
+    "jquery": "*"
+  },
+  "shim": {
+    "jquery.autosize": {
+      "deps": "jquery"
+    }
+  }
+}
