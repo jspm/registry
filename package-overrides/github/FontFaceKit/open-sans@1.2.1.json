@@ -1,0 +1,6 @@
+{
+  "main": "open-sans.css!",
+  "dependencies": {
+    "css": "^0.1.5"
+  }
+}
