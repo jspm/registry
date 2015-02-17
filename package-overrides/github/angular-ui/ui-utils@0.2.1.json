@@ -1,0 +1,11 @@
+{
+  "format": "global",
+  "dependencies": {
+    "angular": "^1.0.2"
+  },
+  "shim": {
+    "ui-utils": {
+      "deps": "angular"
+    }
+  }
+}

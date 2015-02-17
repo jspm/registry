@@ -1,0 +1,12 @@
+{
+  "format": "global",
+  "main": "angular-file-upload",
+  "dependencies": {
+    "angular": "^1"
+  },
+  "shim": {
+    "angular-file-upload": {
+      "deps": "angular"
+    }
+  }
+}
