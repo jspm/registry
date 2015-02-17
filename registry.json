@@ -36,6 +36,7 @@
   "angular-ui-router-extras": "github:christopherthielen/ui-router-extras",
   "angular-ui-select": "github:angular-ui/ui-select",
   "angular-ui-tree": "github:angular-ui-tree/angular-ui-tree",
+  "angular-ui-utils": "github:angular-ui/ui-utils",
   "any-http-angular": "npm:any-http-angular",
   "any-http-jquery": "npm:any-http-jquery",
   "any-http-reqwest": "npm:any-http-reqwest",
