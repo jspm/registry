@@ -74,6 +74,7 @@
   "backbone": "npm:backbone",
   "backbone.babysitter": "github:marionettejs/backbone.babysitter",
   "backbone.wreqr": "github:marionettejs/backbone.wreqr",
+  "baconjs": "npm:baconjs",
   "big.js": "npm:big.js",
   "bignumber.js": "npm:bignumber.js",
   "bootstrap": "github:twbs/bootstrap",
