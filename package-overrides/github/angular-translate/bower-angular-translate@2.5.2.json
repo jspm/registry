@@ -3,7 +3,7 @@
   "registry": "jspm",
   "format": "global",
   "dependencies": {
-    "angular": "~1.2.26"
+    "angular": "^1.2.26"
   },
   "shim": {
     "angular-translate": {

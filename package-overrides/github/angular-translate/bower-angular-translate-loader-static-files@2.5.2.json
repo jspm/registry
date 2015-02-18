@@ -3,7 +3,7 @@
   "registry": "jspm",
   "format": "global",
   "dependencies": {
-    "angular-translate": "~2.5.2"
+    "angular-translate": "^2.5.2"
   },
   "shim": {
     "angular-translate-loader-static-files": {
