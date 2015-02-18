@@ -1,0 +1,16 @@
+{
+  "main": "threestrap",
+  "format": "global",
+  "directories": {
+    "dist": "build"
+  },
+  "dependencies": {
+    "three": "*"
+  },
+  "shim": {
+    "threestrap": {
+      "deps": ["three"],
+      "exports": "THREE"
+    }
+  }
+}
