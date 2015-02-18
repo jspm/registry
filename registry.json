@@ -205,6 +205,7 @@
   "string_decoder": "github:jspm/nodelibs-string_decoder",
   "tabletools": "github:DataTables/TableTools",
   "three.js": "github:mrdoob/three.js",
+  "three": "github:mrdoob/three.js",
   "theseus": "npm:theseus",
   "theseus-angular": "npm:theseus-angular",
   "topo": "github:capaj/topo-browser",
