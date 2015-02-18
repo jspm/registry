@@ -1,0 +1,6 @@
+{
+  "main": "pdfmake",
+  "directories": {
+    "lib": "build"
+  }
+}
