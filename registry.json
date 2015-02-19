@@ -225,6 +225,7 @@
   "util": "github:jspm/nodelibs-util",
   "vm": "github:jspm/nodelibs-vm",
   "virtual-dom": "npm:virtual-dom",
+  "vue": "npm:vue",
   "webfont": "github:components/webfontloader",
   "when": "github:cujojs/when",
   "wire": "github:cujojs/wire",
