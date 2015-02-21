@@ -8,7 +8,7 @@
   },
   "shim": {
     "angular-strap.tpl": {
-      "deps": ["./angular-strap", "angular"]
+      "deps": ["angular", "./angular-strap"]
     }
   }
 }
