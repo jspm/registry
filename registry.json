@@ -142,6 +142,7 @@
   "kickstrap": "github:ajkochanowicz/Kickstrap",
   "less.js": "github:distros/less",
   "lightbox2": "github:lokesh/lightbox2",
+  "localforage": "npm:localforage",
   "lodash": "npm:lodash",
   "marionette": "github:marionettejs/backbone.marionette",
   "masonry": "github:desandro/masonry",
