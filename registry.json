@@ -9,6 +9,7 @@
   "jade": "github:johnsoftek/plugin-jade",
   "jsx": "github:floatdrop/plugin-jsx",
   "less": "github:aaike/jspm-less-plugin",
+  "ts": "github:frankwallis/plugin-typescript",
 
   "ace": "github:ajaxorg/ace-builds",
   "angular": "github:angular/bower-angular",
