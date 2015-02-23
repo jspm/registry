@@ -9,7 +9,7 @@
     "css": "^0.1.6"
   },
   "shim": {
-    "famous": {
+    "famous-global": {
       "deps": [
         "./famous.css!"
       ]
