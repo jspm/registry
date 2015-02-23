@@ -1,0 +1,15 @@
+{
+    "main": "jquery.layout.js",
+    "registry": "jspm",
+    "directories": {
+        "lib": "source/stable"
+    },
+    "dependencies": {
+        "jquery": "*"
+    },
+    "shim": {
+        "jquery-ui-layout": {
+            "deps": "jquery"
+        }
+    }
+}

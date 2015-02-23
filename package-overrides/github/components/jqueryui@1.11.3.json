@@ -1,0 +1,12 @@
+{
+    "main": "jquery-ui.js",
+    "registry": "jspm",
+    "dependencies": {
+        "jquery": "*"
+    },
+    "shim": {
+        "jquery-ui": {
+            "deps": "jquery"
+        }
+    }
+}
