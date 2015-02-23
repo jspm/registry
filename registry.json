@@ -26,6 +26,7 @@
   "angular-material": "github:angular/bower-material",
   "angular-messages": "github:angular/bower-angular-messages",
   "angular-mocks": "github:angular/bower-angular-mocks",
+  "angular-next": "github:robianmcd/angular-next",
   "angular-route": "github:angular/bower-angular-route",
   "angular-sanitize": "github:angular/bower-angular-sanitize",
   "angular-strap": "github:mgcrea/angular-strap",
