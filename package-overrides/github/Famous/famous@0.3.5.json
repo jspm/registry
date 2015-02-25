@@ -5,7 +5,7 @@
     "css": "^0.1.6"
   },
   "shim": {
-    "dist/famous-global": {
+    "./dist/famous-global": {
       "deps": [
         "./famous.css!"
       ]
