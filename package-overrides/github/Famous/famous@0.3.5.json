@@ -1,6 +1,6 @@
 {
   "registry": "jspm",
-  "main": "dist/famous-global",
+  "main": "./dist/famous-global",
   "dependencies": {
     "css": "^0.1.6"
   },
