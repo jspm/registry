@@ -1,0 +1,22 @@
+{
+  "main": "js/dataTables.responsive",
+  "dependencies": {
+    "datatables": "*",
+    "jquery": "*",
+    "css": "*"
+  },
+  "format": "global",
+  "files": [
+    "js/dataTables.responsive.js",
+    "css/dataTables.responsive.css"
+  ],
+  "shim": {
+    "js/dataTables.responsive":{
+      "deps": [
+        "datatables",
+        "jquery",
+        "../css/dataTables.responsive.css!"
+      ]
+    }
+  }
+}
