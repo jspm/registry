@@ -5,11 +5,12 @@
         "lib": "source/stable"
     },
     "dependencies": {
-        "jquery": "*"
+        "jquery": "*",
+        "jquery-ui": "*"
     },
     "shim": {
         "jquery-ui-layout": {
-            "deps": ["jquery","jquery-ui"]
+            "deps": ["github:components/jquery","github:components/jquery-ui"]
         }
     }
 }
