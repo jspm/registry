@@ -9,7 +9,7 @@
     },
     "shim": {
         "jquery-fancytree": {
-            "deps": "jquery"
+            "deps": ["jquery","jquery-ui"]
         }
     }
 }
