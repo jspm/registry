@@ -9,7 +9,7 @@
     },
     "shim": {
         "jquery-ui-layout": {
-            "deps": "jquery"
+            "deps": ["jquery","jquery-ui"]
         }
     }
 }
