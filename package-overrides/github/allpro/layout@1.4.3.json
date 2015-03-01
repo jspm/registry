@@ -6,7 +6,7 @@
     },
     "dependencies": {
         "github:components/jquery": "*",
-        "github:components/jquery-ui": "*"
+        "github:components/jqueryui": "*"
     },
     "shim": {
         "jquery-ui-layout": {
