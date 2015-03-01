@@ -1,0 +1,17 @@
+{
+    "main": "javascripts/jquery.nanoscroller.js",
+    "format": "global",
+    "directories": {
+      "lib": "bin"
+    },
+    "dependencies": {
+      "jquery": "^2.1.3",
+      "css": "*"
+    },
+    "shim": {
+      "javascripts/jquery.nanoscroller": [
+        "jquery",
+        "./css/nanoscroller.css!"
+      ]
+    }
+  }
