@@ -5,11 +5,12 @@
         "lib": "dist"
     },
     "dependencies": {
-        "jquery": "*"
+        "jquery": "github:components/jquery",
+        "jquery-ui": "github:components/jqueryui"
     },
     "shim": {
         "jquery-fancytree": {
-            "deps": "jquery"
+            "deps": ["jquery","jquery-ui"]
         }
     }
 }
