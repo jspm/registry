@@ -1,0 +1,15 @@
+{
+  "main": "smart-table",
+  "directories": {
+    "lib": "dist"
+  },
+  "registry": "jspm",
+  "dependencies": {
+    "angular": "^1.2.0"
+  },
+  "shim": {
+    "smart-table": {
+      "deps": ["angular"]
+    }
+  }
+}
