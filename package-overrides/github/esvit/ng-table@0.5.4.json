@@ -1,0 +1,16 @@
+{
+  "main": "ng-table",
+  "directories": {
+    "lib": "dist"
+  },
+  "registry": "jspm",
+  "dependencies": {
+    "angular": "^1.2.0",
+    "css": "*"
+  },
+  "shim": {
+    "ng-table": {
+      "deps": ["angular", "./ng-table.css!"]
+    }
+  }
+}
