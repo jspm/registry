@@ -30,6 +30,7 @@
   "angular-next": "github:robianmcd/angular-next",
   "angular-route": "github:angular/bower-angular-route",
   "angular-sanitize": "github:angular/bower-angular-sanitize",
+  "angular-smart-table": "lorenzofox3/Smart-Table",
   "angular-strap": "github:mgcrea/angular-strap",
   "angular-touch": "github:angular/bower-angular-touch",
   "angular-translate": "github:angular-translate/bower-angular-translate",
