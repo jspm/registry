@@ -1,0 +1,12 @@
+{
+  "main": "angular-chosen.js",
+  "dependencies": {
+    "angular": "github:angular/bower-angular@^1.3.13",
+    "chosen": "github:harvesthq/chosen@^1.4.0"
+  },
+  "shim":{
+    "angular-chosen": {
+      "deps": ["angular","chosen"]
+    }
+  }
+}

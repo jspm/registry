@@ -1,8 +1,12 @@
 {
   "main": "chosen.jquery",
   "files": ["chosen.jquery.js", "chosen.css", "chosen-sprite.png", "chosen-sprite@2x.png"],
+  "dependencies": {
+  	"jquery": "github:components/jquery"
+  },
   "shim": {
-    "chosen.jquery": ["./chosen.css!", "jquery"]
+    "chosen.jquery": ["./chosen.css!", "jquery"],
+    "chosen.jquery.min": ["jquery"]
   },
   "buildConfig": { "uglify": true }
 }
