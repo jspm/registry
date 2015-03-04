@@ -167,6 +167,7 @@
   "ng-infinite-scroll": "github:sroze/ngInfiniteScroll",
   "ng-multi-transclude": "github:zachsnow/ng-multi-transclude",
   "ng-sortable": "github:a5hik/ng-sortable",
+  "ng-table": "esvit/ng-table",
   "nodelibs": "github:jspm/nodelibs",
   "normalize.css": "github:necolas/normalize.css",
   "nprogress": "github:rstacruz/nprogress",
