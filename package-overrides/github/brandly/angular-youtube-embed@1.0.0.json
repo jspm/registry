@@ -1,0 +1,12 @@
+{
+	"main":"src/angular-youtube-embed",
+	"files": ["src/angular-youtube-embed.js","angular-youtube-embed.min.js"],
+	"dependencies":{
+		"angular": "github:angular/bower-angular@^1.3.12"
+	},
+	"format": "global",
+	"shim":{
+		"angular-youtube-embed": ["angular"],
+		"angular-youtube-embed.min": ["angular"]
+	}
+}

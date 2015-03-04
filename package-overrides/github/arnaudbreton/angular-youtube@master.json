@@ -1,0 +1,13 @@
+{
+	"main":"angular-youtube-player-api",
+	"files": ["angular-youtube-player-api.js","build/angular-youtube-player-api.min.js"],
+	"ignore": ["config","scripts","test",".gitignore"],
+	"dependencies":{
+		"angular": "github:angular/bower-angular@^1.3.12"
+	},
+	"format": "global",
+	"shim":{
+		"angular-youtube-player-api": ["angular"],
+		"angular-youtube-player-api.min": ["angular"]
+	}
+}
