@@ -1,0 +1,9 @@
+{
+  "main": "klay",
+  "format": "global",
+  "shim": {
+    "klay": {
+      "exports": "$klay"
+    }
+  }
+}
