@@ -1,0 +1,11 @@
+{
+	"files":["ng-jcrop.js"],
+	"format": "global",
+	"dependencies":{
+		"angular": "github:angular/bower-angular@^1.3.12",
+		"jcrop": "github:tapmodo/Jcrop@^0.9.12"
+	},
+	"shim":{
+		"ng-jcrop": ["angular","jcrop"]
+	}
+}

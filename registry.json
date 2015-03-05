@@ -167,6 +167,7 @@
   "mustache": "github:janl/mustache.js",
   "net": "github:jspm/nodelibs-net",
   "ng-infinite-scroll": "github:sroze/ngInfiniteScroll",
+  "ng-jcrop": "github:andrefarzat/ng-jcrop",
   "ng-multi-transclude": "github:zachsnow/ng-multi-transclude",
   "ng-sortable": "github:a5hik/ng-sortable",
   "ng-table": "esvit/ng-table",
