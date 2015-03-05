@@ -1,6 +1,7 @@
 {
   "coffee": "github:forresto/plugin-coffee",
   "css": "github:systemjs/plugin-css",
+  "ember-hbs": "github:n-fuse/plugin-ember-hbs",
   "font": "github:guybedford/system-font",
   "image": "github:systemjs/plugin-image",
   "json": "github:systemjs/plugin-json",
