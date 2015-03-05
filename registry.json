@@ -195,6 +195,7 @@
   "raphael": "github:DmitryBaranovskiy/raphael",
   "ratchet": "github:maker/ratchet",
   "raven-js": "github:getsentry/raven-js",
+  "rangy": "github:timdown/rangy-release",
   "react": "npm:react",
   "react-router": "npm:react-router",
   "readline": "github:jspm/nodelibs-readline",

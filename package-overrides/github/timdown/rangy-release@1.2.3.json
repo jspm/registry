@@ -1,0 +1,19 @@
+{
+  "format": "global",
+  "main": "rangy-core",
+
+  "shim": {
+    "rangy-core": {
+      "exports": "rangy"
+    },
+    "rangy-cssclassapplier": {
+      "deps": ["rangy"]
+    },
+    "rangy-selectionsaverestore": {
+      "deps": ["rangy"]
+    },
+    "rangy-serializer": {
+      "deps": ["rangy"]
+    }
+  }
+}
