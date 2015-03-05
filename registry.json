@@ -10,6 +10,7 @@
   "jsx": "github:floatdrop/plugin-jsx",
   "less": "github:aaike/jspm-less-plugin",
   "ts": "github:frankwallis/plugin-typescript",
+  "ember-hbs": "github:n-fuse/plugin-ember-hbs",
 
   "ace": "github:ajaxorg/ace-builds",
   "angular": "github:angular/bower-angular",
