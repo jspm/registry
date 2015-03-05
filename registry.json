@@ -193,6 +193,7 @@
   "punycode": "github:jspm/nodelibs-punycode",
   "querystring": "github:jspm/nodelibs-querystring",
   "quint": "github:jquery/qunit",
+  "rangy": "github:timdown/rangy-release",
   "raphael": "github:DmitryBaranovskiy/raphael",
   "ratchet": "github:maker/ratchet",
   "raven-js": "github:getsentry/raven-js",
