@@ -1,0 +1,10 @@
+{
+    "name": "baconjs",
+    "format": "global",
+    "files": [
+        "dist/Bacon.min.js",
+        "dist/Bacon.js"
+    ],
+    "registry": "jspm",
+    "main": "dist/Bacon.min.js"
+}

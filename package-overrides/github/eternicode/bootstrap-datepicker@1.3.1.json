@@ -1,0 +1,18 @@
+{
+    "main": "js/bootstrap-datepicker",
+    "shim": {
+      "js/bootstrap-datepicker": {
+        "deps": [
+          "css",
+          "jquery",
+          "../css/datepicker3.css!"
+        ],
+        "exports": "$"
+      }
+    },
+    "files": [
+      "js/*",
+      "css/*"
+    ],
+    "format": "global"
+}
