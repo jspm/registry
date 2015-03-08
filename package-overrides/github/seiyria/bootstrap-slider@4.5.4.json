@@ -1,0 +1,12 @@
+{
+  "registry": "jspm",
+  "format": "global",
+  "files": ["dist/*","css/*","js/*","less/*","sass/*"],
+  "dependencies": {
+    "jquery": "github:components/jquery"
+  },
+  "shim":{
+    "js/bootstrap-slider": ["jquery"],
+    "dist/bootstrap-slider.min": ["jquery"]
+  }
+}

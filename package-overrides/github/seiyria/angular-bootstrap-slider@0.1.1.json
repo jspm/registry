@@ -1,0 +1,13 @@
+{
+  "main": "slider.js",
+  "registry": "jspm",
+  "format": "global",
+  "files": ["slider.js"],
+  "dependencies": {
+    "angular": "github:angular/bower-angular@^1.3.12",
+    "bootstrap-slider": "github:seiyria/bootstrap-slider@^4.5.4"
+  },
+  "shim":{
+    "slider": ["angular","bootstrap-slider"]
+  }
+}
