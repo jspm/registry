@@ -128,6 +128,7 @@
   "http": "github:jspm/nodelibs-http",
   "https": "github:jspm/nodelibs-https",
   "i18next-client": "npm:i18next-client",
+  "icheck": "github:fronteed/iCheck",
   "immstruct": "npm:immstruct",
   "infamous": "npm:infamous",
   "intro": "github:usablica/intro.js",

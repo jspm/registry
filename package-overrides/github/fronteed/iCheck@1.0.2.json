@@ -1,0 +1,13 @@
+{
+  "main": "icheck.js",
+  "registry": "jspm",
+  "format": "global",
+  "files":["icheck.js","icheck.min.js","skins/*"],
+  "dependencies": {
+    "jquery": "github:components/jquery"
+  },
+  "shim":{
+    "icheck": ["jquery"],
+    "icheck.min": ["jquery"]
+  }
+}
