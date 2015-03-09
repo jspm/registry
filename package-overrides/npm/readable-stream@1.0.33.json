@@ -1,0 +1,13 @@
+{
+  "map": {
+    "stream": "stream/index"
+  },
+  "registry": "jspm",
+  "dependencies": {
+    "core-util-is": "npm:core-util-is@~1.0.0",
+    "isarray": "npm:isarray@0.0.1",
+    "string_decoder": "npm:string_decoder@~0.10.0",
+    "inherits": "npm:inherits@~2.0.1",
+    "stream": "npm:stream-browserify@~1.0.0"
+  }
+}
