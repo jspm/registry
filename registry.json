@@ -94,6 +94,7 @@
   "cola": "github:cujojs/cola",
   "console": "github:jspm/nodelibs-console",
   "constants": "github:jspm/nodelibs-constants",
+  "core-js": "github:zloirock/core-js",
   "cram": "github:cujojs/cram",
   "crypto": "github:jspm/nodelibs-crypto",
   "curl": "github:cujojs/curl",
