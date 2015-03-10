@@ -1,6 +1,0 @@
-{
-  "main":"client/core.js",
-  "directories":{
-    "lib": "client"
-  }
-}
