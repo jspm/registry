@@ -222,7 +222,7 @@
   "stomp-websocket": "github:jmesnil/stomp-websocket",
   "stream": "github:jspm/nodelibs-stream",
   "string_decoder": "github:jspm/nodelibs-string_decoder",
-  "superagent": "github:visionmedia/superagent",
+  "superagent": "npm:superagent",
   "tabletools": "github:DataTables/TableTools",
   "three.js": "github:mrdoob/three.js",
   "three": "github:mrdoob/three.js",
