@@ -1,0 +1,12 @@
+{
+  "format": "global",
+  "main": "elastic",
+  "directories": {
+    "lib": "dist"
+  },
+  "shim": {
+    "elastic": {
+      "exports": ["ejs"]
+    }
+  }
+}
