@@ -107,6 +107,7 @@
   "dns": "github:jspm/nodelibs-dns",
   "domain": "github:jspm/nodelibs-domain",
   "dropzone": "github:enyo/dropzone",
+  "elastic.js": "github:fullscale/elastic.js",
   "ember": "github:components/ember",
   "ember-data": "github:components/ember-data",
   "es5-shim": "github:es-shims/es5-shim",
