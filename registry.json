@@ -152,6 +152,7 @@
   "jquery.hammer": "github:hammerjs/jquery.hammer.js",
   "jquery-validation": "github:jzaefferer/jquery-validation",
   "js-beautify": "github:beautify-web/js-beautify",
+  "js.edgar": "npm:js.edgar",
   "jsfromhell": "github:jonasraoni/JSFromHell",
   "jsplumb": "github:sporritt/jsPlumb",
   "kickstrap": "github:ajkochanowicz/Kickstrap",
