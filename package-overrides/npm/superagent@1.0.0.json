@@ -1,5 +1,3 @@
 {
-  "main": "lib/client",
-  "format": "cjs",
-  "registry": "npm"
+  "main": "lib/client"
 }
