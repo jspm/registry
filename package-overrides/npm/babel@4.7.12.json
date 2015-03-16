@@ -1,0 +1,6 @@
+{
+  "main": "browser.js",
+  "format": "global",
+  "dependencies": {},
+  "jspmNodeConversion": false
+}
