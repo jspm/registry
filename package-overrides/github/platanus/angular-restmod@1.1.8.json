@@ -1,0 +1,15 @@
+{
+  "directories": {
+    "lib": "dist"
+  },
+  "main": "angular-restmod-bundle",
+  "shim": {
+    "angular-restmod": {
+      "deps": ["angular"]
+    }
+  },
+  "registry": "jspm",
+  "dependencies": {
+    "angular": "*"
+  }
+}

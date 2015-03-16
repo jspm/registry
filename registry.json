@@ -30,6 +30,7 @@
   "angular-mocks": "github:angular/bower-angular-mocks",
   "angular-next": "github:robianmcd/angular-next",
   "angular-resource": "github:angular/bower-angular-resource",
+  "angular-restmod": "github:platanus/angular-restmod",
   "angular-route": "github:angular/bower-angular-route",
   "angular-sanitize": "github:angular/bower-angular-sanitize",
   "angular-smart-table": "github:lorenzofox3/Smart-Table",
