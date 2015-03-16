@@ -29,6 +29,7 @@
   "angular-messages": "github:angular/bower-angular-messages",
   "angular-mocks": "github:angular/bower-angular-mocks",
   "angular-next": "github:robianmcd/angular-next",
+  "angular-resource": "github:angular/bower-angular-resource",
   "angular-route": "github:angular/bower-angular-route",
   "angular-sanitize": "github:angular/bower-angular-sanitize",
   "angular-smart-table": "lorenzofox3/Smart-Table",
