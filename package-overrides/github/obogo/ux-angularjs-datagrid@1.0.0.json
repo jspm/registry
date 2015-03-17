@@ -1,0 +1,17 @@
+{
+   "format": "global",
+   "shim": {
+      "latest/angular-ux-datagrid": {
+         "deps": [ "angular" ],
+         "exports": "ux"
+      }
+   }, 
+   "registry": "jspm",
+   "dependencies": {
+      "angular": "^1.3.2"
+   },
+   "directories": {
+      "lib": "build"
+   },
+   "main": "latest/angular-ux-datagrid"
+}
