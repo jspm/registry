@@ -1,6 +1,6 @@
 {
   "main": "browser.js",
-  "format": "amd",
+  "format": "global",
   "dependencies": {},
   "jspmNodeConversion": false
 }
