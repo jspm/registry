@@ -2,7 +2,7 @@
 	"directories": {
 		"lib": "dist"
 	},
-	"main": "dist/js/bootstrap-wizard",
+	"main": "js/bootstrap-wizard",
 	"shim": {
 		"js/bootstrap-wizard": {
 			"exports": "bootstrapWizard"
