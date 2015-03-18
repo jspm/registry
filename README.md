@@ -55,3 +55,8 @@ To submit a new package override:
 * If the configuration is correct, this will be accepted and that will instantly enable the functionality on the endpoint.
 
 > The overrides will apply for all versions semver compatible with the override version, with the highest version override taking precedence.
+
+### Registry Maintainers
+
+Anyone is welcome to assist with reviewing override changes. Overrides are reviewed based on checking syntax, backwards-compatibility and best-practises. The registry maintainers are selected based on their ability to implement
+these guidelines. The goal is for this to be a diverse group across timezones to provide prompt reviews for overrides.
