@@ -1,0 +1,8 @@
+{
+	"main": "dist/js/bootstrap-wizard.min",
+	"shim": {
+		"dist/js/bootstrap-wizard.min": {
+			"exports": "bootstrapWizard"
+		}
+	}
+}
