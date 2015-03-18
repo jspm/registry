@@ -1,0 +1,10 @@
+{
+  "main": "js/bootstrap",
+  "shim": {
+    "js/bootstrap": {
+      "deps": "jquery",
+      "exports": "$"
+    }
+  },
+  "files": ["css", "fonts", "js"]
+}
