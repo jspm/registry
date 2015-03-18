@@ -91,6 +91,7 @@
   "bignumber.js": "npm:bignumber.js",
   "bootstrap": "github:twbs/bootstrap",
   "bootstrap-slider": "github:seiyria/bootstrap-slider",
+  "bootstrap-wizard": "github:gwrey/bootstrap-wizard",
   "breeze": "npm:breeze-client",
   "buffer": "github:jspm/nodelibs-buffer",
   "chart": "github:nnnick/Chart.js",
