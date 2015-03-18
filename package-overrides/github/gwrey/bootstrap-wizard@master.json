@@ -1,0 +1,11 @@
+{
+	"directories": {
+		"lib": "dist"
+	},
+	"main": "js/bootstrap-wizard",
+	"shim": {
+		"js/bootstrap-wizard": {
+			"exports": "bootstrapWizard"
+		}
+	}
+}
