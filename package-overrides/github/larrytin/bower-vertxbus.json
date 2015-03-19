@@ -1,8 +1,8 @@
 {
-   "format": "amd",
+   "format": "global",
    "registry": "jspm",
    "main": "vertxbus",
-   "deps": {
+   "dependencies": {
       "sockjs-client": "0.3.4"
    },
    "shim": {
