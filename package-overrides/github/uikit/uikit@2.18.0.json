@@ -1,0 +1,11 @@
+{
+  "main": "js/uikit",
+  "shim": {
+    "js/uikit": {
+      "deps": "jquery"
+    },
+    "js/uikit/core/.*": "../uikit",
+    "js/uikit/components/.*": ["../uikit"]
+  },
+  "files": ["css", "fonts", "js"]
+}
