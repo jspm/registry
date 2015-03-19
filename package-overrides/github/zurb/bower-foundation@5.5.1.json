@@ -1,8 +1,12 @@
 {
   "main": "js/foundation/foundation",
+  "format": "global",
   "shim": {
     "js/foundation/foundation.*": "./foundation",
-    "js/foundation/foundation": ["../vendor/jquery"]
+    "js/foundation/foundation": {
+      "deps": "jquery",
+      "exports": "Foundation"
+    }
   },
   "ignore": [
     "js/foundation.min.js", 
