@@ -1,0 +1,26 @@
+{
+  "name": "registry",
+  "version": "0.0.0",
+  "description": "The jspm registry and package.json override service",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jspm/registry.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jspm/registry/issues"
+  },
+  "homepage": "https://github.com/jspm/registry",
+  "private": true,
+  "dependencies": {
+    "colors": "^1.0.3",
+    "commander": "^2.7.1",
+    "glob": "^5.0.3",
+    "jspm-github": "git://github.com/jspm/github",
+    "jspm-npm": "git://github.com/jspm/npm",
+    "mout": "^0.11.0",
+    "q": "^1.2.0"
+  }
+}
