@@ -1,0 +1,16 @@
+{
+   "format": "amd",
+   "registry": "jspm",
+   "main": "vertxbus",
+   "deps": {
+      "sockjs-client": "0.3.4"
+   },
+   "shim": {
+      "vertxbus": {
+         "deps": [
+            "sockjs-client"
+         ],
+         "exports": "vertx"
+      }
+   }
+}
