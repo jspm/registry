@@ -233,6 +233,7 @@
   "restangular": "github:mgonto/restangular",
   "return-function": "npm:return-function",
   "rx": "npm:rx",
+  "saairey-bootstrap-wizard": "github:saairey/bootstrap-wizard",
   "select2": "github:select2/select2",
   "selectize": "github:brianreavis/selectize.js",
   "scoped-polyfill": "github:PM5544/scoped-polyfill",
