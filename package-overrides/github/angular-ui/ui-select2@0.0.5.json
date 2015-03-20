@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "angular": "*",
+    "select2": "*"
+  },
+  "directories": {
+    "lib": "src"
+  },
+  "main": "select2",
+  "registry": "jspm",
+  "shim": {
+    "select2": {
+      "deps": [
+        "angular",
+        "select2"
+      ]
+    }
+  }
+}
