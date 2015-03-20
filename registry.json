@@ -250,6 +250,7 @@
   "twitter": "npm:twitter",
   "typeahead": "github:twitter/typeahead.js",
   "ua-parser-js": "npm:ua-parser-js",
+  "uikit": "github:uikit/uikit",
   "underscore": "npm:underscore",
   "uri-templates": "npm:uri-templates",
   "url": "github:jspm/nodelibs-url",
