@@ -2,6 +2,6 @@
   "directories": { 
     "lib": "build"
   },
-  "main": "breeze.min.js",
+  "main": "breeze.debug.js",
   "format": "global"
 }
