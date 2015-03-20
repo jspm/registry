@@ -56,6 +56,7 @@
   "any-promise-es6": "npm:any-promise-es6",
   "army-knife": "npm:army-knife",
   "assert": "github:jspm/nodelibs-assert",
+  "aurelia-animator-css": "github:aurelia/animator-css",
   "aurelia-binding": "github:aurelia/binding",
   "aurelia-breeze": "github:jdanyow/aurelia-breeze",
   "aurelia-bootstrapper": "github:aurelia/bootstrapper",
