@@ -171,6 +171,7 @@
   "kickstrap": "github:ajkochanowicz/Kickstrap",
   "klayjs": "github:OpenKieler/klayjs",
   "knockout": "github:knockout/knockout",
+  "knockout-validation": "github:Knockout-Contrib/Knockout-Validation",
   "less.js": "github:distros/less",
   "lightbox2": "github:lokesh/lightbox2",
   "localforage": "npm:localforage",
