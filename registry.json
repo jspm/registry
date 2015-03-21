@@ -99,6 +99,7 @@
   "core-js": "github:zloirock/core-js",
   "cram": "github:cujojs/cram",
   "crypto": "github:jspm/nodelibs-crypto",
+  "css-element-queries": "github:marcj/css-element-queries",
   "curl": "github:cujojs/curl",
   "d3": "github:mbostock/d3",
   "datatables": "github:DataTables/DataTables",
