@@ -1,0 +1,11 @@
+{
+    "main": "dist/knockout.validation",
+    "shim": {
+        "dist/knockout.validation": {
+            "deps": ["knockout"]
+        }
+    },
+    "dependencies": {
+        "knockout": "github:knockout/knockout@^3.3.0"
+    }
+}
