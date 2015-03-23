@@ -40,7 +40,8 @@ program
  */
 var error = function(msg){
 
-	log.error(msg);
+	if(!program.onlyErrors)
+		log.error(msg);
 
 	if(Array.isArray(msg)) {
 		error.summary.concat(msg);
