@@ -164,7 +164,7 @@ if(error.summary.length) {
 }
 
 log.n()
-	('errorSummary ................')
+	('Summary ................')
 	.ok('excellent!! all is well.')
 	.n();
 
