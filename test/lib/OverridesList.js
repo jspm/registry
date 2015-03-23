@@ -8,10 +8,10 @@ var FILE_EXTENSION = /[^.]*$/i;
 var PACKAGE_EXPECTATION = /(.*)@(.*).json$/;
 
 /**
- * @constructor RegistryEntry
+ * @constructor OverridesList
  */		
 
-var RegistryEntryCollection = module.exports = function RegistryEntry(endpoint){
+var OverridesList = module.exports = function OverridesList(endpoint){
 
 	this._endpoint = endpoint;
 	this._basePath = path.resolve('./package-overrides', this._endpoint);
@@ -19,7 +19,7 @@ var RegistryEntryCollection = module.exports = function RegistryEntry(endpoint){
 
 };
 
-RegistryEntryCollection.prototype.forEachFile = function(fn){
+OverridesList.prototype.forEachOverrideFile = function(fn){
 
 	forOwn(this._files, function(file, index){
 
@@ -29,7 +29,7 @@ RegistryEntryCollection.prototype.forEachFile = function(fn){
 		var fileinfo = {
 			packageName: undefined,
 			packageVersion: undefined,
-			packageValue: undefined,
+			canonicalPackageName: undefined,
 
 			file: file,
 			endpoint: this._endpoint,
@@ -42,7 +42,7 @@ RegistryEntryCollection.prototype.forEachFile = function(fn){
 		if (match) {
 			fileinfo.packageName = match[1];
 			fileinfo.packageVersion = match[2];
-			fileinfo.packageValue = fileinfo.endpoint + ':' + fileinfo.packageName;
+			fileinfo.canonicalPackageName = fileinfo.endpoint + ':' + fileinfo.packageName;
 		}
 
 		fn.call(this, fileinfo, index);

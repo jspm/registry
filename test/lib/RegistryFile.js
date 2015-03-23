@@ -3,12 +3,11 @@
 var util = require('util');
 var path = require('path');
 var JsonFile = require('./JsonFile');
-var PACKAGE_EXPECTATION = /^([^:\s]*):([^\s]*)$/;
+var CANONICAL_NAME_EXPECTATION = /^([^:\s]*):([^\s]*)$/;
 
 /**
  * @constructor RegistryFile
- */		
-
+ */
 var RegistryFile = module.exports = function RegistryFile(){
 
 	if( !(this instanceof RegistryFile) )
@@ -19,30 +18,29 @@ var RegistryFile = module.exports = function RegistryFile(){
 
 util.inherits(RegistryFile, JsonFile);
 
-RegistryFile.prototype.forEachPackage = function(fn){
+RegistryFile.prototype.forEachRegistryEntry = function(fn){
 
-	return this.forEach(function(redirection, name){
+	return this.forEach(function(canonicalPackageName, registryEntryName){
 
 		var pkg = {};
-		var match = PACKAGE_EXPECTATION.exec(redirection);
+		var match = CANONICAL_NAME_EXPECTATION.exec(canonicalPackageName);
 
 		if (!match) {
 			pkg = {
-				value: redirection,
+				canonical: canonicalPackageName,
 				endpoint: undefined,
 				name: undefined,
 			};
 		
 		} else {
 			pkg = {
-				value: match[0], 
+				canonical: match[0], 
 				endpoint: match[1],
 				name: match[2],
 			};
-
 		}
 
-		fn.call(this, pkg, name);
-
+		fn.call(this, pkg, registryEntryName);
 	});
+
 };

@@ -48,7 +48,7 @@ JsonFile.prototype.forEach = function(fn){
 
 	forOwn(this._json, fn, this);
 
-	return this;	
+	return this;
 };
 
 

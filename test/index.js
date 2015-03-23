@@ -3,7 +3,7 @@
 var util = require('util');
 var mout = require('mout');
 var colors = require('colors/safe');
-var registries = {
+var endpoints = {
 	github: require('jspm-github'),
 	npm: require('jspm-npm')
 };
@@ -14,8 +14,7 @@ var gray = colors.gray;
 var log = require('./lib/log');
 var JsonFile = require('./lib/JsonFile');
 var RegistryFile = require('./lib/RegistryFile');
-var RegistryEntryCollection = require('./lib/RegistryEntryCollection');
-
+var OverridesList = require('./lib/OverridesList');
 
 //
 // COMMANDER CONFIGURATION
@@ -88,43 +87,42 @@ if(registryFile.errors().length) {
 } else {
 	ok('registry.json is valid json');
 
-	registryFile.forEachPackage(function(pkg, name){
+	registryFile.forEachRegistryEntry(function(pkg, registryEntryName){
 
 		// validate specific packages
 		if(program.args.length) {
 
-			var pos = program.args.indexOf(name);
+			var pos = program.args.indexOf(registryEntryName);
 
-			if(pos === -1)			
+			if(pos === -1)
 				return;
 
 			// replace for test the package-override
-			program.args[pos] = pkg.value;
+			program.args[pos] = pkg.canonical;
 		}
 
 		if(!pkg.endpoint || !pkg.name)
-			return error( util.format('%s not respects the format {ENDPOINT}:{PACKAGE_NAME}', gray(pkg.value)) );
+			return error( util.format('%s not respects the format {ENDPOINT}:{PACKAGE_NAME}', gray(pkg.canonical)) );
 
-		if(!registries[pkg.endpoint])
-			return error( util.format('%s is not valid registry', gray(pkg.endpoint)) );
+		if(!endpoints[pkg.endpoint])
+			return error( util.format('%s is not valid enpoint', gray(pkg.endpoint)) );
 
-		if(!registries[pkg.endpoint].packageFormat.test( pkg.name ))
+		if(!endpoints[pkg.endpoint].packageFormat.test( pkg.name ))
 			return error( util.format('%s is not valid package name from %s endpoint', gray(pkg.name), gray(pkg.endpoint)) );
 
-		ok( util.format('%s => %s', name, pkg.value) );
+		ok( util.format('%s => %s', registryEntryName, pkg.canonical) );
 	});
 
 }
 
-
 /**
  * package overrides files
  */
-forOwn(registries, function(endpointPackage, registryName){
+forOwn(endpoints, function(Endpoint, endpointName){
 
-	var registryEntryCollection = new RegistryEntryCollection(registryName);
+	var overridesList = new OverridesList(endpointName);
 
-	registryEntryCollection.forEachFile(function(fileinfo){
+	overridesList.forEachOverrideFile(function(fileinfo){
 
 		if(fileinfo.ext !== 'json')
 			return error( util.format('%s is not json file', gray(fileinfo.path)) );
@@ -132,18 +130,18 @@ forOwn(registries, function(endpointPackage, registryName){
 		if(!fileinfo.packageName || !fileinfo.packageVersion)	
 			return error( util.format('%s not respects the file name format {PACKAGE_NAME}@{PACKAGE_VERSION}.json', gray(fileinfo.path)) );
 
-		if(!endpointPackage.packageFormat.test( fileinfo.packageName ))
+		if(!Endpoint.packageFormat.test( fileinfo.packageName ))
 			return error( util.format('%s is not valid package name from %s endpoint', gray(fileinfo.packageName), gray(fileinfo.endpoint)) );
 
 		// validate specific packages
-		if(program.args.length && program.args.indexOf(fileinfo.packageValue) === -1 )
+		if(program.args.length && program.args.indexOf(fileinfo.canonicalPackageName) === -1 )
 			return;
 
-		var jsonFile = new JsonFile(fileinfo.path);
-		if(jsonFile.errors().length)
-			return error( util.format('%s is not valid json file \n - %s', gray(fileinfo.path), jsonFile.errors().join('\n -')) );
+		var overrideFile = new JsonFile(fileinfo.path);
+		if(overrideFile.errors().length)
+			return error( util.format('%s is not valid json file \n - %s', gray(fileinfo.path), overrideFile.errors().join('\n -')) );
 
-		ok( fileinfo.packageValue + '@' + fileinfo.packageVersion );
+		ok( fileinfo.canonicalPackageName + '@' + fileinfo.packageVersion );
 	});
 
 });
