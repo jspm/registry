@@ -1,5 +1,5 @@
 {
-  "main": "dist/knockout",
+  "main": "dist/knockout.debug",
   "shim": {
     "dist/knockout": {
       "exports": "ko"
