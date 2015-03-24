@@ -80,6 +80,7 @@
   "aurelia-templating-binding": "github:aurelia/templating-binding",
   "aurelia-templating-resources": "github:aurelia/templating-resources",
   "aurelia-templating-router": "github:aurelia/templating-router",
+  "aurelia-validation": "github:aurelia/validation",
   "firebase": "github:firebase/firebase-bower",
   "angularFire": "github:firebase/angularFire",
   "angularfire": "github:firebase/angularfire",
