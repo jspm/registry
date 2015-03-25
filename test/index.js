@@ -13,7 +13,7 @@ var gray = colors.gray;
 
 var log = require('./lib/log');
 var JsonFile = require('./lib/JsonFile');
-var RegistryFile = require('./lib/RegistryFile');
+var OverrideFile = require('./lib/OverrideFile');
 var OverridesList = require('./lib/OverridesList');
 
 //
@@ -78,16 +78,16 @@ var ok = function(msg){
 /**
  * registry.json
  */
-var registryFile = new RegistryFile();
+var overrideFile = new OverrideFile();
 
-if(registryFile.errors().length) {
+if(overrideFile.errors().length) {
 	// json format errors
-	error(registryFile.errors());
+	error(overrideFile.errors());
 
 } else {
 	ok('registry.json is valid json');
 
-	registryFile.forEachRegistryEntry(function(pkg, registryEntryName){
+	overrideFile.forEachRegistryEntry(function(pkg, registryEntryName){
 
 		// validate specific packages
 		if(program.args.length) {

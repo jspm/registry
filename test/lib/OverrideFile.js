@@ -6,19 +6,19 @@ var JsonFile = require('./JsonFile');
 var CANONICAL_NAME_EXPECTATION = /^([^:\s]*):([^\s]*)$/;
 
 /**
- * @constructor RegistryFile
+ * @constructor OverrideFile
  */
-var RegistryFile = module.exports = function RegistryFile(){
+var OverrideFile = module.exports = function OverrideFile(){
 
-	if( !(this instanceof RegistryFile) )
-		return new RegistryFile();
+	if( !(this instanceof OverrideFile) )
+		return new OverrideFile();
 
 	JsonFile.call(this, path.resolve('./registry.json'));
 };
 
-util.inherits(RegistryFile, JsonFile);
+util.inherits(OverrideFile, JsonFile);
 
-RegistryFile.prototype.forEachRegistryEntry = function(fn){
+OverrideFile.prototype.forEachRegistryEntry = function(fn){
 
 	return this.forEach(function(canonicalPackageName, registryEntryName){
 
