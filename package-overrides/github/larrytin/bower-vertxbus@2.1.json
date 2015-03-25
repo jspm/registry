@@ -1,0 +1,16 @@
+{
+   "format": "global",
+   "registry": "jspm",
+   "main": "vertxbus",
+   "dependencies": {
+      "sockjs-client": "0.3.4"
+   },
+   "shim": {
+      "vertxbus": {
+         "deps": [
+            "sockjs-client"
+         ],
+         "exports": "vertx"
+      }
+   }
+}
