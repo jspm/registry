@@ -1,69 +1,160 @@
-"use strict";
+'use strict';
+
+var util = require('util');
+var mout = require('mout');
+var colors = require('colors/safe');
+var endpoints = {
+	github: require('jspm-github'),
+	npm: require('jspm-npm')
+};
+
+var forOwn = mout.object.forOwn;
+var gray = colors.gray;
 
 var log = require('./lib/log');
-var RegistryFile = require('./lib/RegistryFile');
+var JsonFile = require('./lib/JsonFile');
 var OverrideFile = require('./lib/OverrideFile');
-var summary = [];
+var OverridesList = require('./lib/OverridesList');
 
-/**
- * Commander
- */
+//
+// COMMANDER CONFIGURATION
+//
 var program = require('commander');
 program
   .version('0.0.1')
   .usage('[options] <package ...>')
-  .option('-e, --only-errors', 'Show only summary', 0)
+  .option('-e, --only-errors', 'Show only errors', 0)
   .parse(process.argv);
 
+
+
+//
+// LOG HELPERS
+//
+
+/**
+ * @function error - log errors messages
+ * @param  {String|Array} msg
+ * @return {Function} error
+ */
+var error = function(msg){
+
+	if(!program.onlyErrors)
+		log.error(msg);
+
+	if(Array.isArray(msg)) {
+		error.summary.concat(msg);
+
+	} else {
+		error.summary.push(msg);
+
+	}
+
+	return error;
+};
+
+/**
+ * @type {Array} list all errors
+ */
+error.summary = [];
+
+/**
+ * function ok - log validation passed messages
+ * @param  {String|Array} msg
+ * @return {Function} ok
+ */
+var ok = function(msg){
+
+	if(!program.onlyErrors)
+		log.ok(msg);
+
+	return ok;
+};
+
+//
+// VALIDATION PROCESS
+//
 
 /**
  * registry.json
  */
-var registry = RegistryFile();
-if(registry.errors().length)
-{
-	summary = summary.concat(registry.errors());
-	log.error(registry.errors());
-	process.exit(1);
+var overrideFile = new OverrideFile();
+
+if(overrideFile.errors().length) {
+	// json format errors
+	error(overrideFile.errors());
+
+} else {
+	ok('registry.json is valid json');
+
+	overrideFile.forEachRegistryEntry(function(pkg, registryEntryName){
+
+		// validate specific packages
+		if(program.args.length) {
+
+			var pos = program.args.indexOf(registryEntryName);
+
+			if(pos === -1)
+				return;
+
+			// replace for test the package-override
+			program.args[pos] = pkg.canonical;
+		}
+
+		if(!pkg.endpoint || !pkg.name)
+			return error( util.format('%s not respects the format {ENDPOINT}:{PACKAGE_NAME}', gray(pkg.canonical)) );
+
+		if(!endpoints[pkg.endpoint])
+			return error( util.format('%s is not valid enpoint', gray(pkg.endpoint)) );
+
+		if(!endpoints[pkg.endpoint].packageFormat.test( pkg.name ))
+			return error( util.format('%s is not valid package name from %s endpoint', gray(pkg.name), gray(pkg.endpoint)) );
+
+		ok( util.format('%s => %s', registryEntryName, pkg.canonical) );
+	});
+
 }
 
-// log ok
-if(!program.onlyErrors)
-	log.ok('registry.json');
-
-
 /**
- * Packages
+ * package overrides files
  */
-registry.forEach(function(endpoint, name){
+forOwn(endpoints, function(Endpoint, endpointName){
 
-	if(program.args.length && program.args.indexOf(name) === -1)
-		return;
+	var overridesList = new OverridesList(endpointName);
 
-	var override = new OverrideFile(endpoint);
+	overridesList.forEachOverrideFile(function(fileinfo){
 
-	if(override.errors().length) {
+		if(fileinfo.ext !== 'json')
+			return error( util.format('%s is not json file', gray(fileinfo.path)) );
+			
+		if(!fileinfo.packageName || !fileinfo.packageVersion)	
+			return error( util.format('%s not respects the file name format {PACKAGE_NAME}@{PACKAGE_VERSION}.json', gray(fileinfo.path)) );
 
-		var errorDescription = name + ' => ' + endpoint + '\n\t' + override.errors().join('\n\t');
-		summary.push(errorDescription);
+		if(!Endpoint.packageFormat.test( fileinfo.packageName ))
+			return error( util.format('%s is not valid package name from %s endpoint', gray(fileinfo.packageName), gray(fileinfo.endpoint)) );
 
-	} else if(!program.onlyErrors) {
-		log.ok(name + ' => ' + endpoint);
+		// validate specific packages
+		if(program.args.length && program.args.indexOf(fileinfo.canonicalPackageName) === -1 )
+			return;
 
-		if(!override.isFile())
-			log.info(' not override file from ' + name);
-	}
+		var overrideFile = new JsonFile(fileinfo.path);
+		if(overrideFile.errors().length)
+			return error( util.format('%s is not valid json file \n - %s', gray(fileinfo.path), overrideFile.errors().join('\n -')) );
+
+		ok( fileinfo.canonicalPackageName + '@' + fileinfo.packageVersion );
+	});
 
 });
 
 
-/**
- * Summary
- */
-if(summary.length) {
+//
+// SUMMARY LOG
+//
+
+if(error.summary.length) {
 	log.n()
 		('Error summary ................')
-		.error(summary)
+		.error(error.summary)
 		.n();
 
 	process.exit(1);
