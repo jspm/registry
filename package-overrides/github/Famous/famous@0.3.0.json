@@ -1,13 +1,44 @@
 {
-    "directories": {
-        "lib": "src"
+  "directories": {
+    "lib": "src"
+  },
+  "dependencies": {
+    "css": "^0.1.0",
+    "famous-polyfills": "github:Famous/polyfills"
+  },
+  "shim": {
+    "core/*": {
+      "deps": ["src/core/famous.css!", "famous-polyfills"]
     },
-    "dependencies": {
-        "css": "^0.1.0"
+    "events/*": {
+      "deps": ["src/core/famous.css!", "famous-polyfills"]
     },
-    "shim": {
-        "*/*": {
-            "deps": ["../core/famous.css!"]
-        }
+    "inputs/*": {
+      "deps": ["src/core/famous.css!", "famous-polyfills"]
+    },
+    "math/*": {
+      "deps": ["src/core/famous.css!", "famous-polyfills"]
+    },
+    "modifiers/*": {
+      "deps": ["src/core/famous.css!", "famous-polyfills"]
+    },
+    "physics/*": {
+      "deps": ["src/core/famous.css!", "famous-polyfills"]
+    },
+    "surfaces/*": {
+      "deps": ["src/core/famous.css!", "famous-polyfills"]
+    },
+    "transitions/*": {
+      "deps": ["src/core/famous.css!", "famous-polyfills"]
+    },
+    "utilities/*": {
+      "deps": ["src/core/famous.css!", "famous-polyfills"]
+    },
+    "views/*": {
+      "deps": ["src/core/famous.css!", "famous-polyfills"]
+    },
+    "widgets/*": {
+      "deps": ["src/core/famous.css!", "famous-polyfills"]
     }
+  }
 }
