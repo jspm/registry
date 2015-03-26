@@ -1,5 +1,6 @@
 {
   "browser": "mocha",
+  "main": "mocha",
   "shim": {
     "mocha": {
       "deps": ["./mocha.css!"],
