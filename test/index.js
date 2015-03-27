@@ -12,7 +12,7 @@ var forOwn = mout.object.forOwn;
 var gray = colors.gray;
 
 var log = require('./lib/log');
-var JsonFile = require('./lib/JsonFile');
+var PackageOverrideFile = require('./lib/PackageOverrideFile');
 var OverrideFile = require('./lib/OverrideFile');
 var OverridesList = require('./lib/OverridesList');
 
@@ -39,11 +39,12 @@ program
  */
 var error = function(msg){
 
+
 	if(!program.onlyErrors)
 		log.error(msg);
 
 	if(Array.isArray(msg)) {
-		error.summary.concat(msg);
+		error.summary = error.summary.concat(msg);
 
 	} else {
 		error.summary.push(msg);
@@ -80,7 +81,7 @@ var ok = function(msg){
  */
 var overrideFile = new OverrideFile();
 
-if(overrideFile.errors().length) {
+if(overrideFile.hasErrors()) {
 	// json format errors
 	error(overrideFile.errors());
 
@@ -137,9 +138,9 @@ forOwn(endpoints, function(Endpoint, endpointName){
 		if(program.args.length && program.args.indexOf(fileinfo.canonicalPackageName) === -1 )
 			return;
 
-		var overrideFile = new JsonFile(fileinfo.path);
-		if(overrideFile.errors().length)
-			return error( util.format('%s is not valid json file \n - %s', gray(fileinfo.path), overrideFile.errors().join('\n -')) );
+		var packageOverrideFile = new PackageOverrideFile(fileinfo.path);
+		if(packageOverrideFile.hasErrors())
+			return error( util.format('%s is not valid package override file \n - %s', gray(fileinfo.path), packageOverrideFile.errors().join('\n -')) );
 
 		ok( fileinfo.canonicalPackageName + '@' + fileinfo.packageVersion );
 	});
@@ -150,7 +151,6 @@ forOwn(endpoints, function(Endpoint, endpointName){
 //
 // SUMMARY LOG
 //
-
 if(error.summary.length) {
 	log.n()
 		('Error summary ................')

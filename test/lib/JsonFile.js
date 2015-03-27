@@ -44,6 +44,11 @@ JsonFile.prototype.errors = function(){
 	return this._errors;
 };
 
+JsonFile.prototype.hasErrors = function(){
+
+	return this._errors.length > 0;
+};
+
 JsonFile.prototype.forEach = function(fn){
 
 	forOwn(this._json, fn, this);
