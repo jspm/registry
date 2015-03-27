@@ -1,6 +1,4 @@
 {
   "main": false,
-  "format": "cjs",
-  "dependencies": {},
-  "jspmNodeConversion": false
+  "dependencies": {}
 }
