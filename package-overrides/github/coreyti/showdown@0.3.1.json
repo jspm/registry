@@ -7,8 +7,5 @@
     "showdown": {
       "exports": "Showdown"
     }
-  },
-  "buildConfig": {
-    "minify": true
   }
 }

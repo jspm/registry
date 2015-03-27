@@ -5,8 +5,5 @@
         "intro": {
             "imports": ["./introjs.css!"]
         }
-    },
-    "buildConfig": {
-        "uglify": true
     }
 }

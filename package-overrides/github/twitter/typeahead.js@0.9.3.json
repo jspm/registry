@@ -9,8 +9,5 @@
             "imports": "jquery",
             "exports": "$"
         }
-    },
-    "buildConfig": {
-        "uglify": true
     }
 }

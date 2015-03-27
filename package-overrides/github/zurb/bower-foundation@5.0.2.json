@@ -12,8 +12,5 @@
     "js/vendor/fastclick.js",
     "js/vendor/jquery.autocomplete.js",
     "js/vendor/placeholder.js"
-  ],
-  "buildConfig": {
-    "uglify": true
-  }
+  ]
 }

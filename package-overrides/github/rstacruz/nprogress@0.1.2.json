@@ -5,8 +5,5 @@
         "nprogress": {
             "imports": ["./nprogress.css!", "jquery"]
         }
-    },
-    "buildConfig": {
-        "uglify": true
     }
 }

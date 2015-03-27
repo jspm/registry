@@ -7,8 +7,5 @@
       "exports": "Modernizr"
     }
   },
-  "files": ["modernizr.js", "feature-detects"],
-  "buildConfig": {
-    "uglify": true
-  }
+  "files": ["modernizr.js", "feature-detects"]
 }

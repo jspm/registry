@@ -7,6 +7,5 @@
   "shim": {
     "chosen.jquery": ["./chosen.css!", "jquery"],
     "chosen.jquery.min": ["jquery"]
-  },
-  "buildConfig": { "uglify": true }
+  }
 }

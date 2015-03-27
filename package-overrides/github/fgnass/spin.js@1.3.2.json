@@ -3,8 +3,5 @@
     "directories": {
         "lib": "dist"
     },
-    "files": ["dist/spin.js"],
-    "buildConfig": {
-        "uglify": true
-    }
+    "files": ["dist/spin.js"]
 }

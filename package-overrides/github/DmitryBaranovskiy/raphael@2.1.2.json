@@ -1,7 +1,4 @@
 {
     "main": "raphael",
-    "files": ["raphael.js"],
-    "buildConfig": {
-        "uglify": true
-    }
+    "files": ["raphael.js"]
 }

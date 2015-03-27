@@ -3,11 +3,8 @@
   "directories": {
     "lib": "src"
   },
-  "buildConfig": {
-    "uglify": true
-  },
-  "dependencyMap": {
-    "sizzle": "github:jquery/sizzle@1.10.9/sizzle"
+  "map": {
+    "sizzle": "./src/sizzle/dist/sizzle"
   },
   "ignore": ["src/intro.js", "src/outro.js"]
 }

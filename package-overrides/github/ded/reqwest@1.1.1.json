@@ -1,6 +1,3 @@
 {
-    "files": ["reqwest.js"],
-    "buildConfig": {
-        "minify": true
-    }
+    "files": ["reqwest.js"]
 }

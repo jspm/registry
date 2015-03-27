@@ -2,8 +2,5 @@
     "main": "skrollr",
     "directories": {
         "lib": "src"
-    },
-    "buildConfig": {
-        "uglify": true
     }
 }
