@@ -39,11 +39,12 @@ program
  */
 var error = function(msg){
 
+
 	if(!program.onlyErrors)
 		log.error(msg);
 
 	if(Array.isArray(msg)) {
-		error.summary.concat(msg);
+		error.summary = error.summary.concat(msg);
 
 	} else {
 		error.summary.push(msg);
@@ -80,7 +81,7 @@ var ok = function(msg){
  */
 var overrideFile = new OverrideFile();
 
-if(overrideFile.errors().length) {
+if(overrideFile.hasErrors()) {
 	// json format errors
 	error(overrideFile.errors());
 
@@ -138,7 +139,7 @@ forOwn(endpoints, function(Endpoint, endpointName){
 			return;
 
 		var overrideFile = new JsonFile(fileinfo.path);
-		if(overrideFile.errors().length)
+		if(overrideFile.hasErrors())
 			return error( util.format('%s is not valid json file \n - %s', gray(fileinfo.path), overrideFile.errors().join('\n -')) );
 
 		ok( fileinfo.canonicalPackageName + '@' + fileinfo.packageVersion );
@@ -150,7 +151,6 @@ forOwn(endpoints, function(Endpoint, endpointName){
 //
 // SUMMARY LOG
 //
-
 if(error.summary.length) {
 	log.n()
 		('Error summary ................')
