@@ -1,5 +1,5 @@
 {
-  "coffee": "github:forresto/plugin-coffee",
+  "coffee": "github:forresto/system-coffee",
   "css": "github:systemjs/plugin-css",
   "ember-hbs": "github:n-fuse/plugin-ember-hbs",
   "font": "github:guybedford/system-font",
