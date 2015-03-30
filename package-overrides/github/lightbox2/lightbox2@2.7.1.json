@@ -1,6 +1,7 @@
 {
   "main": "js/lightbox",
   "format": "global",
+  "registry": "jspm",
   "dependencies": {
     "jquery": "^2.1.3",
     "css": "0.1.0"

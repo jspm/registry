@@ -8,6 +8,7 @@
         "angular": "^1.2.0",
         "css": "^0.1.0"
     },
+    "registry": "jspm",
     "shim": {
         "famous-angular": {
             "deps": ["./famous-angular.css!"]

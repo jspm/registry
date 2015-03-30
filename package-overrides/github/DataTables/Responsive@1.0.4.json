@@ -5,6 +5,7 @@
     "jquery": "*",
     "css": "*"
   },
+  "registry": "jspm",
   "format": "global",
   "files": [
     "js/dataTables.responsive.js",

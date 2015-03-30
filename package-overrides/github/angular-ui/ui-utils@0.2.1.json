@@ -3,6 +3,7 @@
   "dependencies": {
     "angular": "^1.0.2"
   },
+  "registry": "jspm",
   "shim": {
     "ui-utils": {
       "deps": "angular"

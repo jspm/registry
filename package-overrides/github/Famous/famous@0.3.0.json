@@ -5,6 +5,7 @@
     "dependencies": {
         "css": "^0.1.0"
     },
+    "registry": "jspm",
     "shim": {
         "*/*": {
             "deps": ["../core/famous.css!"]

@@ -1,5 +1,6 @@
 {
   "main": "js/jquery.Jcrop",
+  "registry": "jspm",
   "dependencies": {
     "jquery": "*",
     "css": "*"

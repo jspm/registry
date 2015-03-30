@@ -4,6 +4,7 @@
   "directories": {
     "dist": "build"
   },
+  "registry": "jspm",
   "dependencies": {
     "three": "*"
   },

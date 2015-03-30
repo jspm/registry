@@ -5,6 +5,7 @@
       "deps": ["angular"]
     }
   },
+  "registry": "jspm",
   "dependencies": {
     "angular": "github:angular/bower-angular@^1.3.0"
   }

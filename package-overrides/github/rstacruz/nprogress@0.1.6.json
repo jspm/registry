@@ -5,7 +5,8 @@
       "deps": ["./nprogress.css!"] 
     } 
   }, 
-  "dependencies": { 
+  "registry": "jspm",
+  "dependencies": {
     "css": "*" 
   } 
 }

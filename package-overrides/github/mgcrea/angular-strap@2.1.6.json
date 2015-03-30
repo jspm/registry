@@ -3,6 +3,7 @@
     "lib": "dist"
   },
   "main": "angular-strap.tpl",
+  "registry": "jspm",
   "dependencies": {
     "angular": "^1.2.0"
   },
