@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "wrench"            : "git://github.com/derekslife/wrench-js.git"
+  }
+}
