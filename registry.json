@@ -97,6 +97,7 @@
   "benchmark": "npm:benchmark",
   "big.js": "npm:big.js",
   "bignumber.js": "npm:bignumber.js",
+  "bluebird": "npm:bluebird",
   "bootstrap": "github:twbs/bootstrap",
   "bootstrap-slider": "github:seiyria/bootstrap-slider",
   "bootstrap-wizard": "github:gwrey/bootstrap-wizard",
