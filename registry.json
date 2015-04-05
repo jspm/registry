@@ -181,7 +181,7 @@
   "less.js": "github:distros/less",
   "lightbox2": "github:lokesh/lightbox2",
   "localforage": "npm:localforage",
-  "lodash": "npm:lodash",
+  "lodash": "github:lodash/lodash",
   "marionette": "github:marionettejs/backbone.marionette",
   "masonry": "github:desandro/masonry",
   "material-design-icons": "github:google/material-design-icons",
