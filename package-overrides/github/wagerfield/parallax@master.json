@@ -8,8 +8,5 @@
         "parallax": {
             "imports": ["./requestAnimationFrame"]
         }
-    },
-    "buildConfig": {
-        "uglify": true
     }
 }

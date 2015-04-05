@@ -3,8 +3,5 @@
     "dist": "dist"
   },
   "main": "js/dom.jsPlumb-1.6.4",
-  "format": "global",
-  "buildConfig": {
-    "minify": true
-  }
+  "format": "global"
 }

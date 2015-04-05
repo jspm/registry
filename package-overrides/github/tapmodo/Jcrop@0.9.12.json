@@ -15,8 +15,5 @@
     "js/jquery.Jcrop.js",
     "css/Jcrop.gif",
     "css/jquery.Jcrop.css"
-  ],
-  "buildConfig": {
-    "uglify": true
-  }
+  ]
 }

@@ -5,8 +5,5 @@
     },
     "shim": {
         "backbone.marionette": ["backbone@1.1", "underscore@1.5", "backbone.wreqr@0.2", "backbone.babysitter@0.0"]
-    },
-    "buildConfig": {
-        "uglify": "true"
     }
 }

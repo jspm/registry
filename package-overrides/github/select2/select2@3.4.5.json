@@ -6,6 +6,5 @@
       "imports": ["jquery", "./select2.css!"],
       "exports": "$"
     }
-  },
-  "buildConfig": { "uglify": true }
+  }
 }

@@ -3,8 +3,5 @@
     "files": ["dist/ratchet.js", "dist/ratchet.css", "dist/touch-icons/apple-touch-icon-114x114.png", "dist/touch-icons/apple-touch-icon-57x57.png", "dist/touch-icons/apple-touch-icon-72x72.png"],
     "directories": {
         "lib": "dist"
-    },
-    "buildConfig": {
-        "uglify": true
     }
 }

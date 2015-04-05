@@ -1,7 +1,4 @@
 {
     "main": "mustache",
-    "files": ["mustache.js"],
-    "buildConfig": {
-        "uglify": true
-    }
+    "files": ["mustache.js"]
 }
