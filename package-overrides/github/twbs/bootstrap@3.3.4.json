@@ -2,9 +2,12 @@
   "main": "js/bootstrap",
   "shim": {
     "js/bootstrap": {
-      "deps": "jquery",
+      "deps": ["jquery"],
       "exports": "$"
     }
+  },
+  "dependencies": {
+    "jquery": "github:components/jquery"
   },
   "files": ["css", "fonts", "js"]
 }
