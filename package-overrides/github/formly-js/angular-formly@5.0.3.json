@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "api-check": "github:kentcdodds/apiCheck.js@^6.0.11"
+  }
+}
