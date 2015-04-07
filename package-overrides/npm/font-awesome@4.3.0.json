@@ -1,0 +1,8 @@
+{
+  "main": "css/font-awesome.css!",
+  "jspmNodeConversion": false,
+  "registry": "jspm",
+  "dependencies": {
+    "css": "0.1"
+  }
+}
