@@ -32,6 +32,7 @@
   "angular-messages": "github:angular/bower-angular-messages",
   "angular-mocks": "github:angular/bower-angular-mocks",
   "angular-next": "github:robianmcd/angular-next",
+  "angular-recursion": "github:marklagendijk/angular-recursion",
   "angular-resource": "github:angular/bower-angular-resource",
   "angular-restmod": "github:platanus/angular-restmod",
   "angular-route": "github:angular/bower-angular-route",
