@@ -255,6 +255,7 @@
   "sifter": "github:brianreavis/sifter.js",
   "skrollr": "github:Prinzhorn/skrollr",
   "sockjs-client": "github:sockjs/sockjs-client",
+  "socket.io-rpc-client": "github:capaj/socket.io-rpc-client",
   "spin": "github:fgnass/spin.js",
   "stomp-websocket": "github:jmesnil/stomp-websocket",
   "stream": "github:jspm/nodelibs-stream",
