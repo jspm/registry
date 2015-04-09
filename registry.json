@@ -148,6 +148,8 @@
   "hammer": "github:hammerjs/hammer.js",
   "handlebars": "github:components/handlebars.js",
   "handlebars.js": "github:components/handlebars.js",
+  "handlebars-group-by": "npm:handlebars-group-by",
+  "handlebars-layouts": "npm:handlebars-layouts",
   "happy": "github:henrikjoreteg/Happy.js",
   "highlightjs": "github:components/highlightjs",
   "hoek": "github:capaj/hoek-browser",
