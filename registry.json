@@ -87,7 +87,7 @@
   "firebase": "github:firebase/firebase-bower",
   "angularFire": "github:firebase/angularFire",
   "angularfire": "github:firebase/angularfire",
-  "babel": "npm:babel",
+  "babel": "npm:babel-core",
   "babel-runtime": "npm:babel-runtime",
   "backbone": "npm:backbone",
   "backbone.babysitter": "github:marionettejs/backbone.babysitter",
