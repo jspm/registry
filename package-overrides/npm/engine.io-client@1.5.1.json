@@ -1,5 +1,5 @@
 {
   "dependencies": {
-      "xmlhttprequest" : "git+https://github.com/rase-/node-XMLHttpRequest@add/ssl-support"
+      "xmlhttprequest" : "git+https://github.com/rase-/node-XMLHttpRequest.git#add/ssl-support"
   }
 }
