@@ -1,6 +1,6 @@
 {
   "dependencies": {
-      "xmlhttprequest" : "git+https://github.com/rase-/node-XMLHttpRequest.git#add/ssl-support"
+      "xmlhttprequest" : "git+https://github.com/rase-/node-XMLHttpRequest.git#add/ssl-support",
       "has-cors": "1.0.3",
       "ws": "0.7.1",
       "component-emitter": "1.1.2",
