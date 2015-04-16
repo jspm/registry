@@ -251,6 +251,7 @@
   "saairey-bootstrap-wizard": "github:saairey/bootstrap-wizard",
   "select2": "github:select2/select2",
   "selectize": "github:brianreavis/selectize.js",
+  "semantic-ui": "Semantic-Org/Semantic-UI",
   "scoped-polyfill": "github:PM5544/scoped-polyfill",
   "showdown": "github:showdownjs/showdown",
   "sifter": "github:brianreavis/sifter.js",

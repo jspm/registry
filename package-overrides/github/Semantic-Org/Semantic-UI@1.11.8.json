@@ -1,0 +1,19 @@
+{
+  "directories": {
+    "lib": "dist"
+  },
+  "main": "semantic",
+  "shim": {
+    "semantic": {
+      "deps": [
+        "jquery",
+        "./semantic.css!"
+      ],
+      "exports": "$"
+    }
+  },
+  "dependencies": {
+    "jquery": "github:components/jquery",
+    "css": "github:systemjs/plugin-css"
+  }
+}
