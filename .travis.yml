@@ -4,7 +4,3 @@ node_js:
 branches:
   only:
   - master
-notifications:
-  email:
-    recipients:
-    - i@2fd.me
