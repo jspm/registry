@@ -1,0 +1,14 @@
+{
+  "main": "jquery.validate.unobtrusive",
+  "shim": {
+    "jquery.validate.unobtrusive": {
+      "deps": [
+        "jquery-validation"
+      ],
+      "exports": "$"
+    }
+  },
+  "dependencies": {
+    "jquery-validation": "github:jzaefferer/jquery-validation@^1.8"
+  }
+}
