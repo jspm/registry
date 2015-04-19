@@ -9,6 +9,6 @@
     }
   },
   "dependencies": {
-    "jquery-validation": "github:jzaefferer/jquery-validation"
+    "jquery-validation": "github:jzaefferer/jquery-validation@^1.8"
   }
 }
