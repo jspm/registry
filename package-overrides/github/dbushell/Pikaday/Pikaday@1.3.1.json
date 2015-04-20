@@ -1,0 +1,17 @@
+{
+	"files": [
+		"pikaday.js",
+		"css/pikaday.css"
+	],
+	"dependencies": {
+		"css": "*"
+	},
+	"shim": {
+		"pikaday.js": {
+			"deps": [
+				"pikaday.js",
+				"css/pikaday.css!"
+			]
+		}
+	}
+}
