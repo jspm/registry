@@ -1,0 +1,6 @@
+{
+  "main":"oidc-client.js",
+  "directories": {
+    "lib": "dist"
+  }
+}
