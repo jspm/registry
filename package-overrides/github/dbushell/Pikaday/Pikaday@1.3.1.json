@@ -1,0 +1,12 @@
+{
+	"dependencies": {
+		"css": "*"
+	},
+	"shim": {
+		"pikaday.js": {
+			"deps": [
+				"./css/pikaday.css!"
+			]
+		}
+	}
+}
