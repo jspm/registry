@@ -217,6 +217,7 @@
   "nprogress": "github:rstacruz/nprogress",
   "numgen": "npm:numgen",
   "observe-js": "github:Polymer/observe-js",
+  "oidc-client": "github:IdentityModel/oidc-client",
   "omniscient": "npm:omniscient",
   "open-sans-fontface": "github:FontFaceKit/open-sans",
   "os": "github:jspm/nodelibs-os",
