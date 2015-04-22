@@ -3,7 +3,7 @@
 		"css": "*"
 	},
 	"shim": {
-		"pikaday.js": {
+		"pikaday": {
 			"deps": [
 				"./css/pikaday.css!"
 			]
