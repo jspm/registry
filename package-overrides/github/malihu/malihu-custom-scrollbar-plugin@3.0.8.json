@@ -5,28 +5,19 @@
     "jquery.mCustomScrollbar.css",
     "jquery.mCustomScrollbar.js",
     "jquery.mCustomScrollbar.min.css",
-    "jquery.mCustomScrollbar.min.css",
     "mCSB_buttons.png"
   ],
   "registry": "jspm",
   "format": "global",
   "dependencies": {
-    "jquery": "github:components/jquery@*"
+    "jquery": "github:components/jquery"
   },
   "shim": {
-    "jquery.mCustomScrollbar.js": {
-      "deps": [
-        "jquery"
-      ],
-      "exports": "$"
+    "jquery.mCustomScrollbar": {
+      "deps": ["jquery"]
     },
-    "jquery.mCustomScrollbar.concat.min.js": {
-      "deps": [
-        "jquery"
-      ],
-      "exports": "$"
+    "jquery.mCustomScrollbar.concat.min": {
+      "deps": ["jquery"]
     }
   }
 }
-
-
