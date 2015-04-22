@@ -185,6 +185,7 @@
   "jsplumb": "github:sporritt/jsPlumb",
   "kickstrap": "github:ajkochanowicz/Kickstrap",
   "klayjs": "github:OpenKieler/klayjs",
+  "kendoui": "github:kendo-labs/bower-kendo-ui",
   "knockout": "github:knockout/knockout",
   "knockout-validation": "github:Knockout-Contrib/Knockout-Validation",
   "less.js": "github:distros/less",
