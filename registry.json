@@ -67,6 +67,7 @@
   "aurelia-binding": "github:aurelia/binding",
   "aurelia-breeze": "github:jdanyow/aurelia-breeze",
   "aurelia-bootstrapper": "github:aurelia/bootstrapper",
+  "aurelia-bs-modal": "github:pwkad/aurelia-bs-modal",
   "aurelia-dependency-injection": "github:aurelia/dependency-injection",
   "aurelia-event-aggregator": "github:aurelia/event-aggregator",
   "aurelia-framework": "github:aurelia/framework",
