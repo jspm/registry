@@ -3,7 +3,7 @@
   "files": [
     "src/nsPopover.js",
     "less/ns-popover.less",
-    "sass/ns-popover.scss",
+    "sass/ns-popover.scss"
   ],
   "registry": "jspm",
   "dependencies": {
