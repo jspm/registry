@@ -102,6 +102,7 @@
   "bignumber.js": "npm:bignumber.js",
   "bluebird": "npm:bluebird",
   "bootstrap": "github:twbs/bootstrap",
+  "bootstrap-material": "github:fezVrasta/bootstrap-material-design",
   "bootstrap-slider": "github:seiyria/bootstrap-slider",
   "bootstrap-wizard": "github:gwrey/bootstrap-wizard",
   "breeze": "npm:breeze-client",
