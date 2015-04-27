@@ -11,8 +11,6 @@
   },
   "format": "global",
   "shim": {
-    "src/nsPopover": {
-      "deps": ["angular"]
-    }
+    "src/nsPopover": ["angular"]
   }
 }
