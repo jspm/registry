@@ -1,0 +1,18 @@
+{
+  "main": "dist/js/material",
+  "shim": {
+    "dist/js/material": {
+      "deps": [
+        "jquery",
+        "../css/material.css!",
+        "../css/ripples.css!",
+        "./ripples"
+      ],
+      "exports": "$"
+    }
+  },
+  "dependencies": {
+    "jquery": "github:components/jquery",
+    "css": "github:systemjs/plugin-css"
+  }
+}
