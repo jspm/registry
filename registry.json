@@ -216,6 +216,7 @@
   "ng-multi-transclude": "github:zachsnow/ng-multi-transclude",
   "ng-sortable": "github:a5hik/ng-sortable",
   "ng-table": "github:esvit/ng-table",
+  "ns-popover": "github:nohros/nsPopover",
   "nodelibs": "github:jspm/nodelibs",
   "normalize.css": "github:necolas/normalize.css",
   "nprogress": "github:rstacruz/nprogress",
