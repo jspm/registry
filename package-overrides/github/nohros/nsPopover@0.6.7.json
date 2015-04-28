@@ -1,10 +1,5 @@
 {
   "main": "src/nsPopover",
-  "files": [
-    "src/nsPopover.js",
-    "less/ns-popover.less",
-    "sass/ns-popover.scss"
-  ],
   "registry": "jspm",
   "dependencies": {
       "angular": "^1.2.9"
