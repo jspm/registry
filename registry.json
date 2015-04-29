@@ -89,6 +89,7 @@
   "aurelia-templating-resources": "github:aurelia/templating-resources",
   "aurelia-templating-router": "github:aurelia/templating-router",
   "aurelia-validation": "github:aurelia/validation",
+  "autosize": "github:jackmoore/autosize",
   "babel": "npm:babel-core",
   "babel-runtime": "npm:babel-runtime",
   "backbone": "npm:backbone",
