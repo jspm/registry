@@ -122,6 +122,7 @@
   "cram": "github:cujojs/cram",
   "crypto": "github:jspm/nodelibs-crypto",
   "css-element-queries": "github:marcj/css-element-queries",
+  "csv": "github:knrz/CSV.js",
   "curl": "github:cujojs/curl",
   "d3": "github:mbostock/d3",
   "datatables": "github:DataTables/DataTables",
