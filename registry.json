@@ -149,7 +149,7 @@
   "font-awesome": "npm:font-awesome",
   "foundation": "github:zurb/bower-foundation",
   "fs": "github:jspm/nodelibs-fs",
-  "golden-layout": "npm:golden-layout",
+  "golden-layout": “github:hoxton-one/golden-layout",
   "hammer": "github:hammerjs/hammer.js",
   "handlebars": "github:components/handlebars.js",
   "handlebars.js": "github:components/handlebars.js",
