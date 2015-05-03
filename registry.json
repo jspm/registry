@@ -156,6 +156,7 @@
   "handlebars-group-by": "npm:handlebars-group-by",
   "handlebars-layouts": "npm:handlebars-layouts",
   "happy": "github:henrikjoreteg/Happy.js",
+  "headroom.js": "github:WickyNilliams/headroom.js",
   "highlightjs": "github:components/highlightjs",
   "hoek": "github:capaj/hoek-browser",
   "http": "github:jspm/nodelibs-http",
