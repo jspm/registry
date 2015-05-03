@@ -1,13 +1,11 @@
 {
-  "main": "headroom",
-  "directories": {
-    "lib": "dist"
-  },
+  "main": "dist/headroom",
+  "files": ["dist/**/*"],
+  "ignore": ["spec", "src", "*"],
   "format": "global",
   "shim": {
-    "headroom": {
+    "dist/headroom": {
       "exports": "Headroom"
     }
-  },
-  "registry": "jspm"
+  }
 }
