@@ -117,6 +117,7 @@
   "chronoman": "npm:chronoman",
   "cluster": "github:jspm/nodelibs-cluster",
   "cola": "github:cujojs/cola",
+  "comma-separated-values": "github:knrz/CSV.js",
   "console": "github:jspm/nodelibs-console",
   "constants": "github:jspm/nodelibs-constants",
   "core-js": "npm:core-js",
