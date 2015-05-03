@@ -3,5 +3,11 @@
   "directories": {
     "lib": "dist"
   },
+  "format": "global",
+  "shim": {
+    "headroom": {
+      "exports": "Headroom"
+    }
+  },
   "registry": "jspm"
 }
