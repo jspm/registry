@@ -130,6 +130,7 @@
   "decimal.js": "github:MikeMcl/decimal.js",
   "dgram": "github:jspm/nodelibs-dgram",
   "di": "github:angular/di.js",
+  "dimple": "github:PMSI-AlignAlytics/dimple/dist/dimple.latest"
   "dns": "github:jspm/nodelibs-dns",
   "domain": "github:jspm/nodelibs-domain",
   "dropzone": "github:enyo/dropzone",
