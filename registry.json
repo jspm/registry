@@ -190,6 +190,7 @@
   "js.edgar": "npm:js.edgar",
   "jsfromhell": "github:jonasraoni/JSFromHell",
   "jsplumb": "github:sporritt/jsPlumb",
+  "js-scrypt": "github:tonyg/js-scrypt",
   "kickstrap": "github:ajkochanowicz/Kickstrap",
   "klayjs": "github:OpenKieler/klayjs",
   "kl-watch-once": "github:kasperlewau/kl-watch-once",
