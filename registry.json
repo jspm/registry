@@ -147,6 +147,7 @@
   "famous-angular": "github:Famous/famous-angular",
   "famous-polyfills": "github:Famous/polyfills",
   "fastclick": "npm:fastclick",
+  "fetch": "github:github/fetch",
   "firebase": "github:firebase/firebase-bower",
   "flowtype": "github:simplefocus/FlowType.JS",
   "font-awesome": "npm:font-awesome",
