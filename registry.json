@@ -40,6 +40,7 @@
   "angular-sanitize": "github:angular/bower-angular-sanitize",
   "angular-smart-table": "github:lorenzofox3/Smart-Table",
   "angular-strap": "github:mgcrea/angular-strap",
+  "angular-subscribe": "github:kasperlewau/angular-subscribe",
   "angular-touch": "github:angular/bower-angular-touch",
   "angular-translate": "github:angular-translate/bower-angular-translate",
   "angular-translate-loader-static-files": "github:angular-translate/bower-angular-translate-loader-static-files",
