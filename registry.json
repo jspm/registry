@@ -296,6 +296,7 @@
   "tls": "github:jspm/nodelibs-tls",
   "traceur": "github:jmcriffey/bower-traceur",
   "traceur-runtime": "github:jmcriffey/bower-traceur-runtime",
+  "typescript":  "github:mhegazy/typescript",
   "tty": "github:jspm/nodelibs-tty",
   "twitter": "npm:twitter",
   "typeahead": "github:twitter/typeahead.js",
