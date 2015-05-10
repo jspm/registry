@@ -15,6 +15,7 @@
   "ace": "github:ajaxorg/ace-builds",
   "adam": "npm:adam",
   "angular": "github:angular/bower-angular",
+  "angular.CQRS": "github:KABA-CCEAC/angular.CQRS",
   "angular-agility": "github:AngularAgility/AngularAgility",
   "angular-animate": "github:angular/bower-angular-animate",
   "angular-aria": "github:angular/bower-angular-aria",
