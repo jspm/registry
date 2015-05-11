@@ -294,6 +294,7 @@
   "theseus-angular": "npm:theseus-angular",
   "topo": "github:capaj/topo-browser",
   "timers": "github:jspm/nodelibs-timers",
+  "tinycolor": "github:bgrins/TinyColor",
   "tinygrowl": "github:ajkochanowicz/tinygrowl",
   "tls": "github:jspm/nodelibs-tls",
   "traceur": "github:jmcriffey/bower-traceur",
