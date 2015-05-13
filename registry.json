@@ -198,7 +198,7 @@
   "kickstrap": "github:ajkochanowicz/Kickstrap",
   "klayjs": "github:OpenKieler/klayjs",
   "kl-watch-once": "github:kasperlewau/kl-watch-once",
-  "kendoui": "github:kendo-labs/bower-kendo-ui",
+  "kendo-ui": "github:kendo-labs/bower-kendo-ui",
   "knockout": "github:knockout/knockout",
   "knockout-validation": "github:Knockout-Contrib/Knockout-Validation",
   "less.js": "github:distros/less",

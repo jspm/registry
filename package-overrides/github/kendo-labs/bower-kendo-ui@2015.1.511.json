@@ -1,0 +1,11 @@
+{
+  "format": "global",
+  "shim": {
+    "js/kendo.ui.core.min": {
+      "deps": ["jquery"]
+    }
+  },
+  "dependencies": {
+    "jquery": "github:components/jquery"
+  }
+}
