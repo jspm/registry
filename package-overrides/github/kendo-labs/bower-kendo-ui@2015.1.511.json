@@ -1,8 +1,10 @@
 {
+  "main":"src/js/kendo.ui.core",
   "format": "global",
   "shim": {
-    "js/kendo.ui.core.min": {
-      "deps": ["jquery"]
+    "src/js/kendo.ui.core": {
+      "deps": ["jquery"],
+      "exports": "$"
     }
   },
   "dependencies": {
