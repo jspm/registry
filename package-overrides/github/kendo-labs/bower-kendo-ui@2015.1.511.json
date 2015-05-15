@@ -4,7 +4,7 @@
   "shim": {
     "src/js/kendo.ui.core": {
       "deps": ["jquery"],
-      "exports": "$"
+      "exports": "kendo"
     }
   },
   "dependencies": {
