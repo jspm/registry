@@ -1,0 +1,5 @@
+{
+  "main": "dist/autosize",
+  "format": "cjs",
+  "registry": "jspm"
+}
