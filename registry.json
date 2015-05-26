@@ -132,6 +132,7 @@
   "d3": "github:mbostock/d3",
   "datatables": "github:DataTables/DataTables",
   "decimal.js": "github:MikeMcl/decimal.js",
+  "debug": "github:visionmedia/debug",
   "dgram": "github:jspm/nodelibs-dgram",
   "di": "github:angular/di.js",
   "dimple": "github:PMSI-AlignAlytics/dimple",
