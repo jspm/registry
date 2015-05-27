@@ -131,6 +131,7 @@
   "curl": "github:cujojs/curl",
   "d3": "github:mbostock/d3",
   "datatables": "github:DataTables/DataTables",
+  "debug": "github:visionmedia/debug",
   "decimal.js": "github:MikeMcl/decimal.js",
   "dgram": "github:jspm/nodelibs-dgram",
   "di": "github:angular/di.js",
