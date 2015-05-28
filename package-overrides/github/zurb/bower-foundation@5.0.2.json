@@ -2,7 +2,12 @@
   "main": "js/foundation/foundation",
   "shim": {
     "js/foundation/foundation.*": "./foundation",
-    "js/foundation/foundation": ["jquery", "../vendor/custom.modernizr"]
+    "js/foundation/foundation": {
+      "deps": ["jquery", "../vendor/custom.modernizr"]
+    }
+  },
+  "dependencies": {
+    "jquery": "github:components/jquery"
   },
   "ignore": [
     "js/foundation.min.js", 
