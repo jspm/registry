@@ -8,6 +8,9 @@
       "exports": "Foundation"
     }
   },
+  "dependencies": {
+    "jquery": "github:components/jquery"
+  },
   "ignore": [
     "js/foundation.min.js", 
     "js/vendor/jquery.cookie.js", 
