@@ -216,6 +216,7 @@
   "meld": "github:cujojs/meld",
   "microplugin": "npm:microplugin",
   "minivents": "github:allouis/minivents",
+  "mithril": "npm:mithril",
   "mixing": "npm:mixing",
   "mocha": "npm:mocha",
   "modernizr": "github:Modernizr/Modernizr",
