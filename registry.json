@@ -26,7 +26,7 @@
   "angular-decorate": "github:innit/angular-decorate",
   "angular-deferred-bootstrap": "github:philippd/bower-angular-deferred-bootstrap",
   "angular-file-upload": "github:danialfarid/angular-file-upload-bower",
-  "angular-formly": "github:formly-js/angular-formly",
+  "angular-formly": "npm:angular-formly",
   "angular-google-maps": "github:angular-ui/angular-google-maps",
   "angular-http-auth": "github:witoldsz/angular-http-auth",
   "angular-loading-bar": "github:chieffancypants/angular-loading-bar",
