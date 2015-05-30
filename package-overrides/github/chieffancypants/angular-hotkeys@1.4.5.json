@@ -1,7 +1,4 @@
 {
-  "directories": {
-    "lib": "build"
-  },
   "main": "hotkeys",
   "registry": "jspm",
   "dependencies": {
