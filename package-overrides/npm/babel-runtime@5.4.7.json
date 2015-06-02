@@ -1,0 +1,9 @@
+{
+  "main": false,
+  "map": {
+    "./core-js": "core-js"
+  },
+  "dependencies": {
+    "core-js": "^0.9.13"
+  }
+}
