@@ -314,6 +314,7 @@
   "url": "github:jspm/nodelibs-url",
   "util": "github:jspm/nodelibs-util",
   "vm": "github:jspm/nodelibs-vm",
+  "velocity": "github:julianshapiro/velocity",
   "vertxbus": "github:larrytin/bower-vertxbus",
   "virtual-dom": "npm:virtual-dom",
   "vue": "npm:vue",
