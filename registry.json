@@ -223,6 +223,7 @@
   "module": "github:jspm/nodelibs-module",
   "moment": "github:moment/moment",
   "moment-json-parser": "npm:moment-json-parser",
+  "moonridge-client": "github:capaj/Moonridge-client",
   "mq4-hover-shim": "npm:mq4-hover-shim",
   "msgs": "github:cujojs/msgs",
   "mustache": "github:janl/mustache.js",
