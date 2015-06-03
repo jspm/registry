@@ -115,6 +115,7 @@
   "bootstrap-wizard": "github:gwrey/bootstrap-wizard",
   "breeze": "npm:breeze-client",
   "buffer": "github:jspm/nodelibs-buffer",
+  "chai": "npm:chai",
   "chart": "github:nnnick/Chart.js",
   "child_process": "github:jspm/nodelibs-child_process",
   "chosen": "github:harvesthq/chosen",
