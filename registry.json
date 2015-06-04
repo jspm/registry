@@ -197,6 +197,7 @@
   "js-beautify": "github:beautify-web/js-beautify",
   "js.edgar": "npm:js.edgar",
   "jsfromhell": "github:jonasraoni/JSFromHell",
+  "jsol": "github:daepark/JSOL",
   "jsplumb": "github:sporritt/jsPlumb",
   "js-scrypt": "github:tonyg/js-scrypt",
   "kickstrap": "github:ajkochanowicz/Kickstrap",
