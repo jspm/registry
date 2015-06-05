@@ -1,0 +1,13 @@
+{
+  "main": "isteven-omni-bar.js",
+  "dependencies": {
+      "css": "^0.1.10"
+    },  
+  "shim": {
+    "isteven-omni-bar": {
+      "deps": [
+        "./isteven-omni-bar.css!"
+      ]
+    }
+  }
+}
