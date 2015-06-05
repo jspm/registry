@@ -1,0 +1,11 @@
+{
+  "main": "dist/goldenlayout",
+  "format": "global",
+  "registry": "jspm",
+  "dependencies": {
+    "jquery": "*"
+  },
+  "shim": {
+    "dist/goldenlayout": ["jquery"]
+  }
+}
