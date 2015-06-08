@@ -215,7 +215,7 @@
   "marionette": "github:marionettejs/backbone.marionette",
   "masonry": "github:desandro/masonry",
   "material-design-icons": "github:google/material-design-icons",
-  "materialize": "github:dogfalo/materialize",
+  "materialize": "github:Dogfalo/materialize",
   "meld": "github:cujojs/meld",
   "microplugin": "npm:microplugin",
   "minivents": "github:allouis/minivents",
