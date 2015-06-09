@@ -2,5 +2,5 @@
   "directories":{
     "lib":"dist"
   },
-  "main":"js/mui.js"
+  "main":"js/mui.min.js"
 }
