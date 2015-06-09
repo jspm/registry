@@ -1,0 +1,6 @@
+{
+  "directories":{
+    "lib":"dist"
+  },
+  "main":"js/mui.js"
+}
