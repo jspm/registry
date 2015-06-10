@@ -228,6 +228,7 @@
   "moment-json-parser": "npm:moment-json-parser",
   "mongoose": "github:gavinaiken/mongoose-browser",
   "moonridge-client": "github:capaj/Moonridge-client",
+  "muicss": "github:muicss/mui",
   "mq4-hover-shim": "npm:mq4-hover-shim",
   "msgs": "github:cujojs/msgs",
   "mustache": "github:janl/mustache.js",
