@@ -120,7 +120,7 @@
   "chai": "npm:chai",
   "chart": "github:nnnick/Chart.js",
   "child_process": "github:jspm/nodelibs-child_process",
-  "chosen": "github:harvesthq/chosen",
+  "chosen": "github:harvesthq/chosen",p
   "chronoman": "npm:chronoman",
   "cluster": "github:jspm/nodelibs-cluster",
   "cola": "github:cujojs/cola",
@@ -306,7 +306,7 @@
   "theseus": "npm:theseus",
   "theseus-angular": "npm:theseus-angular",
   "topo": "github:capaj/topo-browser",
-  "timers": "github:jspm/nodelibs-timers",c
+  "timers": "github:jspm/nodelibs-timers",
   "tinycolor": "github:bgrins/TinyColor",
   "tinygrowl": "github:ajkochanowicz/tinygrowl",
   "tls": "github:jspm/nodelibs-tls",
