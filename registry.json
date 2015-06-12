@@ -120,7 +120,7 @@
   "chai": "npm:chai",
   "chart": "github:nnnick/Chart.js",
   "child_process": "github:jspm/nodelibs-child_process",
-  "chosen": "github:harvesthq/chosen",p
+  "chosen": "github:harvesthq/chosen",
   "chronoman": "npm:chronoman",
   "cluster": "github:jspm/nodelibs-cluster",
   "cola": "github:cujojs/cola",
