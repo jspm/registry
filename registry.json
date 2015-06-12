@@ -262,6 +262,8 @@
   "prism": "github:LeaVerou/prism",
   "process": "github:jspm/nodelibs-process",
   "punycode": "github:jspm/nodelibs-punycode",
+  "puremvc-standard": "github:PureMVC/puremvc-typescript-standard-framework",
+  "puremvc-multicore": "github:PureMVC/puremvc-typescript-multicore-framework",
   "querystring": "github:jspm/nodelibs-querystring",
   "quint": "github:jquery/qunit",
   "rangy": "github:timdown/rangy-release",
@@ -304,7 +306,7 @@
   "theseus": "npm:theseus",
   "theseus-angular": "npm:theseus-angular",
   "topo": "github:capaj/topo-browser",
-  "timers": "github:jspm/nodelibs-timers",
+  "timers": "github:jspm/nodelibs-timers",c
   "tinycolor": "github:bgrins/TinyColor",
   "tinygrowl": "github:ajkochanowicz/tinygrowl",
   "tls": "github:jspm/nodelibs-tls",
