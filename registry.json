@@ -132,6 +132,7 @@
   "crypto": "github:jspm/nodelibs-crypto",
   "css-element-queries": "github:marcj/css-element-queries",
   "curl": "github:cujojs/curl",
+  "cytoscape.js":"github:cytoscape/cytoscape.js",
   "d3": "github:mbostock/d3",
   "datatables": "github:DataTables/DataTables",
   "debug": "github:visionmedia/debug",
