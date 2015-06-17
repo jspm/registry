@@ -275,6 +275,7 @@
   "react": "npm:react",
   "react-router": "npm:react-router",
   "readline": "github:jspm/nodelibs-readline",
+  "reflect-metadata": "npm:reflect-metadata",
   "reflux": "npm:reflux",
   "regenerator": "npm:regenerator",
   "repl": "github:jspm/nodelibs-repl",
