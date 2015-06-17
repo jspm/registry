@@ -2,7 +2,7 @@
   "main": "ace",
   "format": "global",
   "directories": {
-    "lib": "src"
+    "lib": "src-noconflict"
   },
   "shim": {
     "ace": {
