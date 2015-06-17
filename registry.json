@@ -293,6 +293,7 @@
   "showdown": "github:showdownjs/showdown",
   "sifter": "github:brianreavis/sifter.js",
   "skrollr": "github:Prinzhorn/skrollr",
+  "snap.svg": "github:adobe-webplatform/Snap.svg",
   "sockjs-client": "github:sockjs/sockjs-client",
   "socket.io-client": "github:Automattic/socket.io-client",
   "socket.io-rpc-client": "github:capaj/socket.io-rpc-client",
