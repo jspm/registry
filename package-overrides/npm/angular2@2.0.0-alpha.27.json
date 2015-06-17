@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "reflect-metadata": "^0.1.0",
+    "zone.js": "^0.5.1",
+    "rx": "2.5.1"
+  }
+}
