@@ -302,6 +302,7 @@
   "stream": "github:jspm/nodelibs-stream",
   "string_decoder": "github:jspm/nodelibs-string_decoder",
   "superagent": "npm:superagent",
+  "svg.js" :  "github:wout/svg.js",
   "tabletools": "github:DataTables/TableTools",
   "teo": "npm:teo",
   "three.js": "github:mrdoob/three.js",
