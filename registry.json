@@ -211,6 +211,7 @@
   "kendo-ui": "github:kendo-labs/bower-kendo-ui",
   "knockout": "github:knockout/knockout",
   "knockout-validation": "github:Knockout-Contrib/Knockout-Validation",
+  "leaflet": "github:Leaflet/Leaflet",
   "less.js": "github:distros/less",
   "lightbox2": "github:lokesh/lightbox2",
   "localforage": "npm:localforage",
