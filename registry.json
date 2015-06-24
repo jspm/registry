@@ -153,6 +153,7 @@
   "es6-shim": "github:es-shims/es6-shim",
   "eva": "npm:eva",
   "events": "github:jspm/nodelibs-events",
+  "event-attr-to-promise": "github:tengyifei/event-attr-to-promise",
   "extend": "github:gamtiq/extend",
   "famous": "github:Famous/famous",
   "famous-angular": "github:Famous/famous-angular",
