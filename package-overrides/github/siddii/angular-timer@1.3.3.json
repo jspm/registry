@@ -1,0 +1,19 @@
+{  
+  "main":"dist/angular-timer",
+  "registry":"jspm",
+  "format":"global",
+  "dependencies":{  
+    "angular":"*",
+    "moment":"*",
+    "humanize-duration":"*"
+  },
+  "shim":{  
+    "dist/angular-timer":{  
+      "deps":[  
+        "angular",
+        "humanize-duration",
+        "moment"
+      ]
+    }
+  }
+}
