@@ -3,9 +3,9 @@
   "registry":"jspm",
   "format":"global",
   "dependencies":{  
-    "angular":"*",
-    "moment":"*",
-    "humanize-duration":"*"
+    "angular":"^1.4.1",
+    "moment":"^2.10.3",
+    "humanize-duration":"^3.0.0"
   },
   "shim":{  
     "dist/angular-timer":{  
