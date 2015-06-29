@@ -294,6 +294,7 @@
   "return-function": "npm:return-function",
   "rx": "npm:rx",
   "rx-angular": "npm:rx-angular",
+  "rx-dom": "npm:rx-dom",
   "saairey-bootstrap-wizard": "github:saairey/bootstrap-wizard",
   "select2": "github:select2/select2",
   "selectize": "github:brianreavis/selectize.js",
