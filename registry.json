@@ -209,6 +209,7 @@
   "jsfromhell": "github:jonasraoni/JSFromHell",
   "jsol": "github:daepark/JSOL",
   "jsplumb": "github:sporritt/jsPlumb",
+  "js-cookie": "github:js-cookie/js-cookie",
   "js-scrypt": "github:tonyg/js-scrypt",
   "kickstrap": "github:ajkochanowicz/Kickstrap",
   "klayjs": "github:OpenKieler/klayjs",
