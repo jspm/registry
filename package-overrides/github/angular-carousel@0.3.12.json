@@ -1,6 +1,6 @@
 {
   "main": "dist/angular-carousel",
-  "repository": "jspm",
+  "registry": "jspm",
   "dependencies": {
     "angular": ">=1.2.10",
     "angular-touch": ">=1.2.10"
