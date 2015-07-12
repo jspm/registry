@@ -1,9 +1,10 @@
 {
   "main": "dist/angular-carousel",
   "registry": "jspm",
+  "format":"global",
   "dependencies": {
-    "angular": ">=1.2.10",
-    "angular-touch": ">=1.2.10"
+    "angular": "^1.4.0",
+    "angular-touch": "^1.4.0"
   },
   "shim": {
     "dist/angular-carousel": {
