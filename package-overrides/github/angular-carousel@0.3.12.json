@@ -1,0 +1,16 @@
+{
+  "main": "dist/angular-carousel",
+  "repository": "jspm",
+  "dependencies": {
+    "angular": ">=1.2.10",
+    "angular-touch": ">=1.2.10"
+  },
+  "shim": {
+    "dist/angular-carousel": {
+      "deps": [
+        "angular",
+        "angular-touch"
+      ]
+    }
+  }
+}
