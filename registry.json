@@ -206,6 +206,7 @@
   "jquery-validation": "github:jzaefferer/jquery-validation",
   "jquery-validation-unobtrusive": "github:aspnet/jquery-validation-unobtrusive",
   "js-beautify": "github:beautify-web/js-beautify",
+  "js-data": "github:js-data/js-data",
   "js-deco": "github:gooy/js-deco",
   "js.edgar": "npm:js.edgar",
   "jsfromhell": "github:jonasraoni/JSFromHell",
