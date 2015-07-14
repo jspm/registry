@@ -7,7 +7,7 @@
   },
   "shim": {
     "loading-bar": {
-      "deps": ["angular", "./loading-bar.css!"]
+      "deps": ["angular", "build/loading-bar.css!"]
     }
   }
 }
