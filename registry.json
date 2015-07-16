@@ -98,6 +98,7 @@
   "aurelia-templating-binding": "github:aurelia/templating-binding",
   "aurelia-templating-resources": "github:aurelia/templating-resources",
   "aurelia-templating-router": "github:aurelia/templating-router",
+  "aurelia-ui-virtualization": "github:aurelia/ui-virtualization",
   "aurelia-validation": "github:aurelia/validation",
   "autosize": "github:jackmoore/autosize",
   "babel": "npm:babel-core",
