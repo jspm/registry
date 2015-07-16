@@ -343,6 +343,7 @@
   "timers": "github:jspm/nodelibs-timers",
   "tinycolor": "github:bgrins/TinyColor",
   "tinygrowl": "github:ajkochanowicz/tinygrowl",
+  "tinymce": "github:tinymce/tinymce-dist",
   "tls": "github:jspm/nodelibs-tls",
   "traceur": "github:jmcriffey/bower-traceur",
   "traceur-runtime": "github:jmcriffey/bower-traceur-runtime",
