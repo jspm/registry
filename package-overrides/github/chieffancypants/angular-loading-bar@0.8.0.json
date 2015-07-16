@@ -6,7 +6,7 @@
     "css": "*"
   },
   "shim": {
-    "loading-bar": {
+    "build/loading-bar": {
       "deps": ["angular", "./loading-bar.css!"]
     }
   }
