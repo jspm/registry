@@ -1,12 +1,258 @@
 {
   "format": "global",
-  "main": "tinymce.min",
+  "main": "tinymce",
   "shim": {
     "tinymce.min": {
-      "exports": "tinyMCE"
+      "exports": "tinymce"
     },
     "tinymce": {
-      "exports": "tinyMCE"
+      "exports": "tinymce"
+    },
+    "plugins/advlist/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/anchor/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/autolink/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/autoresize/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/autosave/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/bbcode/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/charmap/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/code/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/colorpicker/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/contextmenu/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/directionality/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/emoticons/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/fullpage/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/fullscreen/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/hr/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/image/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/importcss/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/insertdatetime/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/layer/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/legacyoutput/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/link/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/lists/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/media/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/nonbreaking/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/noneditable/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/pagebreak/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/paste/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/preview/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/print/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/save/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/searchreplace/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/spellchecker/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/tabfocus/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/table/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/template/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/textcolor/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/textpattern/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/visualblocks/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/visualchars/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "plugins/wordcount/plugin": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
+    },
+    "themes/modern/theme": {
+      "imports": "tinymce",
+      "deps": [
+        "tinymce"
+      ]
     }
   }
 }
