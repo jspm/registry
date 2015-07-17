@@ -5,7 +5,7 @@
   "font": "github:guybedford/system-font",
   "image": "github:systemjs/plugin-image",
   "json": "github:systemjs/plugin-json",
-  "jst": "github.com:podio/plugin-jst"
+  "jst": "github.com:podio/plugin-jst",
   "md": "github:guybedford/system-md",
   "raw": "github:matthewbauer/plugin-raw",
   "text": "github:systemjs/plugin-text",
