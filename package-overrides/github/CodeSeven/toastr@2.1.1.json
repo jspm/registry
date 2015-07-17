@@ -1,0 +1,10 @@
+{
+  "shim": {
+    "build/toastr.min": {
+      "deps": ["jquery"]
+    }
+  },
+  "dependencies": {
+    "jquery": "*"
+  }
+}
