@@ -12,7 +12,6 @@
   "jsx": "github:floatdrop/plugin-jsx",
   "less": "github:aaike/jspm-less-plugin",
   "ts": "github:frankwallis/plugin-typescript",
-  "p5": "github:processing/p5.js",
 
   "ace": "github:ajaxorg/ace-builds",
   "adam": "npm:adam",
@@ -276,6 +275,7 @@
   "omniscient": "npm:omniscient",
   "open-sans-fontface": "github:FontFaceKit/open-sans",
   "os": "github:jspm/nodelibs-os",
+  "p5": "github:processing/p5.js",
   "page": "npm:page",
   "parallax": "github:wagerfield/parallax",
   "path": "github:jspm/nodelibs-path",
