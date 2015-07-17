@@ -329,6 +329,7 @@
   "socket.io-client": "github:Automattic/socket.io-client",
   "socket.io-rpc-client": "github:capaj/socket.io-rpc-client",
   "spin": "github:fgnass/spin.js",
+  "sprintf-js": "npm:sprintf-js",
   "stomp-websocket": "github:jmesnil/stomp-websocket",
   "stream": "github:jspm/nodelibs-stream",
   "string_decoder": "github:jspm/nodelibs-string_decoder",
