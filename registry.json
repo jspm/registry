@@ -358,6 +358,7 @@
   "ua-parser-js": "npm:ua-parser-js",
   "uikit": "github:uikit/uikit",
   "underscore": "npm:underscore",
+  "uri": "github:medialize/URI.js",
   "uri-templates": "npm:uri-templates",
   "url": "github:jspm/nodelibs-url",
   "util": "github:jspm/nodelibs-util",
