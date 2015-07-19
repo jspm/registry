@@ -3,13 +3,15 @@
   "format": "global",
   "dependencies": {
     "jquery": "*",
-    "q": "npm:q"
+    "q": "npm:q",
+    "uri": "github:medialize/URI.js"
   },
   "shim": {
     "dist/hyperagent": {
       "deps": [
         "jquery",
-        "q"
+        "q",
+        "uri"
       ]
     }
   }
