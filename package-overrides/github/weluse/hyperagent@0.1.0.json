@@ -1,0 +1,16 @@
+{
+  "main": "dist/hyperagent.js",
+  "format": "global",
+  "dependencies": {
+    "jquery": "*",
+    "q": "npm:q"
+  },
+  "shim": {
+    "dist/hyperagent": {
+      "deps": [
+        "jquery",
+        "q"
+      ]
+    }
+  }
+}
