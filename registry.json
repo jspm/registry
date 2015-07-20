@@ -261,6 +261,7 @@
   "mq4-hover-shim": "npm:mq4-hover-shim",
   "msgs": "github:cujojs/msgs",
   "mustache": "github:janl/mustache.js",
+  "ng-dialog": "npm:ng-dialog",
   "net": "github:jspm/nodelibs-net",
   "ng-infinite-scroll": "github:sroze/ngInfiniteScroll",
   "ng-jcrop": "github:andrefarzat/ng-jcrop",
