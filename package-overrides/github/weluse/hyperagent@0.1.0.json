@@ -1,0 +1,18 @@
+{
+  "main": "dist/hyperagent.js",
+  "format": "global",
+  "dependencies": {
+    "jquery": "*",
+    "q": "npm:q",
+    "uri": "github:medialize/URI.js"
+  },
+  "shim": {
+    "dist/hyperagent": {
+      "deps": [
+        "jquery",
+        "q",
+        "uri"
+      ]
+    }
+  }
+}
