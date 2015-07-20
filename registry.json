@@ -356,7 +356,7 @@
   "traceur": "github:jmcriffey/bower-traceur",
   "traceur-runtime": "github:jmcriffey/bower-traceur-runtime",
   "traverse": "npm:traverse",
-  "typescript": "github:mhegazy/typescript",
+  "typescript": "npm:typescript",
   "tty": "github:jspm/nodelibs-tty",
   "twitter": "npm:twitter",
   "typeahead": "github:twitter/typeahead.js",
