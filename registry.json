@@ -341,6 +341,7 @@
   "svg.js" :  "github:wout/svg.js",
   "tabletools": "github:DataTables/TableTools",
   "teo": "npm:teo",
+  "textAngular": "github:fraywing/textAngular",
   "three.js": "github:mrdoob/three.js",
   "three": "github:mrdoob/three.js",
   "threestrap": "github:unconed/threestrap",
