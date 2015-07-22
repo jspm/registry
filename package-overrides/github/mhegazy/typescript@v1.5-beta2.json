@@ -1,0 +1,9 @@
+{
+    "main": "bin/typescript",
+    "format":  "global",
+    "shim": {
+        "bin/typescript": {
+            "exports": "ts"
+        }
+    }
+}
