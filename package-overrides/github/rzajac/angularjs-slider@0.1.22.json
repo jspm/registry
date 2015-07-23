@@ -8,7 +8,7 @@
     "rzslider": {
       "deps": [
         "angular",
-        "dist/rzslider.css!"
+        "./dist/rzslider.css!"
       ]
     }
   }
