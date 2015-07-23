@@ -2,7 +2,7 @@
   "main": "rzslider",
   "registry": "jspm",
   "dependencies": {
-    "angular": "^1.4.0",
+    "angular": "^1.4.0"
   },
   "shim": {
     "rzslider": {
