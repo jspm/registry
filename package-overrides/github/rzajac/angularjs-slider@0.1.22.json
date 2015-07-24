@@ -1,0 +1,15 @@
+{
+  "main": "rzslider",
+  "registry": "jspm",
+  "dependencies": {
+    "angular": "^1.4.0"
+  },
+  "shim": {
+    "rzslider": {
+      "deps": [
+        "angular",
+        "./dist/rzslider.css!"
+      ]
+    }
+  }
+}
