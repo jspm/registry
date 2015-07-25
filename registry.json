@@ -73,6 +73,7 @@
   "army-knife": "npm:army-knife",
   "array-sugar": "github:capaj/array-sugar",
   "assert": "github:jspm/nodelibs-assert",
+  "aurelia-async": "github:jdanyow/aurelia-async",
   "aurelia-animator-css": "github:aurelia/animator-css",
   "aurelia-binding": "github:aurelia/binding",
   "aurelia-breeze": "github:jdanyow/aurelia-breeze",
