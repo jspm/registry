@@ -301,6 +301,7 @@
   "puremvc-multicore": "github:PureMVC/puremvc-typescript-multicore-framework",
   "querystring": "github:jspm/nodelibs-querystring",
   "qunit": "github:jquery/qunit",
+  "ractive": "github:ractivejs/ractive",
   "rangy": "github:timdown/rangy-release",
   "raphael": "github:DmitryBaranovskiy/raphael",
   "ratchet": "github:maker/ratchet",
