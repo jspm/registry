@@ -249,6 +249,7 @@
   "marionette": "github:marionettejs/backbone.marionette",
   "masonry": "github:desandro/masonry",
   "material-design-icons": "github:google/material-design-icons",
+  "material-ui": "github:callemall/material-ui",
   "materialize": "github:Dogfalo/materialize",
   "meld": "github:cujojs/meld",
   "microplugin": "npm:microplugin",
