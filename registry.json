@@ -84,6 +84,7 @@
   "aurelia-dependency-injection": "github:aurelia/dependency-injection",
   "aurelia-dialog": "github:aurelia/dialog",
   "aurelia-event-aggregator": "github:aurelia/event-aggregator",
+  "aurelia-fetch-client": "github:aurelia/fetch-client",
   "aurelia-flux": "github:tfrydrychewicz/aurelia-flux",
   "aurelia-framework": "github:aurelia/framework",
   "aurelia-history": "github:aurelia/history",
