@@ -128,7 +128,7 @@
   "bootstrap-sass": "github:twbs/bootstrap-sass",
   "bootstrap-slider": "github:seiyria/bootstrap-slider",
   "bootstrap-wizard": "github:gwrey/bootstrap-wizard",
-  "bootstrap3-dialog": "github:nakupanda/bootstrap3-dialog"
+  "bootstrap3-dialog": "github:nakupanda/bootstrap3-dialog",
   "breeze": "npm:breeze-client",
   "buffer": "github:jspm/nodelibs-buffer",
   "chai": "npm:chai",
