@@ -82,6 +82,7 @@
   "aurelia-bs-modal": "github:pwkad/aurelia-bs-modal",
   "aurelia-computed": "github:jdanyow/aurelia-computed",
   "aurelia-dependency-injection": "github:aurelia/dependency-injection",
+  "aurelia-dialog": "github:aurelia/dialog",
   "aurelia-event-aggregator": "github:aurelia/event-aggregator",
   "aurelia-flux": "github:tfrydrychewicz/aurelia-flux",
   "aurelia-framework": "github:aurelia/framework",
