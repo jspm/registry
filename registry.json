@@ -250,6 +250,7 @@
   "malihu-custom-scrollbar-plugin": "github:malihu/malihu-custom-scrollbar-plugin",
   "marionette": "github:marionettejs/backbone.marionette",
   "masonry": "github:desandro/masonry",
+  "material-design-lite": "github:google/material-design-lite",
   "material-design-icons": "github:google/material-design-icons",
   "materialize": "github:Dogfalo/materialize",
   "meld": "github:cujojs/meld",
