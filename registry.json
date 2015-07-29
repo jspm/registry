@@ -77,6 +77,7 @@
   "assert": "github:jspm/nodelibs-assert",
   "aurelia-async": "github:jdanyow/aurelia-async",
   "aurelia-animator-css": "github:aurelia/animator-css",
+  "aurelia-auth":"github:paulvanbladel/aurelia-auth",
   "aurelia-binding": "github:aurelia/binding",
   "aurelia-breeze": "github:jdanyow/aurelia-breeze",
   "aurelia-bootstrapper": "github:aurelia/bootstrapper",
