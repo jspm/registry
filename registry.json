@@ -31,6 +31,7 @@
   "angular-decorate": "github:innit/angular-decorate",
   "angular-decorators": "npm:angular-decorators",
   "angular-deferred-bootstrap": "github:philippd/bower-angular-deferred-bootstrap",
+  "angular-dynamic-locale": "github:lgalfaso/angular-dynamic-locale",
   "angular-es6-di": "github:tengyifei/angular-es6-di",
   "angular-file-upload": "github:danialfarid/angular-file-upload-bower",
   "angular-formly": "github:formly-js/angular-formly",
