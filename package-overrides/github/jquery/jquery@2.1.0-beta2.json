@@ -4,7 +4,7 @@
     "lib": "src"
   },
   "map": {
-    "sizzle": "./src/sizzle/dist/sizzle"
+    "sizzle": "./sizzle/dist/sizzle"
   },
   "ignore": ["src/intro.js", "src/outro.js"]
 }
