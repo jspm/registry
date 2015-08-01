@@ -1,0 +1,16 @@
+{
+  "main": "dist/js/bootstrap-dialog",
+  "shim": {
+    "dist/js/bootstrap-dialog": {
+      "deps": [
+        "bootstrap"
+
+      ],
+      "exports": "BootstrapDialog"
+    }
+  },
+  "dependencies": {
+    "bootstrap": "github:twbs/bootstrap"
+  },
+  "files": ["dist/css", "dist/fonts", "dist/js"]
+}
