@@ -290,7 +290,7 @@
   "nodelibs": "github:jspm/nodelibs",
   "normalize.css": "github:necolas/normalize.css",
   "nprogress": "github:rstacruz/nprogress",
-  "numeral" "npm:numeral",
+  "numeral": "npm:numeral",
   "numgen": "npm:numgen",
   "observe-js": "github:Polymer/observe-js",
   "oidc-client": "github:IdentityModel/oidc-client",
