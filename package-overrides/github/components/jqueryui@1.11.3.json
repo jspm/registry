@@ -6,7 +6,19 @@
     },
     "shim": {
         "jquery-ui": {
-            "deps": "jquery"
+            "deps": ["jquery"
+        },
+        "ui/widget": {
+            "deps": ["jquery"]
+        },
+        "ui/datepicker": {
+            "deps": ["jquery"]
+        },
+        "ui/draggable": {
+            "deps": ["jquery"]
+        },
+        "ui/sortable": {
+            "deps": ["jquery"]
         }
     }
 }
