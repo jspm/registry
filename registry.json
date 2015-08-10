@@ -391,6 +391,7 @@
   "vdom-virtualize": "npm:vdom-virtualize",
   "velocity": "github:julianshapiro/velocity",
   "vertxbus": "github:larrytin/bower-vertxbus",
+  "vibrant": "github:jariz/vibrant.js",
   "virtual-dom": "npm:virtual-dom",
   "vue": "npm:vue",
   "webcomponents": "npm:webcomponents",
