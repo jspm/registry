@@ -59,6 +59,7 @@
   "angular-subscribe": "github:kasperlewau/angular-subscribe",
   "angular-touch": "github:angular/bower-angular-touch",
   "angular-translate": "github:angular-translate/bower-angular-translate",
+  "angular-translate-loader-partial": "github:angular-translate/bower-angular-translate-loader-partial",
   "angular-translate-loader-static-files": "github:angular-translate/bower-angular-translate-loader-static-files",
   "angular-translate-storage-cookie": "github:angular-translate/bower-angular-translate-storage-cookie",
   "angular-translate-storage-local": "github:angular-translate/bower-angular-translate-storage-local",
