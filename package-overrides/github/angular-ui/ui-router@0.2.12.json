@@ -2,6 +2,7 @@
   "directories": {
     "lib": "release"
   },
+  "format": "cjs",
   "main": "angular-ui-router",
   "shim": {
     "angular-ui-router": {
