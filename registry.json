@@ -358,6 +358,7 @@
   "stomp-websocket": "github:jmesnil/stomp-websocket",
   "stream": "github:jspm/nodelibs-stream",
   "string_decoder": "github:jspm/nodelibs-string_decoder",
+  "stylific": "npm:stylific",
   "superagent": "npm:superagent",
   "svg.js" :  "github:wout/svg.js",
   "tabletools": "github:DataTables/TableTools",
