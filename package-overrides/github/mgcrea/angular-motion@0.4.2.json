@@ -1,0 +1,15 @@
+{
+  "main": "dist/angular-motion.min.css!",
+  "registry": "jspm",
+  "dependencies": {
+    "angular": "^1.4.0",
+    "css": "*"
+  },
+  "shim": {
+    "dist/angular-motion.min.css!": {
+      "deps": [
+        "angular"
+      ]
+    }
+  }
+}
