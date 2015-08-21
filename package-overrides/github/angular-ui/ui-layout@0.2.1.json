@@ -1,0 +1,14 @@
+{
+  "format": "global",
+  "dependencies": {
+    "angular": "^1.0.2"
+  },
+  "registry": "jspm",
+  "main":
+    ["./src/ui-layout.css!","./src/ui-layout"],
+  "shim": {
+    "ui-utils": {
+      "deps": "angular"
+    }
+  }
+}
