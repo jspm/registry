@@ -1,0 +1,7 @@
+{
+  "main": "src/howler.core.js",
+  "registry" : "jspm",
+  "files": [
+    "src/howler.core.js"
+  ]
+}
