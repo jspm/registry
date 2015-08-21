@@ -5,10 +5,11 @@
   },
   "registry": "jspm",
   "main":
-    ["./src/ui-layout.css!","./src/ui-layout.js"],
+    ["./src/ui-layout.js"],
   "shim": {
     "ui-utils": {
       "deps": "angular"
     }
-  }
+  },
+  "format":"amd"
 }
