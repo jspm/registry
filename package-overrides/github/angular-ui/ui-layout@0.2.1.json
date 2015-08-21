@@ -5,7 +5,7 @@
   },
   "registry": "jspm",
   "main":
-    ["./src/ui-layout.css!","./src/ui-layout"],
+    ["./src/ui-layout.css!","./src/ui-layout.js"],
   "shim": {
     "ui-utils": {
       "deps": "angular"
