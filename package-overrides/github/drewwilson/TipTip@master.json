@@ -1,0 +1,8 @@
+{
+  "main": "jquery.tipTip",
+  "shim": {
+    "jquery.tipTip": {
+      "deps": ["jquery", "./tipTip.css!"]
+    }
+  }
+}
