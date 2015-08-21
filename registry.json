@@ -265,6 +265,7 @@
   "material-design-lite": "github:google/material-design-lite",
   "material-design-icons": "github:google/material-design-icons",
   "materialize": "github:Dogfalo/materialize",
+  "mbe-nodes": "github:OptimalBPM/mbe-nodes",
   "meld": "github:cujojs/meld",
   "microplugin": "npm:microplugin",
   "minivents": "github:allouis/minivents",
