@@ -259,6 +259,7 @@
   "leaflet": "github:Leaflet/Leaflet",
   "less.js": "github:distros/less",
   "lightbox2": "github:lokesh/lightbox2",
+  "linq4es2015": "github:Fermium-co/LINQ4ES2015",
   "localforage": "npm:localforage",
   "lodash": "npm:lodash",
   "malihu-custom-scrollbar-plugin": "github:malihu/malihu-custom-scrollbar-plugin",
