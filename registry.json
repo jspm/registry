@@ -16,6 +16,7 @@
 
   "ace": "github:ajaxorg/ace-builds",
   "adam": "npm:adam",
+  "amplify": "github:mikehostetler/amplify",
   "angular": "github:angular/bower-angular",
   "angular2": "npm:angular2",
   "angular2-bootstrap": "npm:angular2-bootstrap",
