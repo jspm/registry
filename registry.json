@@ -101,6 +101,7 @@
   "aurelia-history-browser": "github:aurelia/history-browser",
   "aurelia-html-template-element": "github:aurelia/html-template-element",
   "aurelia-http-client": "github:aurelia/http-client",
+  "aurelia-i18n": "github:aurelia/i18n",
   "aurelia-loader": "github:aurelia/loader",
   "aurelia-loader-default": "github:aurelia/loader-default",
   "aurelia-logging": "github:aurelia/logging",
