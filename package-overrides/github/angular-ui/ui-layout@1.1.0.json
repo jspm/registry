@@ -1,7 +1,7 @@
 {
   "format": "global",
   "dependencies": {
-    "angular": "^1.0.2"
+    "angular": "^1"
   },
   "registry": "jspm",
   "main":
