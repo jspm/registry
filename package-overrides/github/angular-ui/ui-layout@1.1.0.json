@@ -1,15 +1,13 @@
 {
-  "format": "global",
   "dependencies": {
     "angular": "^1"
   },
   "registry": "jspm",
-  "main":
-    ["./src/ui-layout.js"],
+  "main": "./src/ui-layout.js",
   "shim": {
     "ui-utils": {
       "deps": "angular"
     }
-  },
-  "format":"amd"
+  }
+
 }
