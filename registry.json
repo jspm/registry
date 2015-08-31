@@ -13,6 +13,7 @@
   "jsx": "github:floatdrop/plugin-jsx",
   "less": "github:aaike/jspm-less-plugin",
   "ts": "github:frankwallis/plugin-typescript",
+  "sass": "github:screendriver/plugin-sass",
 
   "ace": "github:ajaxorg/ace-builds",
   "adam": "npm:adam",
