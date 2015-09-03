@@ -93,6 +93,7 @@
   "aurelia-bootstrapper": "github:aurelia/bootstrapper",
   "aurelia-bs-modal": "github:pwkad/aurelia-bs-modal",
   "aurelia-computed": "github:jdanyow/aurelia-computed",
+  "aurelia-configuration": "github:vheissu/aurelia-configuration",
   "aurelia-dependency-injection": "github:aurelia/dependency-injection",
   "aurelia-dialog": "github:aurelia/dialog",
   "aurelia-event-aggregator": "github:aurelia/event-aggregator",
