@@ -1,8 +1,8 @@
 {
     "main": "jquery.dotdotdot",
-    "deps": [
-        "jquery"
-    ],
+    "dependencies": {
+        "jquery": "*"
+    },
     "shim": {
         "jquery.dotdotdot": {
             "deps": [
