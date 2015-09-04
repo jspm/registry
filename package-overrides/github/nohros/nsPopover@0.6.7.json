@@ -1,0 +1,11 @@
+{
+  "main": "src/nsPopover",
+  "registry": "jspm",
+  "dependencies": {
+      "angular": "^1.2.9"
+  },
+  "format": "global",
+  "shim": {
+    "src/nsPopover": ["angular"]
+  }
+}

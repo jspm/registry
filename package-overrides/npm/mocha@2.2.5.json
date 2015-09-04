@@ -1,0 +1,14 @@
+{
+  "browser": "mocha",
+  "main": "mocha",
+  "shim": {
+    "mocha": {
+      "deps": ["./mocha.css!"],
+      "exports": "mocha"
+    }
+  },
+  "dependencies": {
+    "css": "*"
+  },
+  "registry": "jspm"
+}

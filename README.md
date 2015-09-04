@@ -1,7 +1,9 @@
 jspm Registry
 ---
 
-[View the registry file here](https://github.com/jspm/registry/blob/master/registry.json)
+[Browse the Registry](http://kasperlewau.github.io/registry)
+
+or view the raw registry file at https://github.com/jspm/registry/blob/master/registry.json.
 
 Pull requests welcome for `registry.json` and the `package_overrides` folder.
 

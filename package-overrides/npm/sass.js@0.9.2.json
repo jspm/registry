@@ -1,0 +1,8 @@
+{
+  "map": {
+    "ws": "@empty"
+  },
+  "shim": {
+    "dist/sass.worker": {}
+  }
+}

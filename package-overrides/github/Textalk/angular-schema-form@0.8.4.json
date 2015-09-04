@@ -1,0 +1,3 @@
+{
+  "main": ["schema-form.min.js", "bootstrap-decorator.min.js"]
+}

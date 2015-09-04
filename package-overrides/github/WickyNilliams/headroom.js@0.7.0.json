@@ -1,0 +1,11 @@
+{
+  "main": "dist/headroom",
+  "files": ["dist/**/*"],
+  "ignore": ["spec", "src", "*"],
+  "format": "global",
+  "shim": {
+    "dist/headroom": {
+      "exports": "Headroom"
+    }
+  }
+}

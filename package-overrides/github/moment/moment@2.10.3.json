@@ -1,0 +1,11 @@
+{
+  "main": "moment",
+  "format": "global",
+  "shim": {
+    "locale/*": {
+      "deps": [
+        "../moment"
+      ]
+    }
+  }
+}

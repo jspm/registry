@@ -1,0 +1,13 @@
+{
+  "main": "dist/tmhDynamicLocale",
+  "files": ["dist/**/*"],
+  "registry": "jspm",
+  "dependencies": {
+    "angular": "^1.0.7"
+  },
+  "shim": {
+    "dist/tmhDynamicLocale": {
+      "deps": ["angular"]
+    }
+  }
+}

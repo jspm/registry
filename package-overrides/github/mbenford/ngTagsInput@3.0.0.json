@@ -1,0 +1,17 @@
+{
+  "main": "ng-tags-input.min",
+  "registry": "jspm",
+  "dependencies": {
+    "angular": "^1.4.0",
+    "css": "*"
+  },
+  "shim": {
+    "ng-tags-input.min": {
+      "deps": [
+        "angular", 
+        "./ng-tags-input.min.css!", 
+        "./ng-tags-input.bootstrap.min.css!"
+      ]
+    }
+  }
+}

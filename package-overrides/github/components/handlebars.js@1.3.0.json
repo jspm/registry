@@ -5,5 +5,5 @@
       "exports": "Handlebars"
     }
   },
-  "files": ["handlebars.js"]
+  "files": ["handlebars.js", "handlebars.runtime.js"]
 }

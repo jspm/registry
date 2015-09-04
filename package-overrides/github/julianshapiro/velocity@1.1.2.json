@@ -1,0 +1,9 @@
+{
+  "main": "velocity.js",
+  "files": [
+    "velocity.js",
+    "velocity.min.js",
+    "velocity.ui.js",
+    "velocity.ui.min.js"
+  ]
+}

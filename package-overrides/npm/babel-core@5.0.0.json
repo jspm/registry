@@ -1,6 +1,13 @@
 {
   "main": "browser.js",
-  "format": "global",
   "dependencies": {},
-  "jspmNodeConversion": false
+  "jspmNodeConversion": false,
+  "shim": {
+    "browser": {
+      "exports": "babel"
+    }
+  },
+  "map": {
+    "regenerator/runtime": "babel-runtime/regenerator/runtime"
+  }
 }

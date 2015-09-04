@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "angular": "^1"
+  },
+  "registry": "jspm",
+  "main": "./src/ui-layout.js",
+  "shim": {
+    "ui-utils": {
+      "deps": "angular"
+    }
+  }
+
+}

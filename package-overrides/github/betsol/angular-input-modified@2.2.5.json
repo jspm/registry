@@ -1,0 +1,15 @@
+{
+  "main": "dist/angular-input-modified",
+  "registry": "jspm",
+  "dependencies": {
+    "angular": "^1.4.0"
+  },
+  "ignore": ["demos", "emblem", "tests"],
+  "shim": {
+    "dist/angular-input-modified": {
+      "deps": [
+        "angular"
+      ]
+    }
+  }
+}

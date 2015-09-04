@@ -1,0 +1,8 @@
+{
+  "format": "global",
+  "shim": {
+    "traceur": {
+      "exports": "traceur"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "files": [
+    "dist"
+  ],
+  "main": "dist/js/materialize",
+  "shim": {
+    "dist/js/materialize": {
+      "deps": [
+        "jquery",
+        "../css/materialize.css!"
+      ],
+      "exports": "$"
+    }
+  },
+  "dependencies": {
+    "jquery": "github:components/jquery",
+    "css": "github:systemjs/plugin-css"
+  }
+}

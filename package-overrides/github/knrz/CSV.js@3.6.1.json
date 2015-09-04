@@ -1,0 +1,8 @@
+{
+  "format": "global",
+  "shim": {
+    "csv": {
+      "exports": "CSV"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "shim": {
+        "jquery.carouFredSel*": {
+            "deps": ["jquery"]
+        }
+    }
+}

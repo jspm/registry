@@ -1,0 +1,10 @@
+{
+  "shim": {
+    "dist/typeahead.bundle": {
+      "deps": ["jquery"]
+    }
+  },
+  "dependencies": {
+    "jquery": "*"
+  }
+}

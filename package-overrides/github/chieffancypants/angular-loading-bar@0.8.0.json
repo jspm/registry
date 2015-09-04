@@ -1,0 +1,13 @@
+{
+  "main": "build/loading-bar",
+  "registry": "jspm",
+  "dependencies": {
+    "angular": "^1.2.9",
+    "css": "*"
+  },
+  "shim": {
+    "build/loading-bar": {
+      "deps": ["angular", "./loading-bar.css!"]
+    }
+  }
+}

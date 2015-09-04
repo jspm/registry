@@ -1,0 +1,17 @@
+{
+  "main": "angular-translate-loader-partial",
+  "registry": "jspm",
+  "format": "global",
+  "dependencies": {
+    "angular": "^1.2.26",
+    "angular-translate": "^2.5.2"
+  },
+  "shim": {
+    "angular-translate-loader-partial": {
+      "deps": [
+        "angular",
+        "angular-translate"
+      ]
+    }
+  }
+}

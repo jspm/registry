@@ -1,0 +1,9 @@
+{
+  "format": "global",
+  "main": "build/auth0-lock.min",
+  "shim": {
+    "build/auth0-lock.min": {
+      "exports": "Auth0Lock"
+    }
+  }
+}
