@@ -1,0 +1,14 @@
+{
+    "main": "script/jquery.jscrollpane",
+    "dependencies": {
+        "jquery": "*"
+    },
+    "shim": {
+        "script/jquery.jscrollpane": {
+            "deps": [
+                "jquery",
+                "../style/jquery.jscrollpane.css!"
+            ]
+        }
+    }
+}
