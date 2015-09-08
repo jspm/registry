@@ -235,6 +235,7 @@
   "jquery.tipTip": "github:drewwilson/TipTip",
   "jquery.dotdotdot": "github:BeSite/jQuery.dotdotdot",
   "jquery.carouFredSel": "github:gilbitron/carouFredSel",
+  "jquery.jScrollPane": "github:vitch/jScrollPane",
   "jquery-validation": "github:jzaefferer/jquery-validation",
   "jquery-validation-unobtrusive": "github:aspnet/jquery-validation-unobtrusive",
   "js-beautify": "github:beautify-web/js-beautify",
