@@ -21,6 +21,7 @@
   "angular": "github:angular/bower-angular",
   "angular2": "npm:angular2",
   "angular2-bootstrap": "npm:angular2-bootstrap",
+  "ng2-bootstrap": "npm:ng2-bootstrap",
   "angular.CQRS": "github:KABA-CCEAC/angular.CQRS",
   "angular-agility": "github:AngularAgility/AngularAgility",
   "angular-animate": "github:angular/bower-angular-animate",
