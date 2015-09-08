@@ -110,6 +110,7 @@
   "aurelia-logging": "github:aurelia/logging",
   "aurelia-logging-console": "github:aurelia/logging-console",
   "aurelia-metadata": "github:aurelia/metadata",
+  "aurelia-modal": "github:vheissu/aurelia-modal",
   "aurelia-path": "github:aurelia/path",
   "aurelia-route-recognizer": "github:aurelia/route-recognizer",
   "aurelia-router": "github:aurelia/router",
