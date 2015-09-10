@@ -122,6 +122,7 @@
   "aurelia-templating-router": "github:aurelia/templating-router",
   "aurelia-ui-virtualization": "github:aurelia/ui-virtualization",
   "aurelia-validation": "github:aurelia/validation",
+  "aurelia-html-import-template-loader": "github:aurelia/html-import-template-loader",
   "autosize": "github:jackmoore/autosize",
   "babel": "npm:babel-core",
   "babel-runtime": "npm:babel-runtime",
