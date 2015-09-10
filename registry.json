@@ -115,6 +115,7 @@
   "aurelia-route-recognizer": "github:aurelia/route-recognizer",
   "aurelia-router": "github:aurelia/router",
   "aurelia-swagger-client":"github:paulvanbladel/aurelia-swagger-client",
+  "aurelia-tabs": "github:vheissu/aurelia-tabs",
   "aurelia-task-queue": "github:aurelia/task-queue",
   "aurelia-templating": "github:aurelia/templating",
   "aurelia-templating-binding": "github:aurelia/templating-binding",
