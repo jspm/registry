@@ -21,9 +21,11 @@ var ALLOWED_PROPERTIES = [
 	'files',
 	'ignore',
 	'shim',
-
 	'jspmNodeConversion',
-	'browser'
+	'browser',
+	'meta',
+	'systemjs',
+	'defaultExtension'
 ];
 
 /**
