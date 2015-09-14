@@ -1,0 +1,17 @@
+{
+  "systemjs": {
+    "main": "inherits.js",
+    "format": "cjs",
+    "meta": {
+      "*.json": {
+        "loader": "nodelibs/json"
+      }
+    },
+    "map": {
+      "util": "@node/util",
+      "./inherits.js": {
+        "browser": "./inherits_browser.js"
+      }
+    }
+  }
+}
