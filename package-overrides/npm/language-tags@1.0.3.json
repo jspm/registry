@@ -1,0 +1,8 @@
+{
+  "map": {
+    "language-subtag-registry/data/json/index": "language-subtag-registry/data/json/index.json!",
+    "language-subtag-registry/data/json/macrolanguage": "language-subtag-registry/data/json/macrolanguage.json!",
+    "language-subtag-registry/data/json/meta": "language-subtag-registry/data/json/meta.json!",
+    "language-subtag-registry/data/json/registry": "language-subtag-registry/data/json/registry.json!"
+  }
+}
