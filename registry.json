@@ -167,6 +167,7 @@
   "cytoscape":"github:cytoscape/cytoscape.js",
   "cytoscape.js":"github:cytoscape/cytoscape.js",
   "d3": "github:mbostock/d3",
+  "c3": "github:masayuki0812/c3",
   "datatables": "github:DataTables/DataTables",
   "debug": "github:visionmedia/debug",
   "decimal.js": "github:MikeMcl/decimal.js",
