@@ -1,0 +1,13 @@
+{
+  "registry": "jspm",
+  "format": "global",
+  "main": "angular-translate-handler-log",
+  "dependencies": {
+    "angular-translate": "^2.7.2"
+  },
+  "shim": {
+    "angular-translate-handler-log": [
+      "angular-translate"
+    ]
+  }
+}
