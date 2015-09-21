@@ -347,6 +347,7 @@
   "readline": "github:jspm/nodelibs-readline",
   "redux": "npm:redux",
   "react-redux": "npm:react-redux",
+  "react-morph-material-icons": "github:friktor/react-material-icons",
   "reflect-metadata": "npm:reflect-metadata",
   "reflux": "npm:reflux",
   "regenerator": "npm:regenerator",
