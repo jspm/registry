@@ -5,10 +5,10 @@
     "jquery": "github:components/jquery",
     "css": "github:systemjs/plugin-css"
   },
-  "files": ["toastr.js", "toastr.css"],
+  "files": ["toastr.js", "build/toastr.css"],
   "shim": {
     "toastr": {
-      "deps": ["jquery", "./toastr.css!"],
+      "deps": ["jquery", "./build/toastr.css!"],
       "exports": "toastr"
     }
   }
