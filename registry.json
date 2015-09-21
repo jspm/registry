@@ -303,6 +303,7 @@
   "react": "npm:react",
   "react-router": "npm:react-router",
   "react-dom": "npm:react-dom",
+  "jest": "npm:jest",
   "readline": "github:jspm/nodelibs-readline",
   "reflect-metadata": "npm:reflect-metadata",
   "reflux": "npm:reflux",
