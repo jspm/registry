@@ -7,14 +7,14 @@
     "css": "github:systemjs/plugin-css"
   },
   "files": [
-    "toastr.css",
+    "build/toastr.min.css",
     "toastr"
   ],
   "shim": {
     "toastr": {
       "deps": [
         "jquery",
-        "./toastr.css!"
+        "./build/toastr.min.css!"
       ],
       "exports": "toastr"
     }
