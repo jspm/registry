@@ -1,26 +1,23 @@
 {
   "format": "global",
-  "main": "build/js/bootstrap-datetimepicker.min.js",
-  "registry": "github",
+  "main": "src/js/bootstrap-datetimepicker",
   "dependencies": {
-    "moment": "npm:moment",
-    "jquery": "github:components/jquery",
-    "bootstrap": "github:twbs/bootstrap@^3.0.0",
-    "css": "github:systemjs/plugin-css"
+    "css": "*",
+    "bootstrap": "^3.0.0",
+    "jquery": "*",
+    "moment": "*"
   },
   "files": [
-    "./build/js/bootstrap-datetimepicker.min.js",
-    "./build/css/bootstrap-datetimepicker.css",
-    "./build/css/bootstrap-datetimepicker.min.css"
+    "./src/js/bootstrap-datetimepicker.js",
+    "./build/css/bootstrap-datetimepicker.css"
   ],
   "shim": {
-    "build/js/bootstrap-datetimepicker.min": {
+    "src/js/bootstrap-datetimepicker": {
       "deps": [
-        "moment",
-        "jquery",
         "bootstrap",
-        "../../build/css/bootstrap-datetimepicker.css!",
-        "../../build/css/bootstrap-datetimepicker.min.css!"
+        "jquery",
+        "moment",
+        "../../build/css/bootstrap-datetimepicker.css!"
       ]
     }
   }
