@@ -3,8 +3,8 @@
   "registry": "github",
   "format": "global",
   "dependencies": {
-    "jquery": "github:components/jquery@2.1.3",
-    "css": "github:systemjs/plugin-css@^0.1.13"
+    "jquery": "*",
+    "css": "*"
   },
   "files": [
     "toastr.css",
