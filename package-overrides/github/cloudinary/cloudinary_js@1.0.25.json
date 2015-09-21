@@ -1,0 +1,16 @@
+{
+  "main": "js/jquery.cloudinary",
+  "map": {
+    "jquery.ui.widget": "./js/jquery.ui.widget"
+  },
+  "shim": {
+    "js/jquery.cloudinary": {
+      "exports": "$",
+      "deps": [
+        "./jquery.ui.widget",
+        "./jquery.iframe-transport",
+        "./jquery.fileupload"
+      ]
+    }
+  }
+}

@@ -154,6 +154,7 @@
   "child_process": "github:jspm/nodelibs-child_process",
   "chosen": "github:harvesthq/chosen",
   "chronoman": "npm:chronoman",
+  "cloudinary_js": "github:cloudinary/cloudinary_js",
   "cluster": "github:jspm/nodelibs-cluster",
   "cola": "github:cujojs/cola",
   "comma-separated-values": "github:knrz/CSV.js",
