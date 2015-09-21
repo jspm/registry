@@ -1,7 +1,4 @@
 {
-  "files": [
-    "release/ct-ui-router-extras.js"
-  ],
   "registry": "jspm",
   "format": "global",
   "dependencies": {
