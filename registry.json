@@ -349,6 +349,7 @@
   "react": "npm:react",
   "react-dom": "npm:react-dom",
   "react-router": "npm:react-router",
+  "jest-cli": "npm:jest-cli",
   "readline": "github:jspm/nodelibs-readline",
   "redux": "npm:redux",
   "react-redux": "npm:react-redux",
