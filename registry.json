@@ -366,6 +366,7 @@
   "rest": "github:cujojs/rest",
   "restangular": "github:mgonto/restangular",
   "return-function": "npm:return-function",
+  "riot": "npm:riot",
   "rx": "npm:rx",
   "rx-angular": "npm:rx-angular",
   "rx-dom": "npm:rx-dom",
