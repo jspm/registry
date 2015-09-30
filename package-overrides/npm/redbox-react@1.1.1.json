@@ -1,0 +1,9 @@
+{
+  "registry": "npm",
+  "main": "dist/redbox",
+  "format": "cjs",
+  "dependencies": {
+    "stackframe": "^0.3.1",
+    "react": ">=0.13.2 || ^0.14.0-rc1"
+  }
+}
