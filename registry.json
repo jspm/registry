@@ -401,6 +401,7 @@
   "threestrap": "github:unconed/threestrap",
   "theseus": "npm:theseus",
   "theseus-angular": "npm:theseus-angular",
+  "toastr": "github:CodeSeven/toastr",
   "topo": "github:capaj/topo-browser",
   "timers": "github:jspm/nodelibs-timers",
   "tinycolor": "github:bgrins/TinyColor",
