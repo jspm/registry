@@ -1,0 +1,12 @@
+{
+  "main": "browser/nunjucks-slim",
+  "format": "cjs",
+  "shim": {
+    "browser/nunjucks-slim": {
+      "format": "global"
+    },
+    "browser/nunjucks": {
+      "format": "global"
+    }
+  }
+}
