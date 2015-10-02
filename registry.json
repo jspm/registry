@@ -321,6 +321,7 @@
   "nprogress": "github:rstacruz/nprogress",
   "numeral": "npm:numeral",
   "numgen": "npm:numgen",
+  "nunjucks": "github:mozilla/nunjucks",
   "observe-js": "github:Polymer/observe-js",
   "oidc-client": "github:IdentityModel/oidc-client",
   "omniscient": "npm:omniscient",
