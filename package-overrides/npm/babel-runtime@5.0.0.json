@@ -1,7 +1,4 @@
 {
   "main": false,
-  "dependencies": {},
-  "peerDependencies": {
-    "core-js": "^1.2.0"
-  }
+  "dependencies": {}
 }
