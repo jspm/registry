@@ -395,7 +395,7 @@
   "superagent": "npm:superagent",
   "svg.js" :  "github:wout/svg.js",
   "tabletools": "github:DataTables/TableTools",
-  "tape": "github:substack/tape",
+  "tape": "npm:tape",
   "teo": "npm:teo",
   "textAngular": "github:fraywing/textAngular",
   "three.js": "github:mrdoob/three.js",
