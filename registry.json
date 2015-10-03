@@ -295,7 +295,7 @@
   "puremvc-multicore": "github:PureMVC/puremvc-typescript-multicore-framework",
   "querystring": "github:jspm/nodelibs-querystring",
   "qunit": "github:jquery/qunit",
-  "qunit": "npm:qunitjs",
+  "qunitjs": "npm:qunitjs",
   "rangy": "github:timdown/rangy-release",
   "raphael": "github:DmitryBaranovskiy/raphael",
   "ratchet": "github:maker/ratchet",
