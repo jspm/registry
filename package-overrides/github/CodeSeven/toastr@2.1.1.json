@@ -1,0 +1,15 @@
+{
+  "main": "toastr",
+  "format": "global",
+  "dependencies": {
+    "jquery": "github:components/jquery",
+    "css": "github:systemjs/plugin-css"
+  },
+  "files": ["toastr.js", "toastr.css", "build"],
+  "shim": {
+    "toastr": {
+      "deps": ["jquery", "./toastr.css!"],
+      "exports": "toastr"
+    }
+  }
+}
