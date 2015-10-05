@@ -276,6 +276,7 @@
   "klayjs": "github:OpenKieler/klayjs",
   "kl-watch-once": "github:kasperlewau/kl-watch-once",
   "knockout": "github:knockout/knockout",
+  "knockout-paging": "npm:knockout-paging",
   "knockout-pre-rendered": "npm:knockout-pre-rendered",
   "knockout-validation": "github:Knockout-Contrib/Knockout-Validation",
   "leaflet": "github:Leaflet/Leaflet",
