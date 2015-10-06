@@ -14,7 +14,7 @@
   "less": "github:aaike/jspm-less-plugin",
   "ts": "github:frankwallis/plugin-typescript",
   "sass": "github:screendriver/plugin-sass",
-  "datajs": "github:hiddenboox/datajs",
+  
   "ace": "github:ajaxorg/ace-builds",
   "adam": "npm:adam",
   "alt": "npm:alt",
@@ -177,6 +177,7 @@
   "d3": "github:mbostock/d3",
   "c3": "npm:c3",
   "datatables": "github:DataTables/DataTables",
+  "datajs": "github:hiddenboox/datajs",
   "debug": "github:visionmedia/debug",
   "decimal.js": "github:MikeMcl/decimal.js",
   "dgram": "github:jspm/nodelibs-dgram",
