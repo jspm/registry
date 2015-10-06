@@ -291,7 +291,7 @@
   "masonry": "github:desandro/masonry",
   "material-design-lite": "github:google/material-design-lite",
   "material-design-icons": "github:google/material-design-icons",
-  "materialize": "github:Dogfalo/materialize",
+  "materialize": "npm:materialize",
   "mbe-nodes": "github:OptimalBPM/mbe-nodes",
   "meld": "github:cujojs/meld",
   "microplugin": "npm:microplugin",
