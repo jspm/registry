@@ -23,7 +23,7 @@ var ALLOWED_PROPERTIES = [
 	'shim',
 	'jspmNodeConversion',
 	'browser',
-	'meta',
+	'modules',
 	'systemjs',
 	'defaultExtension'
 ];
