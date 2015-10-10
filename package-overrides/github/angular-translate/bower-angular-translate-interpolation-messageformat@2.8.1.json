@@ -1,0 +1,16 @@
+{
+  "main": "angular-translate-interpolation-messageformat",
+  "registry": "jspm",
+  "format": "global",
+  "shim": {
+    "angular-translate-interpolation-messageformat": {
+      "deps": [
+        "angular",
+        "angular-translate"
+      ]
+    }
+  },
+  "dependencies": {
+    "angular-translate": "^2.8.1"
+  }
+}
