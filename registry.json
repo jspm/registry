@@ -385,6 +385,7 @@
   "showdown": "github:showdownjs/showdown",
   "sifter": "github:brianreavis/sifter.js",
   "skrollr": "github:Prinzhorn/skrollr",
+  "slick": "github:kenwheeler/slick",
   "snap.svg": "github:adobe-webplatform/Snap.svg",
   "sockjs-client": "github:sockjs/sockjs-client",
   "socket.io-client": "github:socketio/socket.io-client",
