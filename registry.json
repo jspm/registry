@@ -294,6 +294,7 @@
   "materialize": "npm:materialize",
   "mbe-nodes": "github:OptimalBPM/mbe-nodes",
   "meld": "github:cujojs/meld",
+  "messageformat": "npm:messageformat",
   "microplugin": "npm:microplugin",
   "minivents": "github:allouis/minivents",
   "mithril": "npm:mithril",
