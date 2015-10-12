@@ -1,0 +1,13 @@
+{
+  "registry": "npm",
+  "format": "global",
+  "files": [
+    "messageformat.js",
+    "locale/*.js"
+  ],
+  "shim": {
+    "messageformat": {
+      "exports": "MessageFormat"
+    }
+  }
+}
