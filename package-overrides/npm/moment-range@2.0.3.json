@@ -1,0 +1,10 @@
+{
+  "registry": "jspm",
+  "shim": {
+    "dist/moment-range": {
+      "deps": [
+        "moment"
+      ]
+    }
+  }
+}
