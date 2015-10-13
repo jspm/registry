@@ -233,6 +233,7 @@
   "infamous": "npm:infamous",
   "intro": "github:usablica/intro.js",
   "ionic": "github:driftyco/ionic-bower",
+  "is-subset": "npm:is-subset",
   "jcrop": "github:tapmodo/Jcrop",
   "jiff": "github:cujojs/jiff",
   "joi": "github:capaj/joi-browser",
