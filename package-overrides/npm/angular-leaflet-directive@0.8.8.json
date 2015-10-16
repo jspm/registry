@@ -1,0 +1,12 @@
+{
+  "registry": "jspm",
+  "main": "dist/angular-leaflet-directive",
+  "dependencies": {
+    "angular": "github:angular/bower-angular@*"
+  },
+  "shim": {
+    "dist/angular-leaflet-directive": [
+      "angular"
+    ]
+  }
+}

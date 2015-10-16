@@ -1,0 +1,12 @@
+{
+  "registry": "jspm",
+  "main": "dist/angular-simple-logger",
+  "dependencies": {
+    "angular": "github:angular/bower-angular@*"
+  },
+  "shim": {
+    "dist/angular-simple-logger": [
+      "angular"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "registry": "jspm",
+  "main": "dist/highcharts-ng",
+  "dependencies": {
+    "angular": "github:angular/bower-angular@*"
+  },
+  "shim": {
+    "dist/highcharts-ng": [
+      "angular"
+    ]
+  }
+}

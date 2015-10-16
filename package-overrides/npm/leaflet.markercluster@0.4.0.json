@@ -1,0 +1,7 @@
+{
+  "shim": {
+    "dist/leaflet.markercluster": [
+      "leaflet"
+    ]
+  }
+}

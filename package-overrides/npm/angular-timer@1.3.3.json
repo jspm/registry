@@ -1,0 +1,11 @@
+{
+  "registry": "jspm",
+  "shim": {
+    "dist/angular-timer": [
+      "angular"
+    ]
+  },
+  "dependencies": {
+    "angular": "github:angular/bower-angular@*"
+  }
+}

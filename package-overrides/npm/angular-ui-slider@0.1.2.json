@@ -1,0 +1,11 @@
+{
+  "registry": "jspm",
+  "dependencies": {
+    "angular": "github:angular/bower-angular@*"
+  },
+  "shim": {
+    "src/slider": [
+      "angular"
+    ]
+  }
+}

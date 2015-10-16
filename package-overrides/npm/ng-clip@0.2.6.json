@@ -1,0 +1,15 @@
+{
+  "registry": "jspm",
+  "directories": {
+    "lib": "src"
+  },
+  "main": "ngClip",
+  "dependencies": {
+    "angular": "github:angular/bower-angular@*"
+  },
+  "shim": {
+    "ngClip": [
+      "angular"
+    ]
+  }
+}

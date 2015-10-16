@@ -1,0 +1,11 @@
+{
+  "registry": "jspm",
+  "shim": {
+    "dist/angular-filters": [
+      "angular"
+    ]
+  },
+  "dependencies": {
+    "angular": "github:angular/bower-angular@*"
+  }
+}
