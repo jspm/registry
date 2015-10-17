@@ -1,0 +1,8 @@
+{
+  "registry": "jspm",
+  "shim": {
+    "dist/leaflet.groupedlayercontrol.min": [
+      "leaflet"
+    ]
+  }
+}
