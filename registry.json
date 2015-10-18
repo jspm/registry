@@ -106,6 +106,7 @@
   "aurelia-dialog": "github:aurelia/dialog",
   "aurelia-event-aggregator": "github:aurelia/event-aggregator",
   "aurelia-fetch-client": "github:aurelia/fetch-client",
+  "aurelia-firebase": "github:pulsarblow/aurelia-firebase",
   "aurelia-flux": "github:tfrydrychewicz/aurelia-flux",
   "aurelia-framework": "github:aurelia/framework",
   "aurelia-history": "github:aurelia/history",
