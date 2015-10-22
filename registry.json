@@ -344,7 +344,7 @@
   "pixi.js": "npm:pixi.js",
   "poly": "github:cujojs/poly",
   "postal": "npm:postal",
-  "pouchdb": "github:pouchdb/pouchdb",
+  "pouchdb": "npm:pouchdb",
   "pretender": "npm:pretender",
   "prism": "github:LeaVerou/prism",
   "process": "github:jspm/nodelibs-process",
