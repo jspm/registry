@@ -1,0 +1,4 @@
+{
+  "format": "global",
+  "main": "javascript/diff_match_patch_uncompressed.js"
+}
