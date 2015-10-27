@@ -305,7 +305,7 @@
   "mocha": "npm:mocha",
   "modernizr": "github:Modernizr/Modernizr",
   "module": "github:jspm/nodelibs-module",
-  "moment": "github:moment/moment",
+  "moment": "npm:moment",
   "moment-json-parser": "npm:moment-json-parser",
   "mongoose": "github:gavinaiken/mongoose-browser",
   "moonridge-client": "github:capaj/Moonridge-client",
