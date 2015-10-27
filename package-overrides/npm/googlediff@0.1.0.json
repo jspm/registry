@@ -1,4 +1,11 @@
 {
   "format": "global",
-  "main": "javascript/diff_match_patch_uncompressed.js"
+  "files": [
+    "javascript/diff_match_patch_uncompressed.js"
+  ],
+  "shim": {
+    "javascript/diff_match_patch_uncompressed": {
+      "exports": "diff_match_patch"
+    }
+  }
 }
