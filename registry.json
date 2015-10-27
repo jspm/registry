@@ -234,7 +234,7 @@
   "infamous": "npm:infamous",
   "intro": "github:usablica/intro.js",
   "ionic": "github:driftyco/ionic-bower",
-  "ionic2": "npm:ionic@alpha",
+  "ionic2": "ionic-framework",
   "jcrop": "github:tapmodo/Jcrop",
   "jiff": "github:cujojs/jiff",
   "joi": "github:capaj/joi-browser",
