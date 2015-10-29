@@ -95,6 +95,7 @@
   "aurelia-pal-nodejs": "github:aurelia/pal-nodejs",
   "aurelia-async": "github:jdanyow/aurelia-async",
   "aurelia-animator-css": "github:aurelia/animator-css",
+  "aurelia-animator-velocity": "github:aurelia/animator-velocity",
   "aurelia-auth":"github:paulvanbladel/aurelia-auth",
   "aurelia-binding": "github:aurelia/binding",
   "aurelia-breeze": "github:jdanyow/aurelia-breeze",
