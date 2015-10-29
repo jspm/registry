@@ -14,7 +14,8 @@
   "less": "github:aaike/jspm-less-plugin",
   "ts": "github:frankwallis/plugin-typescript",
   "sass": "github:screendriver/plugin-sass",
-
+  "audio": "github:ozsay/plugin-audio",
+  
   "ace": "github:ajaxorg/ace-builds",
   "adam": "npm:adam",
   "alt": "npm:alt",
