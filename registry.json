@@ -111,6 +111,7 @@
   "aurelia-firebase": "github:pulsarblow/aurelia-firebase",
   "aurelia-flux": "github:tfrydrychewicz/aurelia-flux",
   "aurelia-framework": "github:aurelia/framework",
+  "aurelia-google-analytics": "github:miguelzakharia/aurelia-google-analytics",
   "aurelia-history": "github:aurelia/history",
   "aurelia-history-browser": "github:aurelia/history-browser",
   "aurelia-html-template-element": "github:aurelia/html-template-element",
