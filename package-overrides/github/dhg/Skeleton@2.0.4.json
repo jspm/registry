@@ -1,0 +1,8 @@
+{
+  "main": "css/skeleton.css!", 
+  "registry": "jspm",
+  "dependencies": { 
+    "css": "0.1", 
+    "normalize.css": "3.0.3" 
+  }
+}
