@@ -342,6 +342,7 @@
   "page": "npm:page",
   "parallax": "github:wagerfield/parallax",
   "path": "github:jspm/nodelibs-path",
+  "paths-js": "npm:paths-js",
   "pdfmake": "github:bpampuch/pdfmake",
   "phaser": "github:photonstorm/phaser",
   "pikaday": "github:dbushell/Pikaday",
