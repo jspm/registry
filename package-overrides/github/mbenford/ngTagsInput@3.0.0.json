@@ -9,8 +9,8 @@
     "ng-tags-input.min": {
       "deps": [
         "angular", 
-        "./ng-tags-input.min.css!", 
-        "./ng-tags-input.bootstrap.min.css!"
+        "./ng-tags-input.bootstrap.min.css!",
+        "./ng-tags-input.min.css!"
       ]
     }
   }
