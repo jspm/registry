@@ -1,10 +1,10 @@
 {
-  "files": [
-    "dist"
-  ],
-  "main": "dist/js/materialize",
+  "main": "js/materialize",
+  "directories": {
+    "lib": "dist"
+  },
   "shim": {
-    "dist/js/materialize": {
+    "js/materialize": {
       "deps": [
         "jquery",
         "../css/materialize.css!"
