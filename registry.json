@@ -292,7 +292,7 @@
   "linq4es2015": "github:Fermium-co/LINQ4ES2015",
   "localforage": "npm:localforage",
   "lodash": "npm:lodash",
-  "log4js": "github:peterjuras/log4js",
+  "log4js": "github:mobilexag/log4js",
   "malihu-custom-scrollbar-plugin": "github:malihu/malihu-custom-scrollbar-plugin",
   "marionette": "github:marionettejs/backbone.marionette",
   "masonry": "github:desandro/masonry",
