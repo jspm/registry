@@ -15,6 +15,7 @@
   "sass": "github:mobilexag/plugin-sass",
   "text": "github:systemjs/plugin-text",
   "ts": "github:frankwallis/plugin-typescript",
+  "tsv": "github:wpf500/plugin-tsv",
 
   "ace": "github:ajaxorg/ace-builds",
   "adam": "npm:adam",
