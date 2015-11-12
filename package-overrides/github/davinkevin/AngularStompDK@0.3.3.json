@@ -1,0 +1,12 @@
+{
+  "main": "dist/angular-stomp",
+  "dependencies": {
+    "angular": "^1.2.0",
+    "stomp-websocket": "~2.3.0"
+  },
+  "shim": {
+  "dist/angular-stomp": {
+    "deps": [ "angular", "stomp-websocket" ]
+    }
+  }
+}
