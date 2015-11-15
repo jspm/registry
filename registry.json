@@ -327,6 +327,7 @@
   "ng-sortable": "github:a5hik/ng-sortable",
   "ng-table": "github:esvit/ng-table",
   "ng2-bootstrap": "npm:ng2-bootstrap",
+  "ngmap": "github:allenhwkim/angularjs-google-maps",
   "ns-popover": "github:nohros/nsPopover",
   "nodelibs": "github:jspm/nodelibs",
   "normalize.css": "github:necolas/normalize.css",
