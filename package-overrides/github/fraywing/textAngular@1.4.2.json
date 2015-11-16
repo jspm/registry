@@ -10,7 +10,7 @@
   },
   "shim": {
     "dist/textAngular": {
-      "deps": ["rangy", "rangy/rangy-selectionsaverestore", "./textAngularSetup", "./textAngular.css!"]
+      "deps": ["angular", "rangy", "rangy/rangy-selectionsaverestore", "./textAngularSetup", "./textAngular.css!"]
     }
   }
 }
