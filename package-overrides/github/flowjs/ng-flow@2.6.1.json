@@ -1,0 +1,16 @@
+{
+  "main": "dist/ng-flow",
+  "shim": {
+    "dist/ng-flow": {
+      "deps": [
+        "angular",
+        "flow.js"
+      ]
+    }
+  },
+  "registry": "jspm",
+  "dependencies": {
+    "angular": "^1.4.7",
+    "flow.js": "^2.9.0"
+  }
+}
