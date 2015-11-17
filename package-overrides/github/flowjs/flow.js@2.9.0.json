@@ -1,0 +1,4 @@
+{
+  "main": "dist/flow.js",
+  "registry": "jspm"
+}
