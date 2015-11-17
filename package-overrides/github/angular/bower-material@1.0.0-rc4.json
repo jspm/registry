@@ -1,0 +1,16 @@
+{
+  "main": "index",
+  "format":"cjs",
+  "registry": "jspm",
+  "dependencies": {
+    "angular": "github:angular/bower-angular@^1.4.7",
+    "angular-animate": "github:angular/bower-angular-animate@^1.4.7",
+    "angular-aria": "github:angular/bower-angular-aria@^1.4.7",
+    "css": "github:systemjs/plugin-css@^0.1.9"
+  },
+  "shim": {
+    "angular-material": {
+      "deps": [ "angular" ]
+    }
+  }
+}
