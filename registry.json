@@ -375,6 +375,7 @@
   "jest-cli": "npm:jest-cli",
   "readline": "github:jspm/nodelibs-readline",
   "redux": "npm:redux",
+  "redux-devtools": "npm:redux-devtools",
   "react-redux": "npm:react-redux",
   "react-morph-material-icons": "github:friktor/react-material-icons",
   "reflect-metadata": "npm:reflect-metadata",
