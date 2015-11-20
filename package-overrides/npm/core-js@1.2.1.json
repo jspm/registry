@@ -1,7 +1,0 @@
-{
-  "modules": {
-    "library/modules/$.global.js": {
-      "esmExports": false
-    }
-  }
-}
