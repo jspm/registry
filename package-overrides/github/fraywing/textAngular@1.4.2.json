@@ -11,6 +11,9 @@
   "shim": {
     "dist/textAngular": {
       "deps": ["angular", "rangy", "rangy/rangy-selectionsaverestore", "./textAngularSetup", "./textAngular.css!"]
+    },
+    "dist/textAngular-sanitize": {
+      "deps": [ "angular" ]
     }
   }
 }
