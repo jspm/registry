@@ -141,6 +141,7 @@
   "autosize": "github:jackmoore/autosize",
   "babel": "npm:babel-core",
   "babel-runtime": "npm:babel-runtime",
+  "babel-polyfill": "npm:babel-polyfill",
   "backbone": "npm:backbone",
   "backbone.babysitter": "github:marionettejs/backbone.babysitter",
   "backbone.wreqr": "github:marionettejs/backbone.wreqr",
