@@ -1,0 +1,17 @@
+{
+    "main": "angular-toastr.min",
+    "shim": {
+        "angular-toastr.min": {
+            "deps": [
+                "angular",
+                "./angular-toastr.min.css!"
+            ]
+        }
+    },
+    "registry": "jspm",
+    "dependencies": {
+        "angular": "^1.3.0",
+        "css": "*"
+    }
+}
+
