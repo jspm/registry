@@ -64,6 +64,7 @@
   "angular-smart-table": "github:lorenzofox3/Smart-Table",
   "angular-strap": "github:mgcrea/angular-strap",
   "angular-subscribe": "github:kasperlewau/angular-subscribe",
+  "angular-toastr": "github:Foxandxss/angular-toastr",
   "angular-touch": "github:angular/bower-angular-touch",
   "angular-translate": "github:angular-translate/bower-angular-translate",
   "angular-translate-handler-log": "github:angular-translate/bower-angular-translate-handler-log",
