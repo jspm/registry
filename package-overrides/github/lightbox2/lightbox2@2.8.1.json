@@ -1,0 +1,18 @@
+{
+  "main": "dist/js/lightbox.js",
+  "format": "global",
+  "registry": "jspm",
+  "dependencies": {
+    "jquery": "*",
+    "css": "*"
+  },
+  "shim": {
+    "dist/js/lightbox": {
+      "deps": [
+        "jquery",
+        "../css/lightbox.css!"
+      ],
+      "exports": "$"
+    }
+  }
+}
