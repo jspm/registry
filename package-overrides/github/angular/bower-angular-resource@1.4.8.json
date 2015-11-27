@@ -1,0 +1,12 @@
+{
+  "main": "angular-resource",
+  "shim": {
+    "angular-resource": {
+      "deps": ["angular"]
+    }
+  },
+  "registry": "jspm",
+  "dependencies": {
+    "angular": "^1.4.8"
+  }
+}
