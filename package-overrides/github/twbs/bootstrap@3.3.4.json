@@ -9,5 +9,16 @@
   "dependencies": {
     "jquery": "github:components/jquery"
   },
-  "files": ["css", "fonts", "js"]
+  "files": ["dist", "fonts", "js", "less", "grunt", "LICENSE"],
+  "systemjs": {
+    "main": "dist/js/bootstrap.js",
+    "modules": {
+      "dist/js/bootstrap.js": {
+        "deps": [
+          "jquery"
+        ],
+        "exports": "$"
+      }
+    }
+  }
 }
