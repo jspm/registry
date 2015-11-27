@@ -1,5 +1,4 @@
 {
-  "format": "cjs",
   "main": "angular-resource",
   "shim": {
     "angular-resource": {
