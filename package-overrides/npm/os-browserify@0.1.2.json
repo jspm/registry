@@ -1,0 +1,8 @@
+{
+  "map": {
+    "./main.js": {
+      "node": "@node/os",
+      "browser": "./browser.js"
+    }
+  }
+}

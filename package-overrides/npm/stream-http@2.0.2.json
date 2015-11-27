@@ -1,0 +1,7 @@
+{
+  "map": {
+    "./index.js": {
+      "node": "@node/http"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "map": {
+    "./main.js": {
+      "node": "@node/timers"
+    }
+  }
+}

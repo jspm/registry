@@ -1,0 +1,7 @@
+{
+  "map": {
+    "./events.js": {
+      "node": "@node/events"
+    }
+  }
+}

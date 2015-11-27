@@ -1,0 +1,7 @@
+{
+  "map": {
+    "./punycode.js": {
+      "node": "@node/punycode"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "map": {
+    "./constants.json": {
+      "node": "@node/constants"
+    }
+  }
+}
