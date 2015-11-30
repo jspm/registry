@@ -1,6 +1,6 @@
 {
   "map": {
-    "assert.js": {
+    "./assert.js": {
       "node": "@node/assert"
     }
   }
