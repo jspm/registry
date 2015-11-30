@@ -404,6 +404,7 @@
   "scoped-polyfill": "github:PM5544/scoped-polyfill",
   "showdown": "github:showdownjs/showdown",
   "sifter": "github:brianreavis/sifter.js",
+  "simple-date": "npm:simple-datejs",
   "skeleton": "github:dhg/Skeleton",
   "skrollr": "github:Prinzhorn/skrollr",
   "snap.svg": "github:adobe-webplatform/Snap.svg",
