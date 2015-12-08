@@ -411,6 +411,7 @@
   "sockjs-client": "github:sockjs/sockjs-client",
   "socket.io-client": "github:socketio/socket.io-client",
   "socket.io-rpc-client": "github:capaj/socket.io-rpc-client",
+  "spark":"npm:spark",
   "spin": "github:fgnass/spin.js",
   "sprintf-js": "npm:sprintf-js",
   "stomp-websocket": "github:jmesnil/stomp-websocket",
