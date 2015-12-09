@@ -1,7 +1,4 @@
 {
-  "files": [
-    "dist"
-  ],
   "main": "dist/js/materialize",
   "shim": {
     "dist/js/materialize": {
