@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "when":">=3.4.4",
+    "request":">=2.55.0",
+    "browser-request":"0.3.x"
+  }
+}
