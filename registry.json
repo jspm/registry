@@ -396,6 +396,7 @@
   "rx": "npm:rx",
   "rx-angular": "npm:rx-angular",
   "rx-dom": "npm:rx-dom",
+  "rxjs": "npm:rxjs",
   "saairey-bootstrap-wizard": "github:saairey/bootstrap-wizard",
   "sass.js": "npm:sass.js",
   "select2": "github:select2/select2",
