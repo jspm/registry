@@ -2,6 +2,7 @@
   "directories": {
     "lib": "build"
   },
+  "registry": "jspm",
   "main": "hotkeys",
   "dependencies": {
     "angular": "^1.2.0"
