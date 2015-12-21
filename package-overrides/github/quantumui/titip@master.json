@@ -1,0 +1,10 @@
+{
+  "main": "dist/css/titip.css!",
+  "shim": {
+    "titip": {
+      "deps": [
+        "css"
+      ]
+    }
+  }
+}
