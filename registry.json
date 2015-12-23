@@ -339,6 +339,7 @@
   "react-dom": "npm:react-dom",
   "react-router": "npm:react-router",
   "readline": "github:jspm/nodelibs-readline",
+  "redis": "npm:redis",
   "redux": "npm:redux",
   "react-redux": "npm:react-redux",
   "reflect-metadata": "npm:reflect-metadata",
