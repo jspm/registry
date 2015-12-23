@@ -380,6 +380,7 @@
   "react-router": "npm:react-router",
   "jest-cli": "npm:jest-cli",
   "readline": "github:jspm/nodelibs-readline",
+  "redis": "npm:redis",
   "redux": "npm:redux",
   "redux-devtools": "npm:redux-devtools",
   "react-redux": "npm:react-redux",
