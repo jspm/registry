@@ -200,6 +200,7 @@
   "elastic.js": "github:fullscale/elastic.js",
   "ember": "github:components/ember",
   "ember-data": "github:components/ember-data",
+  "ember-wiz": "github:ricottatosta/ember-wiz",
   "es5-shim": "github:es-shims/es5-shim",
   "es6-shim": "github:es-shims/es6-shim",
   "eva": "npm:eva",
