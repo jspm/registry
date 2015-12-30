@@ -140,6 +140,7 @@
   "aurelia-ui-virtualization": "npm:aurelia-ui-virtualization",
   "aurelia-validation": "npm:aurelia-validation",
   "aurelia-html-import-template-loader": "npm:aurelia-html-import-template-loader",
+  "aurelia-bootstrap-switch": "github:drdwilcox/aurelia-bootstrap-switch",
   "autosize": "github:jackmoore/autosize",
   "babel": "npm:babel-core",
   "babel-runtime": "npm:babel-runtime",
