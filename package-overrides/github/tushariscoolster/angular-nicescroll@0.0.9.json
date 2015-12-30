@@ -1,0 +1,14 @@
+{
+  "main": "angular-nicescroll",
+  "registry": "jspm",
+  "dependencies": {
+    "angular": "jspm:angular@^1.4.8",
+    "jquery": "jspm:jquery@^2.1.4",
+    "jquery.nicescroll": "github:inuyaksa/jquery.nicescroll@3.6.6"
+  },
+  "shim":{
+    "angular-nicescroll": {
+      "deps": ["angular", "jquery.nicescroll", "jquery"]
+    }
+  }
+}
