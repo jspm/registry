@@ -128,6 +128,7 @@
   "aurelia-metadata": "npm:aurelia-metadata",
   "aurelia-modal": "github:vheissu/aurelia-modal",
   "aurelia-path": "npm:aurelia-path",
+  "aurelia-polymer": "github:roguePanda/aurelia-polymer",
   "aurelia-route-recognizer": "npm:aurelia-route-recognizer",
   "aurelia-router": "npm:aurelia-router",
   "aurelia-swagger-client":"github:paulvanbladel/aurelia-swagger-client",
