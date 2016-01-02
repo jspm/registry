@@ -252,7 +252,7 @@
   "jcrop": "github:tapmodo/Jcrop",
   "jiff": "github:cujojs/jiff",
   "joi": "github:capaj/joi-browser",
-  "jquery": "github:components/jquery",
+  "jquery": "npm:jquery",
   "jquery-ui": "github:components/jqueryui",
   "jquery-ui-layout": "github:allpro/layout",
   "jquery-autosize": "github:jackmoore/autosize",
