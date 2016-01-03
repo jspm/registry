@@ -340,6 +340,7 @@
   "ng-sortable": "github:a5hik/ng-sortable",
   "ng-table": "github:esvit/ng-table",
   "ng2-bootstrap": "npm:ng2-bootstrap",
+  "ng2-markdown-component": "github:evanplaice/ng2-markdown-component",
   "ngmap": "github:allenhwkim/angularjs-google-maps",
   "ns-popover": "github:nohros/nsPopover",
   "nodelibs": "github:jspm/nodelibs",
