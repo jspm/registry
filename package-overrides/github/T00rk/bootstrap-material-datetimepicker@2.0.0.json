@@ -1,0 +1,7 @@
+{
+  "shim": {
+    "js/bootstrap-material-datetimepicker": {
+      "deps": ["bootstrap-material-datetimepicker/css/bootstrap-material-datetimepicker.css!", "jquery", "moment"]
+    }
+  }
+}
