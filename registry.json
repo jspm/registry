@@ -429,6 +429,7 @@
   "stylific": "npm:stylific",
   "superagent": "npm:superagent",
   "svg.js" :  "github:wout/svg.js",
+  "t7": "npm:t7",
   "tabletools": "github:DataTables/TableTools",
   "tag":"npm:systemjs-riot",
   "tape": "npm:tape",
