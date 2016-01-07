@@ -11,6 +11,7 @@
   "jsx": "github:floatdrop/plugin-jsx",
   "less": "github:aaike/jspm-less-plugin",
   "md": "github:guybedford/system-md",
+  "plugin-babel": "github:systemjs/plugin-babel",
   "raw": "github:matthewbauer/plugin-raw",
   "sass": "github:mobilexag/plugin-sass",
   "text": "github:systemjs/plugin-text",
