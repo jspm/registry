@@ -1,7 +1,1 @@
-{
-  "map": {
-    "./index.js": {
-      "node": "@node/buffer"
-    }
-  }
-}
+{}
