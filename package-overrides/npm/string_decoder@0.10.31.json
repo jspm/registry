@@ -1,7 +1,0 @@
-{
-  "map": {
-    "./index.js": {
-      "node": "@node/string_decoder"
-    }
-  }
-}
