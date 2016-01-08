@@ -1,7 +1,0 @@
-{
-  "map": {
-    "./url.js": {
-      "node": "@node/url"
-    }
-  }
-}
