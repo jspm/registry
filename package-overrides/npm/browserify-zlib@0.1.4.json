@@ -4,9 +4,6 @@
     "pako": "~0.2.0"
   },
   "map": {
-    "_stream_transform": "readable-stream/transform",
-    "./src/index.js": {
-      "node": "@node/zlib"
-    }
+    "_stream_transform": "readable-stream/transform"
   }
 }
