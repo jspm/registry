@@ -1,0 +1,7 @@
+{
+  "shim": 
+  { 
+      "js/browser/bluebird": true,
+      "js/browser/bluebird.min": true 
+  }
+}
