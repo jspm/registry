@@ -172,6 +172,7 @@
   "bootstrap3-dialog": "github:nakupanda/bootstrap3-dialog",
   "breeze": "npm:breeze-client",
   "buffer": "github:jspm/nodelibs-buffer",
+  "can": "npm:can",
   "chai": "npm:chai",
   "chart": "github:nnnick/Chart.js",
   "chartist": "npm:chartist",
