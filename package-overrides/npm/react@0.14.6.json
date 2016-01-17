@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "fbjs": "^0.6.1"
+  },
+  "format": "cjs",
+  "meta": {
+    "*": {
+      "globals": {
+        "process": "process"
+      }
+    }
+  },
+  "map": {
+    "fbjs/lib/ExecutionEnvironment.js": {
+      "production": "@empty"
+    },
+    "./lib/ReactDefaultPerf.js": {
+      "production": "@empty"
+    },
+    "./lib/ReactTestUtils.js": {
+      "production": "@empty"
+    }
+  }
+}
