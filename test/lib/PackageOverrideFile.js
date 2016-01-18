@@ -14,6 +14,8 @@ var ALLOWED_PROPERTIES = [
 	'registry',
 	'dependencies',
 	'devDependencies',
+	'peerDependencies',
+	'optionalDependencies',
 	'directories.lib',
 	'directories.dist',
 	'format',
