@@ -1,0 +1,19 @@
+{
+	"main": "js/bootstrap-datepicker",
+	"shim": {
+		"js/bootstrap-datepicker": {
+			"deps": [
+				"jquery"
+			],
+			"exports": "$"
+		}
+	},
+	"files": [
+		"js/bootstrap-datepicker.js",
+		"css/bootstrap-datepicker.css"
+	],
+	"dependencies": {
+		"jquery": "github:components/jquery",
+		"bootstrap": "github:twbs/bootstrap"
+	}
+}
