@@ -77,6 +77,7 @@
   "angular-translate-once": "github:ajwhite/angular-translate-once",
   "angular-translate-storage-cookie": "github:angular-translate/bower-angular-translate-storage-cookie",
   "angular-translate-storage-local": "github:angular-translate/bower-angular-translate-storage-local",
+  "angular-tree-control": "github:wix/angular-tree-control",
   "angular-ui-grid": "github:angular-ui/bower-ui-grid",
   "angular-ui-layout": "github:angular-ui/ui-layout",
   "angular-ui-router": "github:angular-ui/ui-router",
