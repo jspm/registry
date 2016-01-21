@@ -227,7 +227,7 @@
   "flowtype": "github:simplefocus/FlowType.JS",
   "flux": "npm:flux",
   "font-awesome": "npm:font-awesome",
-  "foundation": "github:zurb/bower-foundation",
+  "foundation": "npm:foundation-sites",
   "fs": "github:jspm/nodelibs-fs",
   "golden-layout": "npm:golden-layout",
   "greensock": "github:greensock/GreenSock-JS",
