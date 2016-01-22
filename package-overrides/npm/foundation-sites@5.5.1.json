@@ -1,0 +1,14 @@
+{
+  "main": "js/foundation/foundation",
+  "format": "global",
+  "shim": {
+    "js/foundation/foundation.*": "./foundation",
+    "js/foundation/foundation": {
+      "deps": "jquery",
+      "exports": "Foundation"
+    }
+  },
+  "dependencies": {
+    "jquery": "github:components/jquery"
+  }
+}
