@@ -483,6 +483,7 @@
   "wordcloud2": "github:timdream/wordcloud2.js",
   "xlsjs": "github:SheetJS/js-xls",
   "xlsx": "github:SheetJS/js-xlsx",
+  "zepto": "npm:zepto",
   "zlib": "github:jspm/nodelibs-zlib",
   "zone.js": "npm:zone.js",
   "zygo": "github:zygo-io/zygo",
