@@ -1,0 +1,24 @@
+{
+  "format": "global",
+  "main": "src/js/bootstrap-datetimepicker",
+  "dependencies": {
+    "css": "*",
+    "bootstrap": "^3.0.0",
+    "jquery": "*",
+    "moment": "*"
+  },
+  "files": [
+    "./src/js/bootstrap-datetimepicker.js",
+    "./build/css/bootstrap-datetimepicker.css"
+  ],
+  "shim": {
+    "src/js/bootstrap-datetimepicker": {
+      "deps": [
+        "bootstrap",
+        "jquery",
+        "moment",
+        "../../build/css/bootstrap-datetimepicker.css!"
+      ]
+    }
+  }
+}
