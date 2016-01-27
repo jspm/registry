@@ -297,6 +297,7 @@
   "jssha": "github:Caligatio/jsSHA",
   "js-cookie": "github:js-cookie/js-cookie",
   "js-scrypt": "github:tonyg/js-scrypt",
+  "bootstrap-fileinput": "github:kartik-v/bootstrap-fileinput",
   "kendo-ui": "github:kendo-labs/bower-kendo-ui",
   "kickstrap": "github:ajkochanowicz/Kickstrap",
   "klayjs": "github:OpenKieler/klayjs",
