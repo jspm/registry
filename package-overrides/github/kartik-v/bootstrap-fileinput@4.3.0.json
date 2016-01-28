@@ -1,0 +1,22 @@
+{
+  "main": "js/fileinput",
+  "format": "global",
+  "dependencies": {
+    "jquery": "github:components/jquery",
+    "bootstrap": "github:twbs/bootstrap",
+    "css": "github:systemjs/plugin-css"
+  },
+  "files": [
+    "js/fileinput.js",
+    "js/fileinput.min.js",
+    "css/fileinput.css",
+    "css/fileinput.min.css"
+  ],
+  "registry": "jspm",
+  "shim": {
+    "js/fileinput": {
+      "deps": ["jquery", "bootstrap", "./css/fileinput.css!"],
+      "exports": "$"
+    }
+  }
+}
