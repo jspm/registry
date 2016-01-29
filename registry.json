@@ -360,6 +360,7 @@
   "observe-js": "github:Polymer/observe-js",
   "oidc-client": "github:IdentityModel/oidc-client",
   "omniscient": "npm:omniscient",
+  "onsenui": "npm:onsenui",
   "open-sans-fontface": "github:FontFaceKit/open-sans",
   "os": "github:jspm/nodelibs-os",
   "p5": "github:processing/p5.js",
