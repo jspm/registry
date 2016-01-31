@@ -4,18 +4,21 @@
   "dependencies": {
     "jquery": "github:components/jquery",
     "bootstrap": "github:twbs/bootstrap",
-    "css": "github:systemjs/plugin-css"
+    "css": "github:systemjs/plugin-css",
+    "canvas-to-blob":"npm:canvas-to-blob"
   },
   "files": [
     "js/fileinput.js",
     "js/fileinput.min.js",
     "css/fileinput.css",
-    "css/fileinput.min.css"
+    "css/fileinput.min.css",
+    "img/loading.gif",
+    "img/loading-sm.gif"
   ],
   "registry": "jspm",
   "shim": {
     "js/fileinput": {
-      "deps": ["jquery", "bootstrap", "./css/fileinput.css!"],
+      "deps": ["jquery", "bootstrap", "canvas-to-blob", "../css/fileinput.css!"],
       "exports": "$"
     }
   }
