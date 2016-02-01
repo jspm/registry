@@ -6,7 +6,7 @@
   "registry": "jspm",
   "dependencies": {
     "angular": "^1.2.0",
-    "lodash": "*"
+    "lodash": "^3.10.1"
   },
   "shim": {
     "restangular": {
