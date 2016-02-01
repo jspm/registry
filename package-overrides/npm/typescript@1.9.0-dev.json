@@ -1,0 +1,12 @@
+{
+  "browser": {},
+  "map": {
+    "buffer": "@empty",
+    "child_process": "@empty",
+    "fs": "@empty",
+    "os": "@empty",
+    "path": "@empty",
+    "process": "@empty",
+    "readline": "@empty"
+  }
+}
