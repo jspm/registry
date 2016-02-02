@@ -46,6 +46,7 @@
   "angular-formly": "github:formly-js/angular-formly",
   "angular-google-maps": "github:angular-ui/angular-google-maps",
   "angular-http-auth": "github:witoldsz/angular-http-auth",
+  "angular-leaflet-directive": "github:tombatossals/angular-leaflet-directive",
   "angular-loading-bar": "github:chieffancypants/angular-loading-bar",
   "angular-local-storage": "npm:angular-local-storage",
   "angular-locker": "github:tymondesigns/angular-locker",
