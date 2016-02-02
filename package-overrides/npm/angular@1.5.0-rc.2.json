@@ -1,0 +1,14 @@
+{
+  "format": "global",
+  "jspmNodeConversion": false,
+  "main": "angular",
+  "files": [
+    "angular.js",
+    "package.json"
+  ],
+  "meta": {
+    "angular.js": {
+      "exports": "angular"
+    }
+  }
+}
