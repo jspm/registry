@@ -18,6 +18,6 @@
   },
   "dependencies": {
     "jquery": "github:components/jquery",
-    "tether": "github:HubSpot/tether"
+    "tether": "github:HubSpot/tether@^1.1.1"
   }
 }
