@@ -198,7 +198,7 @@
   "cytoscape":"github:cytoscape/cytoscape.js",
   "cytoscape.js":"github:cytoscape/cytoscape.js",
   "d3": "github:mbostock/d3",
-  "d3-legend": "susielu/d3-legend",
+  "d3-legend": "github:susielu/d3-legend",
   "c3": "npm:c3",
   "datatables": "github:DataTables/DataTables",
   "debug": "github:visionmedia/debug",
