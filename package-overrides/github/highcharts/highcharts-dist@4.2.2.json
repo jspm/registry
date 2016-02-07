@@ -1,0 +1,9 @@
+{
+  "main": "highcharts",
+  "shim": {
+    "highcharts": {
+      "deps": [ "./adapters/standalone-framework" ],
+      "exports": "Highcharts"
+    }
+  }
+}
