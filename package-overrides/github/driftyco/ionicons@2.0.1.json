@@ -1,0 +1,9 @@
+{
+  "main": false,
+  "files": [
+    "css/**.css",
+    "fonts/*",
+    "less/*",
+    "scss/*"
+  ]
+}
