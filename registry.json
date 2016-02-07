@@ -385,6 +385,7 @@
   "prism": "github:LeaVerou/prism",
   "process": "github:jspm/nodelibs-process",
   "punycode": "github:jspm/nodelibs-punycode",
+  "purecss": "npm:purecss",
   "puremvc-standard": "github:PureMVC/puremvc-typescript-standard-framework",
   "puremvc-multicore": "github:PureMVC/puremvc-typescript-multicore-framework",
   "querystring": "github:jspm/nodelibs-querystring",
