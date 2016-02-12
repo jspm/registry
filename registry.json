@@ -197,7 +197,7 @@
   "curl": "github:cujojs/curl",
   "cytoscape":"github:cytoscape/cytoscape.js",
   "cytoscape.js":"github:cytoscape/cytoscape.js",
-  "d3": "github:mbostock/d3",
+  "d3": "npm:d3",
   "d3-legend": "github:susielu/d3-legend",
   "c3": "npm:c3",
   "datatables": "github:DataTables/DataTables",
