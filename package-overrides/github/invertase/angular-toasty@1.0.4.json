@@ -1,0 +1,12 @@
+{
+  "main": "angular-toasty",
+  "shim": {
+    "dist/angular-toasty": {
+      "deps": ["angular"]
+    }
+  },
+  "registry": "jspm",
+  "dependencies": {
+    "angular": "^1.4.8"
+  }
+}

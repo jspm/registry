@@ -1,13 +1,13 @@
 {
-  "main":"src/js/kendo.ui.core",
-  "format": "global",
-  "shim": {
-    "src/js/kendo.ui.core": {
-      "deps": ["jquery"],
-      "exports": "kendo"
+    "main": "src/js/kendo.core",
+    "format": "amd",
+    "shim": {
+        "src/js/kendo.core": {
+            "deps": ["jquery"],
+            "exports": "kendo"
+        }
+    },
+    "dependencies": {
+        "jquery": "github:components/jquery"
     }
-  },
-  "dependencies": {
-    "jquery": "github:components/jquery"
-  }
 }

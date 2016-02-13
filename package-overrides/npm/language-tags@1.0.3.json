@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "language-subtag-registry": "~0.3.2",
+    "systemjs-json": "systemjs/plugin-json"
+  },
+  "map": {
+    "language-subtag-registry/data/json/index": "language-subtag-registry/data/json/index.json!systemjs-json",
+    "language-subtag-registry/data/json/macrolanguage": "language-subtag-registry/data/json/macrolanguage.json!systemjs-json",
+    "language-subtag-registry/data/json/meta": "language-subtag-registry/data/json/meta.json!systemjs-json",
+    "language-subtag-registry/data/json/registry": "language-subtag-registry/data/json/registry.json!systemjs-json"
+  }
+}

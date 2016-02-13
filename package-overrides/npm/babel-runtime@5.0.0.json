@@ -1,4 +1,7 @@
 {
   "main": false,
-  "dependencies": {}
+  "dependencies": {},
+  "optionalDependencies": {
+    "core-js": "^1.2.0"
+  }
 }

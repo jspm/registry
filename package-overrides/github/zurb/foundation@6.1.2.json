@@ -1,0 +1,13 @@
+{
+  "main": "dist/foundation",
+  "files": ["dist", "assets", "js", "scss"],
+  "shim": {
+    "dist/foundation": {
+      "deps": "jQuery",
+      "exports": "Foundation"
+    }
+  },
+  "dependencies": {
+    "jQuery": "github:components/jquery"
+  }
+}

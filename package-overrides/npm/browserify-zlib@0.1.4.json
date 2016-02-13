@@ -1,9 +1,9 @@
 {
+  "dependencies": {
+    "readable-stream": "^2.0.2",
+    "pako": "~0.2.0"
+  },
   "map": {
     "_stream_transform": "readable-stream/transform"
-  },
-  "dependencies": {
-    "readable-stream": "^1.0.27-1",
-    "pako": "~0.2.0"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "format": "global",
+    "registry": "jspm",
+    "dependencies": {
+      "angular-translate": "*"
+    },
+    "files": [
+      "src/translate-once.js"
+    ],
+    "shim": {
+      "src/translate-once": [
+        "angular-translate"
+      ]
+    }
+}

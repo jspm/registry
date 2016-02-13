@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "babel-runtime": "^5.8.20"
+  },
+  "devDependencies": {},
+  "files": [
+    "dist/",
+    "lib/browser",
+    "index.js",
+    "LICENSE",
+    "PATENTS"
+  ]
+}

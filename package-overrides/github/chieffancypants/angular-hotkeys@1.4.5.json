@@ -1,12 +1,15 @@
 {
-  "main": "build/hotkeys",
   "registry": "jspm",
+  "main": "build/hotkeys",
   "dependencies": {
     "angular": "^1.2.0"
   },
   "shim": {
     "build/hotkeys": {
-      "deps": ["angular"]
+      "deps": [
+        "angular",
+        "./hotkeys.css!"
+      ]
     }
   }
 }

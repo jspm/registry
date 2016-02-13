@@ -1,0 +1,16 @@
+{
+  "files": [
+    "dist/angular-nvd3.js"
+  ],
+  "registry": "jspm",
+  "format": "global",
+  "dependencies": {
+    "angular": "^1",
+    "nvd3": "npm:nvd3@^1.7.1"
+  },
+  "shim": {
+    "dist/angular-nvd3": [
+      "angular"
+    ]
+  }  
+}

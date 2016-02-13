@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "angular": "^1.4.0"
+  },
+  "main": "dist/ngScrollSpy",
+  "registry": "jspm",
+  "shim": {
+    "dist/ngScrollSpy": {
+      "deps": [
+        "angular"
+      ]
+    }
+  }
+}

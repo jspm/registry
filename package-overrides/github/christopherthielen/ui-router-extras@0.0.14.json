@@ -1,0 +1,12 @@
+{
+  "registry": "jspm",
+  "format": "global",
+  "dependencies": {
+    "angular": "^1.2.0"
+  },
+  "shim": {
+    "release/ct-ui-router-extras": [
+      "angular"
+    ]
+  }
+}

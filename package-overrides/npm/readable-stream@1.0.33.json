@@ -2,6 +2,7 @@
   "map": {
     "stream": "stream-browserify/index"
   },
+  "systemjs": {},
   "dependencies": {
     "core-util-is": "~1.0.0",
     "isarray": "0.0.1",
