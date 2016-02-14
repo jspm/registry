@@ -133,6 +133,7 @@
   "aurelia-logging-console": "npm:aurelia-logging-console",
   "aurelia-metadata": "npm:aurelia-metadata",
   "aurelia-modal": "github:vheissu/aurelia-modal",
+  "aurelia-notification": "github:MarcScheib/aurelia-notification",
   "aurelia-path": "npm:aurelia-path",
   "aurelia-polymer": "github:roguePanda/aurelia-polymer",
   "aurelia-route-recognizer": "npm:aurelia-route-recognizer",
