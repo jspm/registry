@@ -137,6 +137,7 @@
   "aurelia-polymer": "github:roguePanda/aurelia-polymer",
   "aurelia-route-recognizer": "npm:aurelia-route-recognizer",
   "aurelia-router": "npm:aurelia-router",
+  "aurelia-router-loader": "npm:aurelia-router-loader",
   "aurelia-swagger-client":"github:paulvanbladel/aurelia-swagger-client",
   "aurelia-tabs": "github:vheissu/aurelia-tabs",
   "aurelia-task-queue": "npm:aurelia-task-queue",
