@@ -16,6 +16,7 @@
   "plugin-typescript": "github:frankwallis/plugin-typescript",
   "raw": "github:matthewbauer/plugin-raw",
   "sass": "github:mobilexag/plugin-sass",
+  "scss": "github:KevCJones/plugin-scss",
   "text": "github:systemjs/plugin-text",
   "ts": "github:frankwallis/plugin-typescript",
   "tsv": "github:wpf500/plugin-tsv",
