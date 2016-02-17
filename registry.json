@@ -100,6 +100,7 @@
   "array-sugar": "github:capaj/array-sugar",
   "assert": "github:jspm/nodelibs-assert",
   "aurelia-pal": "npm:aurelia-pal",
+  "aurelia-polyfills": "npm:aurelia-polyfills",
   "aurelia-pal-browser": "npm:aurelia-pal-browser",
   "aurelia-pal-nodejs": "npm:aurelia-pal-nodejs",
   "aurelia-async": "npm:aurelia-async",
