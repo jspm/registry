@@ -1,4 +1,5 @@
 {
   "main": "unexpected.js",
-  "dependencies": {}
+  "dependencies": {},
+  "jspmPackage": true
 }
