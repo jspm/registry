@@ -7,6 +7,12 @@
       "exports": "mocha"
     }
   },
+  "meta": {
+    "mocha.js": {
+      "deps": ["./mocha.css!"],
+      "exports": "Mocha"
+    }
+  },
   "dependencies": {
     "css": "*"
   },
