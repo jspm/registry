@@ -1,0 +1,17 @@
+{
+  "main": "js/materialize",
+  "format": "global",
+  "registry": "github",
+  "shim": {
+    "js/materialize": {
+      "deps": [
+        "jquery",
+        "../css/materialize.css!"
+      ]
+    }
+  },
+  "dependencies": {
+    "jquery": "github:components/jquery",
+    "css": "github:systemjs/plugin-css"
+  }
+}
