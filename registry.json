@@ -442,6 +442,7 @@
   "spin": "github:fgnass/spin.js",
   "sprintf-js": "npm:sprintf-js",
   "ss-utils": "npm:ss-utils",
+  "ssv-core": "npm:ssv-core",
   "stomp-websocket": "github:jmesnil/stomp-websocket",
   "stream": "github:jspm/nodelibs-stream",
   "string_decoder": "github:jspm/nodelibs-string_decoder",
