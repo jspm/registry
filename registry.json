@@ -248,6 +248,7 @@
   "happy": "github:henrikjoreteg/Happy.js",
   "hbs": "github:davis/plugin-hbs",
   "headroom.js": "github:WickyNilliams/headroom.js",
+  "highcharts": "github:highcharts/highcharts",
   "highlightjs": "github:components/highlightjs",
   "hoek": "github:capaj/hoek-browser",
   "http": "github:jspm/nodelibs-http",
