@@ -311,7 +311,6 @@
   "klayjs": "github:OpenKieler/klayjs",
   "kl-watch-once": "github:kasperlewau/kl-watch-once",
   "knockout": "github:knockout/knockout",
-  "knockout-jqueryui": "github:gvas/knockout-jqueryui",
   "knockout-paging": "npm:knockout-paging",
   "knockout-pre-rendered": "npm:knockout-pre-rendered",
   "knockout-select2": "github:cruikshj/knockout-select2",
