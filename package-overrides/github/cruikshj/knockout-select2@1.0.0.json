@@ -1,0 +1,7 @@
+{
+    "main": "dist/knockout-select2",
+    "dependencies": {
+        "jquery": "npm:jquery@^2.2.0",
+        "knockout": "github:knockout/knockout@^3.3.0"
+    }
+}
