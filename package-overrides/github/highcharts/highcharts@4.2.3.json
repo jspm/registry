@@ -1,6 +1,3 @@
 {
-    "main": "highcharts.src",
-    "directories": {
-        "dist": "lib"
-    }
+    "main": "lib/highcharts.src"
 }
