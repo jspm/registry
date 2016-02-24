@@ -1,0 +1,17 @@
+{
+  "main": "js/bootstrap",
+  "registry": "jspm",
+  "shim": {
+    "js/bootstrap": {
+      "deps": [
+        "jquery",
+        "../css/bootstrap.css!"
+      ],
+      "exports": "$"
+    }
+  },
+  "dependencies": {
+    "jquery": "github:components/jquery",
+    "css": "github:systemjs/plugin-css"
+  }
+}
