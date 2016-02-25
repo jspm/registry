@@ -1,4 +1,4 @@
-"{
+{
   "registry": 'jspm', 
   "main": 'js/tag-it', 
   "shim": { 'js/tag-it': 
@@ -8,4 +8,4 @@
                  'jquery-ui':'github:components/jqueryui@1.11.4',
                  'css':'github:systemjs/plugin-css'}, 
   "format": 'global' 
-}"
+}
