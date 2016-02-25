@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "lib/svgo/config.js": {
+      "deps": [
+        "../../plugins/removeDoctype",
+        "../../plugins/removeXMLProcInst",
+        "../../plugins/removeComments",
+        "../../plugins/removeMetadata",
+        "../../plugins/removeEditorsNSData",
+        "../../plugins/cleanupAttrs",
+        "../../plugins/minifyStyles",
+        "../../plugins/convertStyleToAttrs",
+        "../../plugins/cleanupIDs",
+        "../../plugins/removeRasterImages",
+        "../../plugins/removeUselessDefs",
+        "../../plugins/cleanupNumericValues",
+        "../../plugins/cleanupListOfValues",
+        "../../plugins/convertColors",
+        "../../plugins/removeUnknownsAndDefaults",
+        "../../plugins/removeNonInheritableGroupAttrs",
+        "../../plugins/removeUselessStrokeAndFill",
+        "../../plugins/removeViewBox",
+        "../../plugins/cleanupEnableBackground",
+        "../../plugins/removeHiddenElems",
+        "../../plugins/removeEmptyText",
+        "../../plugins/convertShapeToPath",
+        "../../plugins/moveElemsAttrsToGroup",
+        "../../plugins/moveGroupAttrsToElems",
+        "../../plugins/collapseGroups",
+        "../../plugins/convertPathData",
+        "../../plugins/convertTransform",
+        "../../plugins/removeEmptyAttrs",
+        "../../plugins/removeEmptyContainers",
+        "../../plugins/mergePaths",
+        "../../plugins/removeUnusedNS",
+        "../../plugins/transformsWithOnePath",
+        "../../plugins/sortAttrs",
+        "../../plugins/removeTitle",
+        "../../plugins/removeDesc",
+        "../../plugins/removeDimensions",
+        "../../plugins/removeAttrs",
+        "../../plugins/addClassesToSVGElement",
+        "../../plugins/removeStyleElement"
+      ]
+    }
+  }
+}
