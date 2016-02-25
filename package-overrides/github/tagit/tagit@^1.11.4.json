@@ -4,8 +4,8 @@
   "shim": { "js/tag-it": 
   { "deps": ["jquery","jquery-ui","../css/jquery.tagit.css!"],
      "exports":"$" } }, 
-  "dependencies": { "jquery": "github:components/jquery",
-                 "jquery-ui":"github:components/jqueryui@1.11.4",
+  "dependencies": { "jquery": "*",
+                 "jquery-ui":"jspm:jqueryui@^1.8",
                  "css":"github:systemjs/plugin-css"}, 
   "format": "global" 
 }
