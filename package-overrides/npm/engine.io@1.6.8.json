@@ -1,5 +1,5 @@
 {
-  "dependencies":{
+  "dependencies": {
     "base64id": "0.1.0",
     "debug": "2.2.0",
     "ws": "1.0.1",
