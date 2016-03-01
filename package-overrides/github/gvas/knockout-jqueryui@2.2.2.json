@@ -1,0 +1,11 @@
+{
+    "main": false,
+    "dependencies": {
+        "jquery": "npm:jquery",
+        "jqueryui": "github:components/jqueryui",
+        "knockout": "github:knockout/knockout"
+    },
+    "map": {
+        "jquery-ui": "jqueryui/ui"
+    }
+}

@@ -1,0 +1,5 @@
+{
+  "map": {
+    "socket.io-client/package": "socket.io-client/package.json"
+  }
+}

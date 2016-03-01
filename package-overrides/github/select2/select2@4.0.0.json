@@ -1,0 +1,6 @@
+{
+    "main": "js/select2",
+    "dependencies": {
+        "jquery": "npm:jquery@^2.2.0"
+    }
+}

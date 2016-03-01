@@ -1,0 +1,8 @@
+{
+  "main": "./dist/material-design-icons.css!",
+  "format": "global",
+  "registry": "github",
+  "dependencies": {
+    "css": "github:systemjs/plugin-css"
+  }
+}

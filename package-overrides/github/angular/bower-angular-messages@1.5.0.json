@@ -1,0 +1,12 @@
+{
+  "main": "angular-messages",
+  "shim": {
+    "angular-messages": {
+      "deps": ["angular"]
+    }
+  },
+  "registry": "jspm",
+  "dependencies": {
+    "angular": "^1.5.0"
+  }
+}

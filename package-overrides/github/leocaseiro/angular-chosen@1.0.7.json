@@ -1,0 +1,15 @@
+{
+  "main": "chosen",
+  "dependencies": {
+    "angular": "^1.2.0",
+    "chosen": "^1.1.0"
+  },
+  "shim": {
+    "chosen": {
+      "deps": [
+        "angular",
+        "chosen"
+      ]
+    }
+  }
+}
