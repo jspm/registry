@@ -456,6 +456,7 @@
   "superagent": "npm:superagent",
   "svg.js":  "github:wout/svg.js",
   "systemjs-hot-reloader": "github:capaj/systemjs-hot-reloader",
+  "systemjs-hot-reloader-store": "github:peteruithoven/systemjs-hot-reloader-store",
   "t7": "npm:t7",
   "tabletools": "github:DataTables/TableTools",
   "tag":"npm:systemjs-riot",
