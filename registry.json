@@ -123,6 +123,7 @@
   "aurelia-flux": "github:tfrydrychewicz/aurelia-flux",
   "aurelia-framework": "npm:aurelia-framework",
   "aurelia-google-analytics": "github:miguelzakharia/aurelia-google-analytics",
+  "aurelia-google-maps": "npm:aurelia-google-maps",
   "aurelia-history": "npm:aurelia-history",
   "aurelia-history-browser": "npm:aurelia-history-browser",
   "aurelia-html-template-element": "github:aurelia/html-template-element",
