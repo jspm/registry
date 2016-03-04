@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "zone.js": "npm:zone.js@0.6.2",
+    "rxjs": "npm:rxjs@5.0.0-beta.2",
+    "reflect-metadata": "npm:reflect-metadata@0.1.3"
+  },
+  "ignore": [
+    "examples"
+  ],
+  "map":{
+    "crypto": "@empty"
+  },
+  "jspmNodeConversion": false
+}
