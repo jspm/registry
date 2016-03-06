@@ -305,6 +305,7 @@
   "js-deco": "github:gooy/js-deco",
   "js.edgar": "npm:js.edgar",
   "jsfromhell": "github:jonasraoni/JSFromHell",
+  "jsnlog": "npm:jsnlog",
   "jsol": "github:daepark/JSOL",
   "jsplumb": "github:sporritt/jsPlumb",
   "jssha": "github:Caligatio/jsSHA",
