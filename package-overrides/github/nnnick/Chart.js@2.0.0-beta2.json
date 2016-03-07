@@ -1,0 +1,12 @@
+{
+    "main": "Chart",
+    "files": ["Chart.js"],
+    "shim": {
+        "Chart.js": {
+             "deps": ["moment"]
+        }
+    },
+    "dependencies": {
+        "moment": "*"
+    }
+}
