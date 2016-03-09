@@ -135,6 +135,7 @@
   "aurelia-logging": "npm:aurelia-logging",
   "aurelia-logging-console": "npm:aurelia-logging-console",
   "aurelia-materialize-bridge": "github:aurelia-ui-toolkits/aurelia-materialize-bridge",
+  "aurelia-material-design-lite": "github:Gheoan/aurelia-material-design-lite",
   "aurelia-metadata": "npm:aurelia-metadata",
   "aurelia-modal": "github:vheissu/aurelia-modal",
   "aurelia-notification": "github:MarcScheib/aurelia-notification",
