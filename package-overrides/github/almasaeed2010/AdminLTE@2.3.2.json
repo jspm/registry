@@ -2,5 +2,10 @@
     "main": "dist/js/app.js",
     "dependencies": {
         "jquery": "^2.2.1"
+    },
+    "shim": {
+        "dist/js/app": {
+            "deps": ["jquery"]
+        }
     }
 }
