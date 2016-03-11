@@ -344,6 +344,7 @@
   "meld": "github:cujojs/meld",
   "messageformat": "npm:messageformat",
   "microplugin": "npm:microplugin",
+  "mindtouch-martian": "github:mindtouch/martian",
   "minivents": "github:allouis/minivents",
   "mithril": "npm:mithril",
   "mixing": "npm:mixing",
