@@ -9,7 +9,7 @@
     "dist/select": {
       "deps": [
         "angular",
-        "./dist/select.css!"
+        "./select.css!"
       ]
     }
   }
