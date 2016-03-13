@@ -201,6 +201,7 @@
   "core-js": "npm:core-js",
   "cram": "github:cujojs/cram",
   "crypto": "github:jspm/nodelibs-crypto",
+  "cryptojs": "github:sytelus/cryptojs",
   "css-element-queries": "github:marcj/css-element-queries",
   "curl": "github:cujojs/curl",
   "cytoscape":"github:cytoscape/cytoscape.js",
