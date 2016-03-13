@@ -1,3 +1,4 @@
 {
-  "main": "src/functify"
+  "main": "src/functify",
+  "jspmNodeConversion": false
 }
