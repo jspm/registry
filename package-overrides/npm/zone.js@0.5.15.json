@@ -1,3 +1,10 @@
 {
+  "main": "dist/zone.js",
+  "jspmNodeConversion":false,
+  "shim": {
+    "dist/zone": {
+      "exports": ["Zone", "zone"]
+    }
+  },
   "dependencies": {}
 }
