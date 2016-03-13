@@ -1,5 +1,6 @@
 {
   "main": "dist/zone.js",
+  "directories": {},
   "jspmNodeConversion":false,
   "shim": {
     "dist/zone": {
