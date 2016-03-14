@@ -11,7 +11,7 @@
   "jsx": "github:floatdrop/plugin-jsx",
   "less": "github:aaike/jspm-less-plugin",
   "md": "github:guybedford/system-md",
-  "node-binary": "npm:systemjs-node-binary",
+  "node-binary": "npm:systemjs-plugin-node-binary",
   "plugin-babel": "npm:systemjs-plugin-babel",
   "plugin-traceur": "npm:systemjs-plugin-traceur",
   "plugin-typescript": "github:frankwallis/plugin-typescript",
