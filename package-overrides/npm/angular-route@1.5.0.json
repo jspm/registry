@@ -1,0 +1,10 @@
+{
+  "main": "angular-route",
+  "shim": {
+    "angular-route": {
+      "deps": [
+        "angular"
+      ]
+    }
+  }
+}
