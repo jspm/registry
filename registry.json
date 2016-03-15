@@ -142,6 +142,7 @@
   "aurelia-notification": "github:MarcScheib/aurelia-notification",
   "aurelia-path": "npm:aurelia-path",
   "aurelia-polymer": "github:roguePanda/aurelia-polymer",
+  "aurelia-resize": "github:MeirionHughes/aurelia-resize",
   "aurelia-route-recognizer": "npm:aurelia-route-recognizer",
   "aurelia-router": "npm:aurelia-router",
   "aurelia-router-loader": "npm:aurelia-router-loader",
