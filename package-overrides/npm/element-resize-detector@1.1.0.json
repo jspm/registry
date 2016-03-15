@@ -1,0 +1,4 @@
+{
+  "main": "dist/element-resize-detector.min",
+  "format": "cjs"
+}
