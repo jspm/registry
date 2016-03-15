@@ -222,6 +222,7 @@
   "dropzone": "github:enyo/dropzone",
   "duratiform": "npm:duratiform",
   "elastic.js": "github:fullscale/elastic.js",
+  "element-resize-detector": "npm:element-resize-detector",
   "ember": "github:components/ember",
   "ember-data": "github:components/ember-data",
   "ember-wiz": "github:ricottatosta/ember-wiz",
