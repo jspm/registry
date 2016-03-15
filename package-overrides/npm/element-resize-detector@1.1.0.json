@@ -1,8 +1,0 @@
-{
-  "main": "dist/element-resize-detector",
-  "shim": {
-    "dist/element-resize-detector": {
-      "exports": "utils"
-    }
-  }
-}
