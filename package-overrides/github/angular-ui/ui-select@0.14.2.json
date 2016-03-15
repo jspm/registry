@@ -6,10 +6,10 @@
   "main": "dist/select",
   "registry": "jspm",
   "shim": {
-    "select": {
+    "dist/select": {
       "deps": [
         "angular",
-        "./dist/select.css!"
+        "./select.css!"
       ]
     }
   }

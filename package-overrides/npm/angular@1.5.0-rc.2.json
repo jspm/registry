@@ -2,8 +2,8 @@
   "format": "global",
   "jspmNodeConversion": false,
   "main": "angular",
-  "meta": {
-    "angular.js": {
+  "shim": {
+    "angular": {
       "exports": "angular"
     }
   }
