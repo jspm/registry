@@ -1,6 +1,5 @@
 {
   "main": "dist/element-resize-detector",
-  "format": "cjs",
   "shim": {
     "dist/element-resize-detector": {
       "exports": "utils"
