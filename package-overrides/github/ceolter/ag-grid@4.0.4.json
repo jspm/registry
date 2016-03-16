@@ -6,5 +6,7 @@
     }
   },
   "registry": "jspm",
-  "dependencies": {}
+  "dependencies": {
+      "css": "*"
+  }
 }
