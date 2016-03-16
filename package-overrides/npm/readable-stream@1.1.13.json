@@ -2,7 +2,9 @@
   "map": {
     "stream": "stream-browserify/index"
   },
-  "systemjs": {},
+  "systemjs": {
+    "main": "readable.js"
+  },
   "dependencies": {
     "core-util-is": "~1.0.0",
     "inherits": "~2.0.1",
