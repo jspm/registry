@@ -118,6 +118,7 @@
   "aurelia-configuration": "github:vheissu/aurelia-configuration",
   "aurelia-dependency-injection": "npm:aurelia-dependency-injection",
   "aurelia-dialog": "npm:aurelia-dialog",
+  "aurelia-ej-bridge": "github:syncfusion/aurelia-ej-bridge",
   "aurelia-event-aggregator": "npm:aurelia-event-aggregator",
   "aurelia-fetch-client": "npm:aurelia-fetch-client",
   "aurelia-firebase": "github:pulsarblow/aurelia-firebase",
