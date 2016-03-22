@@ -276,6 +276,7 @@
   "immutable": "npm:immutable",
   "infamous": "npm:infamous",
   "intro": "github:usablica/intro.js",
+  "ion-sound": "npm:ion-sound",
   "ionic": "github:driftyco/ionic-bower",
   "ionic2": "npm:ionic-framework",
   "jcrop": "github:tapmodo/Jcrop",
