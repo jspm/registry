@@ -1,0 +1,13 @@
+{
+  "main": "dist/cropper",
+  "registry": "jspm",
+  "shim": {
+    "dist/cropper": [
+      "./cropper.css!"
+    ]
+  },
+  "files": [
+    "dist/cropper.js",
+    "dist/cropper.css"
+  ]
+}
