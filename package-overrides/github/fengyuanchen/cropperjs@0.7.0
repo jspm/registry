@@ -1,6 +1,9 @@
 {
   "main": "dist/cropper",
   "registry": "jspm",
+  "dependencies": {
+    "css": "*"
+  },
   "shim": {
     "dist/cropper": [
       "./cropper.css!"
