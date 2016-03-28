@@ -146,7 +146,7 @@
   "aurelia-material-design-lite": "github:Gheoan/aurelia-material-design-lite",
   "aurelia-metadata": "npm:aurelia-metadata",
   "aurelia-modal": "github:vheissu/aurelia-modal",
-  "aurelia-notification": "github:MarcScheib/aurelia-notification",
+  "aurelia-notify": "github:MarcScheib/aurelia-notify",
   "aurelia-path": "npm:aurelia-path",
   "aurelia-polymer": "github:roguePanda/aurelia-polymer",
   "aurelia-resize": "github:MeirionHughes/aurelia-resize",
