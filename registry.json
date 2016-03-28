@@ -177,7 +177,7 @@
   "bacon-matchers": "npm:bacon.matchers",
   "bacon-model": "npm:bacon.model",
   "basespace": "npm:basespace",
-  "belmgr-plugins": "npm:belmgr-plugins",
+  "belmgr-plugin": "npm:belmgr-plugin",
   "benchmark": "npm:benchmark",
   "big.js": "npm:big.js",
   "bignumber.js": "npm:bignumber.js",
