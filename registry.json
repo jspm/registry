@@ -262,6 +262,7 @@
   "handlebars.js": "github:components/handlebars.js",
   "handlebars-group-by": "npm:handlebars-group-by",
   "handlebars-layouts": "npm:handlebars-layouts",
+  "handsontable": "github:handsontable/handsontable",
   "happy": "github:henrikjoreteg/Happy.js",
   "hbs": "github:davis/plugin-hbs",
   "headroom.js": "github:WickyNilliams/headroom.js",
