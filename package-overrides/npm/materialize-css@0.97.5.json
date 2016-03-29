@@ -1,11 +1,5 @@
 {
   "format": "global",
-  "files": [
-    "dist/js/materialize.js",
-    "dist/css/materialize.css",
-    "dist/font/**/*",
-    "extras/noUiSlider/*"
-  ],
   "main": "dist/js/materialize",
   "dependencies": {
     "jquery": "github:components/jquery",
