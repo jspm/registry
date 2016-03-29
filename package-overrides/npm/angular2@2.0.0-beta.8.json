@@ -11,6 +11,9 @@
     "zone.js": "npm:zone.js@^0.5.15"
   },
   "jspmNodeConversion": false,
+  "map": {
+    "crypto": "@empty"
+  },
   "meta": {
     "src/*.js": {
       "deps": ["reflect-metadata", "zone.js"]
