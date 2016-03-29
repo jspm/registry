@@ -1,7 +1,7 @@
 {
   "main": "dist/handsontable.full",
   "dependencies": {
-    "css": "0.1.0"
+    "css": "*"
   },
   "shim": {
     "dist/handsontable.full": {
