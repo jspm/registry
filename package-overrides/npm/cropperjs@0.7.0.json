@@ -1,16 +1,12 @@
 {
   "main": "dist/cropper",
-  "registry": "jspm",
+  "jspmNodeConversion": false,
   "dependencies": {
-    "css": "*"
+    "css": "npm:system-css"
   },
   "shim": {
     "dist/cropper": [
       "./cropper.css!"
     ]
-  },
-  "files": [
-    "dist/cropper.js",
-    "dist/cropper.css"
-  ]
+  }
 }
