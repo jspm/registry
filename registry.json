@@ -108,7 +108,7 @@
   "aurelia-async": "npm:aurelia-async",
   "aurelia-animator-css": "npm:aurelia-animator-css",
   "aurelia-animator-velocity": "npm:aurelia-animator-velocity",
-  "aurelia-auth":"github:paulvanbladel/aurelia-auth",
+  "aurelia-auth":"npm:aurelia-auth",
   "aurelia-authentication":"npm:aurelia-authentication",
   "aurelia-api":"npm:aurelia-api",
   "aurelia-orm":"npm:aurelia-orm",
