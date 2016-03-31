@@ -122,6 +122,7 @@
   "aurelia-configuration": "github:vheissu/aurelia-configuration",
   "aurelia-dependency-injection": "npm:aurelia-dependency-injection",
   "aurelia-dialog": "npm:aurelia-dialog",
+  "aurelia-dragula": "npm:aurelia-dragula",
   "aurelia-ej-bridge": "github:syncfusion/aurelia-ej-bridge",
   "aurelia-environment": "github:MarcScheib/aurelia-environment",
   "aurelia-event-aggregator": "npm:aurelia-event-aggregator",
