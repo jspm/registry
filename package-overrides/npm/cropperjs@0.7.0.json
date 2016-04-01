@@ -1,0 +1,12 @@
+{
+  "main": "dist/cropper",
+  "jspmNodeConversion": false,
+  "dependencies": {
+    "css": "npm:system-css"
+  },
+  "shim": {
+    "dist/cropper": [
+      "./cropper.css!"
+    ]
+  }
+}
