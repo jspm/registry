@@ -406,6 +406,7 @@
   "os": "github:jspm/nodelibs-os",
   "p5": "github:processing/p5.js",
   "page": "npm:page",
+  "pako": "github:nodeca/pako",
   "parallax": "github:wagerfield/parallax",
   "path": "github:jspm/nodelibs-path",
   "paths-js": "npm:paths-js",
