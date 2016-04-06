@@ -1,0 +1,15 @@
+{
+  "format": "global",
+  "jspmNodeConversion": false,
+  "main": "angular-messages",
+  "dependencies": {
+    "angular": "npm:angular@^1.5.0"
+  },
+  "shim": {
+    "angular-messages": {
+      "deps": [
+        "angular"
+      ]
+    }
+  }
+}
