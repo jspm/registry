@@ -4,6 +4,7 @@
   "css": "github:systemjs/plugin-css",
   "ember-hbs": "github:n-fuse/plugin-ember-hbs",
   "font": "github:guybedford/system-font",
+  "i18nt": "github:robhicks/plugin-i18nt",
   "image": "github:systemjs/plugin-image",
   "jade": "github:johnsoftek/plugin-jade",
   "json": "github:systemjs/plugin-json",
