@@ -360,6 +360,7 @@
   "masonry": "github:desandro/masonry",
   "material-design-lite": "github:google/material-design-lite",
   "material-design-icons": "github:google/material-design-icons",
+  "material-ui": "npm:material-ui",
   "materialize": "npm:materialize",
   "mbe-nodes": "github:OptimalBPM/mbe-nodes",
   "meld": "github:cujojs/meld",
