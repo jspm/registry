@@ -341,6 +341,7 @@
   "knockout-paging": "npm:knockout-paging",
   "knockout-pre-rendered": "npm:knockout-pre-rendered",
   "knockout-select2": "github:cruikshj/knockout-select2",
+  "knockout-sortable": "github:rniemeyer/knockout-sortable",
   "knockout-validation": "github:Knockout-Contrib/Knockout-Validation",
   "lazy":"npm:lazy.js",
   "leaflet": "github:Leaflet/Leaflet",
