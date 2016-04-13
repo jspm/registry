@@ -1,0 +1,9 @@
+{
+  "main": "snap.js",
+  "dependencies": {
+    "css": "github:systemjs/plugin-css@^0.1.20"
+  },
+  "shim": {
+    "snap": ["./snap.css!"]
+  }
+}
