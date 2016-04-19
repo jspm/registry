@@ -5,7 +5,7 @@
     "jquery": "github:components/jquery",
     "bootstrap": "github:twbs/bootstrap",
     "css": "github:systemjs/plugin-css",
-    "canvas-to-blob":"npm:canvas-to-blob"
+    "blueimp-canvas-to-blob":"npm:blueimp-canvas-to-blob"
   },
   "files": [
     "js/fileinput.js",
@@ -18,7 +18,7 @@
   "registry": "jspm",
   "shim": {
     "js/fileinput": {
-      "deps": ["jquery", "bootstrap", "canvas-to-blob", "../css/fileinput.css!"],
+      "deps": ["jquery", "bootstrap", "blueimp-canvas-to-blob", "../css/fileinput.css!"],
       "exports": "$"
     }
   }
