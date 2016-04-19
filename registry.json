@@ -19,6 +19,7 @@
   "raw": "github:matthewbauer/plugin-raw",
   "sass": "github:mobilexag/plugin-sass",
   "scss": "github:KevCJones/plugin-scss",
+  "svg": "github:npbenjohnson/plugin-svg",
   "text": "github:systemjs/plugin-text",
   "ts": "github:frankwallis/plugin-typescript",
   "tsv": "github:wpf500/plugin-tsv",
