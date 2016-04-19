@@ -1,7 +1,6 @@
 {
   "main": "js/materialize",
   "format": "global",
-  "registry": "github",
   "shim": {
     "js/materialize": {
       "deps": [
