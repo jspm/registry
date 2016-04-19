@@ -2,9 +2,9 @@
   "main": "js/fileinput",
   "format": "global",
   "dependencies": {
-    "jquery": "github:components/jquery",
+    "jquery": "*",
     "bootstrap": "github:twbs/bootstrap",
-    "css": "github:systemjs/plugin-css",
+    "css": "*",
     "blueimp-canvas-to-blob":"npm:blueimp-canvas-to-blob"
   },
   "files": [
