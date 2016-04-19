@@ -141,6 +141,7 @@
   "aurelia-http-client": "npm:aurelia-http-client",
   "aurelia-i18n": "npm:aurelia-i18n",
   "aurelia-kendoui-bridge": "npm:aurelia-kendoui-bridge",
+  "aurelia-keyboard-plugin": "github:novatrox/aurelia-keyboard-plugin",
   "aurelia-loader": "npm:aurelia-loader",
   "aurelia-loader-default": "npm:aurelia-loader-default",
   "aurelia-logging": "npm:aurelia-logging",
