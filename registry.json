@@ -168,6 +168,7 @@
   "aurelia-templating-router": "npm:aurelia-templating-router",
   "aurelia-ui-virtualization": "npm:aurelia-ui-virtualization",
   "aurelia-validation": "npm:aurelia-validation",
+  "aurelia-validatejs": "npm:aurelia-validatejs",
   "aurelia-html-import-template-loader": "npm:aurelia-html-import-template-loader",
   "aurelia-bootstrap-switch": "github:drdwilcox/aurelia-bootstrap-switch",
   "aurelia-ui-framework":"github:adarshpastakia/aurelia-ui-framework",
