@@ -7,7 +7,7 @@
     }
   },
   "dependencies": {
-    "jquery": "*"
+    "jquery": "github:components/jquery"
   },
   "files": ["dist", "fonts", "js", "css", "less", "grunt", "LICENSE"],
   "systemjs": {
