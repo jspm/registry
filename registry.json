@@ -121,6 +121,7 @@
   "aurelia-cmdrjs": "github:cmdrjs/aurelia-cmdrjs",
   "aurelia-computed": "npm:aurelia-computed",
   "aurelia-configuration": "github:vheissu/aurelia-configuration",
+  "aurelia-date-observer": "github:sormy/aurelia-date-observer",
   "aurelia-dependency-injection": "npm:aurelia-dependency-injection",
   "aurelia-dialog": "npm:aurelia-dialog",
   "aurelia-dragula": "npm:aurelia-dragula",
