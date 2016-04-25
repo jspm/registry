@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "reflect-metadata": "npm:reflect-metadata@^0.1.3"
+	},
+	"jspmNodeConversion": false,
+	"main": false,
+  "map": {
+    "crypto": "@empty"
+  },
+  "meta": {
+    "*.js": {
+      "deps": ["reflect-metadata"]
+    }
+  }
+}
