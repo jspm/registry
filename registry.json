@@ -410,6 +410,7 @@
   "numeral": "npm:numeral",
   "numgen": "npm:numgen",
   "nunjucks": "github:mozilla/nunjucks",
+  "nvd3": "npm:nvd3",
   "observe-js": "github:Polymer/observe-js",
   "oidc-client": "github:IdentityModel/oidc-client",
   "omniscient": "npm:omniscient",
