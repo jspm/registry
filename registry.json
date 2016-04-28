@@ -236,6 +236,7 @@
   "dimple": "github:PMSI-AlignAlytics/dimple",
   "dns": "github:jspm/nodelibs-dns",
   "domain": "github:jspm/nodelibs-domain",
+  "domali": "npm:domali",
   "dragula": "npm:dragula",
   "dropzone": "github:enyo/dropzone",
   "duratiform": "npm:duratiform",
