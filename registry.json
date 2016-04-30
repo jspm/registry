@@ -509,6 +509,7 @@
   "theseus": "npm:theseus",
   "theseus-angular": "npm:theseus-angular",
   "toastr": "github:CodeSeven/toastr",
+  "toolbarjs": "npm:toolbarjs",
   "topo": "github:capaj/topo-browser",
   "timers": "github:jspm/nodelibs-timers",
   "tinycolor": "github:bgrins/TinyColor",
