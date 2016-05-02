@@ -87,7 +87,7 @@
   "angular-tree-control": "github:wix/angular-tree-control",
   "angular-ui-grid": "github:angular-ui/bower-ui-grid",
   "angular-ui-layout": "github:angular-ui/ui-layout",
-  "angular-ui-router": "npm:angular-ui-router",
+  "angular-ui-router": "github:angular-ui/angular-ui-router-bower",
   "angular-ui-router-extras": "npm:ui-router-extras",
   "angular-ui-select": "github:angular-ui/ui-select",
   "angular-ui-select2": "github:angular-ui/ui-select2",
