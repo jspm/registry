@@ -527,6 +527,7 @@
   "typeahead": "github:twitter/typeahead.js",
   "ua-parser-js": "npm:ua-parser-js",
   "ui-router-core": "npm:ui-router-core",
+  "ui-router-extras": "npm:ui-router-extras",
   "ui-router-ng2": "npm:ui-router-ng2",
   "ui-router-visualizer": "npm:ui-router-visualizer",
   "uikit": "github:uikit/uikit",
