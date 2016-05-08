@@ -153,6 +153,7 @@
   "aurelia-material-design-lite": "github:Gheoan/aurelia-material-design-lite",
   "aurelia-metadata": "npm:aurelia-metadata",
   "aurelia-modal": "github:vheissu/aurelia-modal",
+  "aurelia-mousetrap": "npm:aurelia-mousetrap",
   "aurelia-notify": "github:MarcScheib/aurelia-notify",
   "aurelia-path": "npm:aurelia-path",
   "aurelia-polymer": "github:roguePanda/aurelia-polymer",
