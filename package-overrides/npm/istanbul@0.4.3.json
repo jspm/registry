@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "lib/util/factory.js": {
+      "deps": [
+        "../store/fslookup.js",
+        "../store/memory.js",
+        "../store/tmp.js",
+        "../report/clover.js",
+        "../report/cobertura.js",
+        "../report/html.js"
+      ],
+      "cjsDeferDepsExecute": true
+    }
+  }
+}
