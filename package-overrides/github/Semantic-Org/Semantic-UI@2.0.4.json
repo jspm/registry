@@ -12,8 +12,9 @@
       "exports": "$"
     }
   },
+  "registry": "jspm",
   "dependencies": {
-    "jquery": "github:components/jquery",
-    "css": "github:systemjs/plugin-css"
+    "jquery": "*",
+    "css": "*"
   }
 }
