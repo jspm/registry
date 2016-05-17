@@ -1,0 +1,9 @@
+{
+  "jspmNodeConversion": false,
+  "map": {
+    "crypto": {
+      "node": "@node/crypto",
+      "default": "@empty"
+    }
+  }
+}

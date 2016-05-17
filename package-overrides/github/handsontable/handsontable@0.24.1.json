@@ -1,0 +1,14 @@
+{
+  "main": "dist/handsontable.full",
+  "dependencies": {
+    "css": "*"
+  },
+  "shim": {
+    "dist/handsontable.full": {
+      "exports": "Handsontable",
+      "deps": [
+        "handsontable/handsontable/dist/handsontable.full.css!"
+      ]
+    }
+  }
+}

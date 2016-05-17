@@ -1,0 +1,221 @@
+{
+  "main": "core.js",
+  "format": "global",
+  "directories": {
+    "lib": "components"
+  },
+  "shim": {
+    "aes": {
+      "deps": [
+        "cryptojs/enc-base64.js",
+        "cryptojs/md5.js",
+        "cryptojs/evpkdf.js",
+        "cryptojs/cipher-core.js"
+      ],
+      "exports": "CryptoJS.lib.BlockCipher.AES"
+    },
+    "cipher-core": {
+      "deps": [
+        "cryptojs/core.js"
+      ],
+      "exports": "CryptoJS"
+    },
+    "core": {
+      "exports": "CryptoJS"
+    },
+    "enc-base64": {
+      "deps": [
+        "cryptojs/core.js"
+      ],
+      "exports": "CryptoJS.enc.Base64"
+    },
+    "enc-utf16": {
+      "deps": [
+        "cryptojs/core.js"
+      ],
+      "exports": "CryptoJS.enc.Utf16LE"
+    },
+    "evpkdf": {
+      "deps": [
+        "cryptojs/core.js"
+      ],
+      "exports": "CryptoJS.algo.EvpKDF"
+    },
+    "format-hex": {
+      "deps": [
+        "cryptojs/core.js"
+      ],
+      "exports": "CryptoJS.format.Hex"
+    },
+    "hmac": {
+      "deps": [
+        "cryptojs/core.js"
+      ],
+      "exports": "CryptoJS.algo.HMAC"
+    },
+    "lib-typedarrays": {
+      "deps": [
+        "cryptojs/core.js"
+      ],
+      "exports": "CryptoJS.lib.WordArray"
+    },
+    "md5": {
+      "deps": [
+        "cryptojs/core.js"
+      ],
+      "exports": "CryptoJS.MD5"
+    },
+    "mode-cfb": {
+      "deps": [
+        "cryptojs/core.js"
+      ],
+      "exports": "CryptoJS.mode.CFB"
+    },
+    "mode-ctr": {
+      "deps": [
+        "cryptojs/core.js"
+      ],
+      "exports": "CryptoJS.mode.CTR"
+    },
+    "mode-ctr-gladman": {
+      "deps": [
+        "cryptojs/core.js"
+      ],
+      "exports": "CryptoJS.mode.CTRGladman"
+    },
+    "mode-ecb": {
+      "deps": [
+        "cryptojs/core.js"
+      ],
+      "exports": "CryptoJS.mode.ECB"
+    },
+    "mode-ofb": {
+      "deps": [
+        "cryptojs/core.js"
+      ],
+      "exports": "CryptoJS.mode.OFB"
+    },
+    "pad-ansix923": {
+      "deps": [
+        "cryptojs/core.js"
+      ],
+      "exports": "CryptoJS.pad.AnsiX923"
+    },
+    "pad-iso10126": {
+      "deps": [
+        "cryptojs/core.js"
+      ],
+      "exports": "CryptoJS.pad.Iso10126"
+    },
+    "pad-iso97971": {
+      "deps": [
+        "cryptojs/core.js"
+      ],
+      "exports": "CryptoJS.pad.Iso97971"
+    },
+    "pad-nopadding": {
+      "deps": [
+        "cryptojs/core.js"
+      ],
+      "exports": "CryptoJS.pad.NoPadding"
+    },
+    "pad-zeropadding": {
+      "deps": [
+        "cryptojs/core.js"
+      ],
+      "exports": "CryptoJS.pad.ZeroPadding"
+    },
+    "pbkdf2": {
+      "deps": [
+        "cryptojs/sha1.js",
+        "cryptojs/hmac.js"
+      ],
+      "exports": "CryptoJS.PBKDF2"
+    },
+    "rabbit": {
+      "deps": [
+        "cryptojs/enc-base64.js",
+        "cryptojs/md5.js",
+        "cryptojs/evpkdf.js",
+        "cryptojs/cipher-core.js"
+      ],
+      "exports": "CryptoJS.Rabbit"
+    },
+    "rabbit-legacy": {
+      "deps": [
+        "cryptojs/enc-base64.js",
+        "cryptojs/md5.js",
+        "cryptojs/evpkdf.js",
+        "cryptojs/cipher-core.js"
+      ],
+      "exports": "CryptoJS.RabbitLegacy"
+    },
+    "rc4": {
+      "deps": [
+        "cryptojs/enc-base64.js",
+        "cryptojs/md5.js",
+        "cryptojs/evpkdf.js",
+        "cryptojs/cipher-core.js"
+      ],
+      "exports": "CryptoJS.lib.StreamCipher.RC4"
+    },
+    "RIPEMD160": {
+      "deps": [
+        "cryptojs/core.js"
+      ],
+      "exports": "CryptoJS.RIPEMD160"
+    },
+    "sha1": {
+      "deps": [
+        "cryptojs/core.js"
+      ],
+      "exports": "CryptoJS.SHA1"
+    },
+    "sha224": {
+      "deps": [
+        "cryptojs/sha256.js"
+      ],
+      "exports": "CryptoJS.SHA224"
+    },
+    "sha256": {
+      "deps": [
+        "cryptojs/core.js"
+      ],
+      "exports": "CryptoJS.SHA256"
+    },
+    "sha3": {
+      "deps": [
+        "cryptojs/x64-core.js"
+      ],
+      "exports": "CryptoJS.SHA3"
+    },
+    "sha384": {
+      "deps": [
+        "cryptojs/x64-core.js",
+        "cryptojs/sha512.js"
+      ],
+      "exports": "CryptoJS.SHA384"
+    },
+    "sha512": {
+      "deps": [
+        "cryptojs/x64-core.js"
+      ],
+      "exports": "CryptoJS.SHA512"
+    },
+    "tripledes": {
+      "deps": [
+        "cryptojs/enc-base64.js",
+        "cryptojs/md5.js",
+        "cryptojs/evpkdf.js",
+        "cryptojs/cipher-core.js"
+      ],
+      "exports": "CryptoJS.lib.BlockCipher.TripleDES"
+    },
+    "x64-core": {
+      "deps": [
+        "cryptojs/core.js"
+      ],
+      "exports": "CryptoJS"
+    }
+  }
+}

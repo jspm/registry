@@ -1,0 +1,13 @@
+{
+  "main": "toaster",
+  "dependencies": {
+    "css": "jspm:css@*"
+  },
+  "shim": {
+    "toaster": {
+      "deps": [
+        "./toaster.css!"
+      ]
+    }
+  }
+}

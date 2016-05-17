@@ -1,0 +1,11 @@
+{
+  "registry": "jspm", 
+  "main": "js/tag-it", 
+  "shim": { "js/tag-it": 
+  { "deps": ["jquery","jquery-ui","../css/jquery.tagit.css!"],
+     "exports":"$" } }, 
+  "dependencies": { "jquery": "*",
+                 "jquery-ui":"jspm:jqueryui@^1.8",
+                 "css":"github:systemjs/plugin-css"}, 
+  "format": "global" 
+}

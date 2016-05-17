@@ -7,6 +7,14 @@
   "shim": {
     "ace": {
       "exports": "ace"
+    },
+    "*": {
+      "deps": [
+        "ace/ace"
+      ]
     }
+  },
+  "map": {
+    "ace": "."
   }
 }

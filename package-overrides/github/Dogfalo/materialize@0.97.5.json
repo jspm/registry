@@ -1,0 +1,16 @@
+{
+  "main": "js/materialize",
+  "format": "global",
+  "shim": {
+    "js/materialize": {
+      "deps": [
+        "jquery",
+        "../css/materialize.css!"
+      ]
+    }
+  },
+  "dependencies": {
+    "jquery": "*",
+    "css": "*"
+  }
+}

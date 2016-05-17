@@ -1,0 +1,18 @@
+{
+  "format": "global",
+  "main": "dist/js/materialize",
+  "dependencies": {
+    "jquery": "github:components/jquery",
+    "css": "github:systemjs/plugin-css"
+  },
+  "shim": {
+    "dist/js/materialize": {
+      "deps": [
+        "jquery",
+        "../css/materialize.css!"
+      ],
+      "exports": "$"
+    }
+  },
+  "jspmNodeConversion": false
+}

@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "css": "*"
+  },
+  "main": "build/pure-min.css!",
+  "registry": "jspm"
+}

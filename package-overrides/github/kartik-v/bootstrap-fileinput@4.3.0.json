@@ -1,0 +1,25 @@
+{
+  "main": "js/fileinput",
+  "format": "global",
+  "dependencies": {
+    "jquery": "*",
+    "bootstrap": "github:twbs/bootstrap",
+    "css": "*",
+    "blueimp-canvas-to-blob":"npm:blueimp-canvas-to-blob"
+  },
+  "files": [
+    "js/fileinput.js",
+    "js/fileinput.min.js",
+    "css/fileinput.css",
+    "css/fileinput.min.css",
+    "img/loading.gif",
+    "img/loading-sm.gif"
+  ],
+  "registry": "jspm",
+  "shim": {
+    "js/fileinput": {
+      "deps": ["jquery", "bootstrap", "blueimp-canvas-to-blob", "../css/fileinput.css!"],
+      "exports": "$"
+    }
+  }
+}

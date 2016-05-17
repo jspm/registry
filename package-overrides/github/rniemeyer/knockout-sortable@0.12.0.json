@@ -1,0 +1,16 @@
+{
+    "files": [
+        "build/knockout-sortable.js",
+        "build/knockout-sortable.min.js"
+    ],
+    "main": "build/knockout-sortable.js",
+    "dependencies": {
+        "jquery": "github:components/jquery@^2.1.4",
+        "jquery-ui": "github:components/jqueryui@^1.11.4",
+        "knockout": "github:knockout/knockout@^3.3.0"
+    },
+    "map": {
+        "jquery-ui/draggable": "jquery-ui/ui/draggable",
+        "jquery-ui/sortable": "jquery-ui/ui/sortable"
+    }
+}

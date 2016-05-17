@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "css": "*",
+    "angular": "^1.3"
+  },
+  "main": "dist/select",
+  "registry": "jspm",
+  "shim": {
+    "dist/select": {
+      "deps": [
+        "angular",
+        "./select.css!"
+      ]
+    }
+  }
+}

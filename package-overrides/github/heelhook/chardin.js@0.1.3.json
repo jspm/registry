@@ -1,0 +1,15 @@
+{
+  "registry": "jspm",
+  "main": "chardinjs",
+  "format": "global",
+  "shim": {
+    "chardinjs": [
+      "jquery",
+      "./chardinjs.css!"
+    ]
+  },
+  "dependencies": {
+    "jquery": "github:components/jquery",
+    "css": "github:systemjs/plugin-css"
+  }
+}
