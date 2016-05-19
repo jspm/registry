@@ -166,6 +166,7 @@
   "aurelia-router-loader": "npm:aurelia-router-loader",
   "aurelia-stats": "github:sormy/aurelia-stats",
   "aurelia-swagger-client":"github:paulvanbladel/aurelia-swagger-client",
+  "aurelia-syntax-highlighter": "npm:aurelia-syntax-highlighter",
   "aurelia-tabs": "github:vheissu/aurelia-tabs",
   "aurelia-task-queue": "npm:aurelia-task-queue",
   "aurelia-templating": "npm:aurelia-templating",
