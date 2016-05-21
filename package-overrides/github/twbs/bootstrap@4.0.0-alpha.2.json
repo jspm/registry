@@ -1,12 +1,9 @@
 {
-  "main": "js/bootstrap",
+  "main": "dist/js/bootstrap",
   "files": null,
   "ignore": [
     "dist/js/npm"
   ],
-  "directories": {
-    "lib": "dist"
-  },
   "shim": {
     "js/bootstrap": {
       "deps": [
