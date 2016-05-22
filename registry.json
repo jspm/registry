@@ -221,6 +221,7 @@
   "constants": "github:jspm/nodelibs-constants",
   "core-js": "npm:core-js",
   "cram": "github:cujojs/cram",
+  "create-node": "npm:create-node",
   "cropperjs": "npm:cropperjs",
   "crypto": "github:jspm/nodelibs-crypto",
   "cryptojs": "github:sytelus/cryptojs",
