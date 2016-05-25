@@ -1,0 +1,8 @@
+{
+    "main": "dist/protobuf",
+    "dependencies": {
+        "bytebuffer": "github:dcodeIO/bytebuffer.js@^5.0.1",
+        "fs": "github:jspm/nodelibs-fs@^0.1.2",
+        "path": "github:jspm/nodelibs-path@^0.1.0"
+    }
+}
