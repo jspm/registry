@@ -1,0 +1,6 @@
+{
+    "main": "dist/bytebuffer",
+    "dependencies": {
+        "long": "github:dcodeIO/long.js@^3.1.0"
+    }
+}
