@@ -173,6 +173,7 @@
   "aurelia-templating-binding": "npm:aurelia-templating-binding",
   "aurelia-templating-resources": "npm:aurelia-templating-resources",
   "aurelia-templating-router": "npm:aurelia-templating-router",
+  "aurelia-testing": "npm:aurelia-testing",
   "aurelia-ui-framework": "github:adarshpastakia/aurelia-ui-framework",
   "aurelia-ui-virtualization": "npm:aurelia-ui-virtualization",
   "aurelia-validatejs": "npm:aurelia-validatejs",
