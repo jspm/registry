@@ -1,3 +1,14 @@
+
 {
-  "browserifyCore": false
+  "main": "browser.js",
+  "format": "cjs",
+  "map": {
+    "./browser.js": {
+      "node": "./node.js"
+    },
+    "fs": "@node/fs",
+    "net": "@node/net",
+    "tty": "@node/tty",
+    "util": "@node/util"
+  }
 }
