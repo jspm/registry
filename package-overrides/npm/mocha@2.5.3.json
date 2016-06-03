@@ -28,6 +28,11 @@
     "mkdirp": "@empty",
     "jade": "@empty",
     "diff": "@empty",
-    "supports-color": "@empty"
+    "supports-color": "@empty",
+    "path": "@node/path",
+    "fs": "@node/fs",
+    "util": "@node/util",
+    "events": "@node/events",
+    "tty": "@node/tty"
   }
 }
