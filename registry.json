@@ -234,7 +234,7 @@
   "d3-legend": "github:susielu/d3-legend",
   "c3": "npm:c3",
   "datatables": "github:DataTables/DataTables",
-  "debug": "github:visionmedia/debug",
+  "debug": "npm:debug",
   "decimal.js": "github:MikeMcl/decimal.js",
   "dgram": "github:jspm/nodelibs-dgram",
   "di": "github:angular/di.js",
