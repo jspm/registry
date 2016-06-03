@@ -30,7 +30,8 @@ var ALLOWED_PROPERTIES = [
 	'browser',
 	'modules',
 	'systemjs',
-	'defaultExtension'
+	'defaultExtension',
+	'browserifyCore'
 ];
 
 /**
