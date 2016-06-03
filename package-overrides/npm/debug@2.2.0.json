@@ -1,6 +1,7 @@
 
 {
   "main": "browser.js",
+  "jspmNodeConversion": false,
   "format": "cjs",
   "map": {
     "./browser.js": {
