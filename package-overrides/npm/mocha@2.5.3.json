@@ -10,6 +10,14 @@
       "format": "global"
     }
   },
+  "shim": {
+    "mocha": {
+      "exports": "mocha",
+      "deps": [
+        "./mocha.css!"
+      ]
+    }
+  }
   "dependencies": {
     "css": "*",
     "debug": "^2.2.0"
