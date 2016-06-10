@@ -17,7 +17,7 @@
         "./mocha.css!"
       ]
     }
-  }
+  },
   "dependencies": {
     "css": "*",
     "debug": "^2.2.0"
