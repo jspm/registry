@@ -4,6 +4,9 @@
   "ignore": [
     "dist/js/npm"
   ],
+  "directories": {
+    "lib": "."
+  },
   "shim": {
     "js/bootstrap": {
       "deps": [
