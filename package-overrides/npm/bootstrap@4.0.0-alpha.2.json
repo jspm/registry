@@ -1,6 +1,13 @@
 {
   "main": "dist/js/bootstrap",
-  "files": null,
+  "files": [
+    "dist",
+    "grunt",
+    "js/*.js",
+    "scss/**/*.scss",
+    "Gruntfile.js",
+    "LICENSE"
+  ],
   "ignore": [
     "dist/js/npm"
   ],
