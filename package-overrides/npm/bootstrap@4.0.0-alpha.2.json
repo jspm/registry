@@ -1,0 +1,30 @@
+{
+  "main": "dist/js/bootstrap",
+  "files": [
+    "dist",
+    "grunt",
+    "js/*.js",
+    "scss/**/*.scss",
+    "Gruntfile.js",
+    "LICENSE"
+  ],
+  "ignore": [
+    "dist/js/npm"
+  ],
+  "directories": {
+    "lib": "."
+  },
+  "shim": {
+    "dist/js/bootstrap": {
+      "deps": [
+        "jquery",
+        "tether"
+      ],
+      "exports": "$"
+    }
+  },
+  "dependencies": {
+    "jquery": "*",
+    "tether": "github:HubSpot/tether@^1.1.1"
+  }
+}
