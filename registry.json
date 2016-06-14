@@ -138,6 +138,7 @@
   "aurelia-html-import-template-loader": "npm:aurelia-html-import-template-loader",
   "aurelia-html-template-element": "github:aurelia/html-template-element",
   "aurelia-http-client": "npm:aurelia-http-client",
+  "aurelia-http-utils": "npm:aurelia-http-utils",
   "aurelia-i18n": "npm:aurelia-i18n",
   "aurelia-kendoui-bridge": "npm:aurelia-kendoui-bridge",
   "aurelia-keyboard-plugin": "github:novatrox/aurelia-keyboard-plugin",
