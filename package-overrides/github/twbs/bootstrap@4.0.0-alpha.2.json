@@ -1,14 +1,14 @@
 {
-  "main": "js/bootstrap",
+  "main": "dist/js/bootstrap",
   "files": null,
   "ignore": [
     "dist/js/npm"
   ],
   "directories": {
-    "lib": "dist"
+    "lib": "."
   },
   "shim": {
-    "js/bootstrap": {
+    "dist/js/bootstrap": {
       "deps": [
         "jquery",
         "tether"
@@ -17,7 +17,7 @@
     }
   },
   "dependencies": {
-    "jquery": "*",
+    "jquery": "npm:jquery@^2.2.4",
     "tether": "github:HubSpot/tether@^1.1.1"
   }
 }
