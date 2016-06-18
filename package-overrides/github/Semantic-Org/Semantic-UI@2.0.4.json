@@ -14,7 +14,7 @@
   },
   "registry": "jspm",
   "dependencies": {
-    "jquery": "*",
+    "jquery": "^2.1.4",
     "css": "*"
   }
 }
