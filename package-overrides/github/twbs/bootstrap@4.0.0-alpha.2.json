@@ -17,7 +17,7 @@
     }
   },
   "dependencies": {
-    "jquery": "*",
+    "jquery": "2",
     "tether": "github:HubSpot/tether@^1.1.1"
   }
 }
