@@ -1,0 +1,11 @@
+{
+  "main": "release/angular-ui-router.js",
+  "meta": {
+    "release/angular-ui-router.js": {
+      "deps": ["angular"],
+      "globals": {
+        "angular": "angular"
+      }
+    }
+  }
+}
