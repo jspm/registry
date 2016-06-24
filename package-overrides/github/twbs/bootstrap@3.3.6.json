@@ -1,0 +1,24 @@
+{
+  "main": "js/bootstrap",
+  "shim": {
+    "js/bootstrap": {
+      "deps": ["jquery"],
+      "exports": "$"
+    }
+  },
+  "dependencies": {
+    "jquery": "2"
+  },
+  "files": ["dist", "fonts", "js", "css", "less", "grunt", "LICENSE"],
+  "systemjs": {
+    "main": "dist/js/bootstrap.js",
+    "modules": {
+      "dist/js/bootstrap.js": {
+        "deps": [
+          "jquery"
+        ],
+        "exports": "$"
+      }
+    }
+  }
+}
