@@ -167,6 +167,7 @@
   "aurelia-path": "npm:aurelia-path",
   "aurelia-polyfills": "npm:aurelia-polyfills",
   "aurelia-polymer": "github:roguePanda/aurelia-polymer",
+  "aurelia-property-injection": "github:heruan/aurelia-property-injection",
   "aurelia-resize": "github:MeirionHughes/aurelia-resize",
   "aurelia-route-recognizer": "npm:aurelia-route-recognizer",
   "aurelia-router": "npm:aurelia-router",
