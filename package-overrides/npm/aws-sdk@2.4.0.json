@@ -1,8 +1,10 @@
 {
   "main": "dist/aws-sdk",
   "format": "global",
-  "exports": "AWS",
-  "map": {
-    "process": "@empty"
+  "jspmNodeConversion": "false",
+  "shim": {
+    "dist/aws-sdk": {
+      "exports": "AWS"
+    }
   }
 }
