@@ -106,6 +106,7 @@
   "army-knife": "npm:army-knife",
   "array-sugar": "github:capaj/array-sugar",
   "assert": "github:jspm/nodelibs-assert",
+  "aurelia-accordion": "github:classicalConditioning/aurelia-accordion",
   "aurelia-animator-css": "npm:aurelia-animator-css",
   "aurelia-animator-velocity": "npm:aurelia-animator-velocity",
   "aurelia-api": "npm:aurelia-api",
