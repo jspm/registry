@@ -6,5 +6,6 @@
     "dist/aws-sdk": {
       "exports": "AWS"
     }
-  }
+  },
+  "map": {}
 }
