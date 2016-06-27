@@ -1,0 +1,8 @@
+{
+  "main": "dist/aws-sdk",
+  "format": "global",
+  "exports": "AWS",
+  "map": {
+    "process": "@empty"
+  }
+}
