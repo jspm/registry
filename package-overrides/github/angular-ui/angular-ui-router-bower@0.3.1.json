@@ -1,11 +1,11 @@
 {
   "main": "release/angular-ui-router.js",
-  "meta": {
+  "shim": {
     "release/angular-ui-router.js": {
-      "deps": ["angular"],
-      "globals": {
-        "angular": "angular"
-      }
+      "deps": ["angular"]
     }
+  },
+  "dependencies": {
+    "angular": "*"
   }
 }
