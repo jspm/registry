@@ -1,0 +1,15 @@
+{
+    "main": "dist/notie",
+    "format": "cjs",
+    "registry": "jspm",
+    "dependencies": {
+        "css": "*"
+    },
+    "shim": {
+        "dist/notie": {
+            "imports": [
+                "./notie.css!"
+            ]
+        }
+    }
+}
