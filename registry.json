@@ -105,6 +105,7 @@
   "any-promise-es6": "npm:any-promise-es6",
   "army-knife": "npm:army-knife",
   "array-sugar": "github:capaj/array-sugar",
+  "arva-js": "github:bizboard/arva-js",
   "assert": "github:jspm/nodelibs-assert",
   "aurelia-accordion": "github:classicalConditioning/aurelia-accordion",
   "aurelia-animator-css": "npm:aurelia-animator-css",
