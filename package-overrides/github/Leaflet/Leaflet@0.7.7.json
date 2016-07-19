@@ -1,7 +1,7 @@
 {
   "main": "dist/leaflet-src.js",
   "shim": {
-    "dist/leaflet-src.js": {
+    "dist/leaflet-src": {
       "deps": ["./leaflet.css!"]
     }
   },
