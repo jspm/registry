@@ -1,0 +1,11 @@
+{
+  "main": "dist/leaflet.draw.js",
+  "shim": {
+    "dist/leaflet.draw": {
+      "deps": ["./leaflet.draw.css!"]
+    }
+  },
+  "dependencies": {
+    "css": "*"
+  }
+}
