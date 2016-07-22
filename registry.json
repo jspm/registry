@@ -450,6 +450,7 @@
   "p5": "github:processing/p5.js",
   "page": "npm:page",
   "pajax": "github:pajax/pajax",
+  "paper": "github:paperjs/paper.js",
   "parallax": "github:wagerfield/parallax",
   "path": "github:jspm/nodelibs-path",
   "paths-js": "npm:paths-js",
