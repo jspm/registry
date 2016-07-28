@@ -1,0 +1,14 @@
+{
+  "main": "dist/bpmn-modeler.js",
+  "shim": {
+    "dist/bpmn-modeler": {
+      "deps": [
+        "./assets/diagram-js.css!",
+        "./assets/bpmn-font/css/bpmn-embedded.css!"
+      ]
+    }
+  },
+  "dependencies": {
+    "css": "*"
+  }
+}
