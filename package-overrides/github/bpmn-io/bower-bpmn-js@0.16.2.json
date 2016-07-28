@@ -4,7 +4,7 @@
     "dist/bpmn-modeler.js": {
       "deps": [
         "./assets/diagram-js.css!",
-        "./assets/bpmn-font/css/bpmn.css!"
+        "./assets/bpmn-font/css/bpmn-embedded.css!"
       ]
     }
   }
