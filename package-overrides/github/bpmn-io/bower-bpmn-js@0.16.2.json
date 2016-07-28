@@ -9,6 +9,6 @@
     }
   },
   "dependencies": {
- +  "css": "*"
- +}
+    "css": "*"
+  }
 }
