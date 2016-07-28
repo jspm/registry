@@ -1,0 +1,11 @@
+{
+  "main": "dist/bpmn-modeler.js",
+  "meta": {
+    "dist/bpmn-modeler.js": {
+      "deps": [
+        "./assets/diagram-js.css!",
+        "./assets/bpmn-font/css/bpmn.css!"
+      ]
+    }
+  }
+}
