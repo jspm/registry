@@ -133,7 +133,7 @@
   "aurelia-fetch-client": "npm:aurelia-fetch-client",
   "aurelia-firebase": "github:pulsarblow/aurelia-firebase",
   "aurelia-flux": "github:tfrydrychewicz/aurelia-flux",
-  "aurelia-froala-editor": "github:froala/aurelia-froala-editor",
+  "aurelia-froala-editor": "npm:aurelia-froala-editor",
   "aurelia-framework": "npm:aurelia-framework",
   "aurelia-json": "npm:aurelia-json",
   "aurelia-google-analytics": "github:miguelzakharia/aurelia-google-analytics",
