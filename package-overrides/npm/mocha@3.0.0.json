@@ -1,0 +1,46 @@
+{
+  "main": "./mocha.js",
+  "jspmNodeConversion": false,
+  "meta": {
+    "mocha.js": {
+      "deps": [
+        "./mocha.css!"
+      ],
+      "exports": "Mocha",
+      "format": "global"
+    }
+  },
+  "shim": {
+    "mocha": {
+      "exports": "mocha",
+      "deps": [
+        "./mocha.css!"
+      ]
+    }
+  },
+  "dependencies": {
+    "css": "*",
+    "debug": "^2.2.0"
+  },
+  "registry": "jspm",
+  "map": {
+    "./mocha.js": {
+      "node": "./lib/mocha.js"
+    },
+    "escape-string-regexp": "@empty",
+    "growl": "@empty",
+    "./lib/reporters.js": "./lib/reporters/index.js",
+    "./lib/interfaces.js": "./lib/interfaces/index.js",
+    "glob": "@empty",
+    "to-iso-string": "@empty",
+    "mkdirp": "@empty",
+    "jade": "@empty",
+    "diff": "@empty",
+    "supports-color": "@empty",
+    "path": "@node/path",
+    "fs": "@node/fs",
+    "util": "@node/util",
+    "events": "@node/events",
+    "tty": "@node/tty"
+  }
+}
