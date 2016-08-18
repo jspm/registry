@@ -317,7 +317,7 @@
   "hyperagent": "github:weluse/hyperagent",
   "i18next-client": "npm:i18next-client",
   "i18next": "npm:i18next",
-  "Intl.js": "github:andyearnshaw/Intl.js",
+  "Intl.js": "npm:intl",
   "icheck": "github:fronteed/iCheck",
   "titip": "github:quantumui/titip",
   "immstruct": "npm:immstruct",
