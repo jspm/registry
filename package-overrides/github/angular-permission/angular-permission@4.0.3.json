@@ -1,0 +1,15 @@
+{
+  "main": "index",
+  "format": "cjs",
+  "registry": "jspm",
+  "dependencies": {
+	"angular": "^1.4.8"
+  },
+  "shim": {
+	"angular-permission": {
+	  "deps": [
+		"angular"
+	  ]
+	}
+  }
+}
