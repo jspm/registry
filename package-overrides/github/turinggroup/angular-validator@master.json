@@ -1,0 +1,11 @@
+{
+  "main": "dist/angular-validator.min",
+  "shim": {
+    "dist/angular-validator.min": {
+      "deps": ["angular"]
+    }
+  },
+  "dependencies": {
+    "angular": "*"
+  }
+}
