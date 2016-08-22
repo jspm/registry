@@ -1,0 +1,5 @@
+{
+  "registry": "npm",
+  "main": "src/index",
+  "format": "es6"
+}
