@@ -492,6 +492,8 @@
   "redux-devtools": "npm:redux-devtools",
   "react-redux": "npm:react-redux",
   "react-morph-material-icons": "github:friktor/react-material-icons",
+  "react-bootstrap":"npm:react-bootstrap",
+  "react-router-bootstrap": "npm:react-router-bootstrap",
   "reflect-metadata": "npm:reflect-metadata",
   "reflux": "npm:reflux",
   "regenerator": "npm:regenerator",
