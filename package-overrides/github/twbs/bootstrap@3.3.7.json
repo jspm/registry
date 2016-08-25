@@ -1,12 +1,20 @@
 {
-  "main": "dist/js/bootstrap.js",
-  "shim": {
-    "dist/js/bootstrap": {
-      "deps": ["jquery"],
-      "exports": "$"
-    }
-  },
-  "dependencies": {
-    "jquery": "*"
-  }
+    "main": "js/bootstrap.js",
+    "shim": {
+        "js/bootstrap": {
+            "deps": [
+                "jquery"
+            ],
+            "exports": "$"
+        }
+    },
+    "dependencies": {
+        "jquery": "jspm:jquery@*"
+    },
+    "files": [
+        "dist",
+        "fonts",
+        "js",
+        "css"
+    ]
 }
