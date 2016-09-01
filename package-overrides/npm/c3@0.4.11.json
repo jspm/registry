@@ -1,0 +1,19 @@
+{
+  "main": "c3.js",
+  "registry": "jspm",
+  "format": "global",
+  "dependencies": {
+    "d3": "~3.5.0",
+    "css": "^0.1.0"
+  },
+  "shim": {
+    "c3": {
+      "exports": "c3",
+      "format": "global",
+      "deps": [
+        "d3",
+        "./c3.css!"
+      ]
+    }
+  }
+}
