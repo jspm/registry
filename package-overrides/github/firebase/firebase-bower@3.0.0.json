@@ -1,0 +1,10 @@
+{
+  "main": "firebase.js",
+  "registry": "jspm",
+  "shim": {
+    "firebase": {
+      "format": "global",
+      "exports": "firebase"
+    }
+  }
+}
