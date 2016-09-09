@@ -147,6 +147,7 @@
   "aurelia-http-client": "npm:aurelia-http-client",
   "aurelia-http-utils": "npm:aurelia-http-utils",
   "aurelia-i18n": "npm:aurelia-i18n",
+  "aurelia-interactjs": "npm:aurelia-interactjs",
   "aurelia-kendoui-bridge": "npm:aurelia-kendoui-bridge",
   "aurelia-keyboard-plugin": "github:novatrox/aurelia-keyboard-plugin",
   "aurelia-keycloak": "github:waynepennington/aurelia-keycloak",
