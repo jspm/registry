@@ -188,6 +188,7 @@
   "aurelia-router": "npm:aurelia-router",
   "aurelia-router-loader": "npm:aurelia-router-loader",
   "aurelia-security": "npm:aurelia-security",
+  "aurelia-sortablejs": "npm:aurelia-sortablejs",
   "aurelia-stats": "github:sormy/aurelia-stats",
   "aurelia-storage": "npm:aurelia-storage",
   "aurelia-swagger-client":"github:paulvanbladel/aurelia-swagger-client",
