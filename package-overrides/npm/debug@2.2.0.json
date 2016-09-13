@@ -7,6 +7,9 @@
     "./browser.js": {
       "node": "./node.js"
     },
+    "./node.js": {
+      "browser": "./browser.js"
+    },
     "fs": "@node/fs",
     "net": "@node/net",
     "tty": "@node/tty",
