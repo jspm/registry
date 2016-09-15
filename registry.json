@@ -67,6 +67,7 @@
   "angular-route": "github:angular/bower-angular-route",
   "angular-sanitize": "github:angular/bower-angular-sanitize",
   "angular-schema-form": "github:json-schema-form/angular-schema-form",
+  "angular2-schema-form": "github:json-schema-form/angular2-schema-form",
   "angular-schema-form-bootstrap": "github:json-schema-form/angular-schema-form-bootstrap",
   "angular-schema-form-material": "github:json-schema-form/angular-schema-form-material",
   "angular-schema-form-colorpicker": "github:Textalk/angular-schema-form-colorpicker",
