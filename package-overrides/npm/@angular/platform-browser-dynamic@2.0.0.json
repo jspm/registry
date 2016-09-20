@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "src/*.js": {
+      "deps": [
+        "reflect-metadata",
+        "zone.js"
+      ]
+    }
+  },
+  "map": {
+    "@angular/platform-browser-dynamic": ".",
+    "./testing": "./bundles/platform-browser-dynamic-testing.umd.js"
+  }
+}
