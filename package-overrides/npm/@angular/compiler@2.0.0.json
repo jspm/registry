@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "src/*.js": {
+      "deps": [
+        "reflect-metadata",
+        "zone.js"
+      ]
+    }
+  },
+  "map": {
+    "@angular/compiler": ".",
+    "./testing": "./bundles/compiler-testing.umd.js"
+  }
+}
