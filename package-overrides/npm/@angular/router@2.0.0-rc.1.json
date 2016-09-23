@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "src/*.js": {
+      "deps": ["reflect-metadata", "zone.js"]
+    }
+  }
+}
