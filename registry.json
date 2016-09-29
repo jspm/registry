@@ -122,6 +122,8 @@
   "aurelia-bootstrapper": "npm:aurelia-bootstrapper",
   "aurelia-breeze": "npm:aurelia-breeze",
   "aurelia-bs-modal": "github:pwkad/aurelia-bs-modal",
+  "aurelia-charts-c3": "npm:aurelia-charts-c3",
+  "aurelia-charts": "npm:aurelia-charts",
   "aurelia-chartist": "npm:aurelia-chartist", 
   "aurelia-cmdrjs": "github:cmdrjs/aurelia-cmdrjs",
   "aurelia-components": "npm:aurelia-components",
