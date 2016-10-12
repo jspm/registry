@@ -1,6 +1,10 @@
 {
   "meta": {
+    "index.js": {
+      "format": "esm"
+    },
     "src/*.js": {
+      "format": "esm",
       "deps": [
         "reflect-metadata",
         "zone.js"
@@ -8,7 +12,10 @@
     }
   },
   "map": {
-    "@angular/core": ".",
+    "./bundles/core.umd.js": {
+      "production": "./index.js",
+      "~production": "./bundles/core.umd.js"
+    },
     "./testing": "./bundles/core-testing.umd.js"
   }
 }

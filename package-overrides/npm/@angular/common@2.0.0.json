@@ -1,6 +1,10 @@
 {
   "meta": {
+    "index.js": {
+      "format": "esm"
+    },
     "src/*.js": {
+      "format": "esm",
       "deps": [
         "reflect-metadata",
         "zone.js"
@@ -8,7 +12,10 @@
     }
   },
   "map": {
-    "@angular/common": ".",
+    "./bundles/common.umd.js": {
+      "production": "./index.js",
+      "~production": "./bundles/common.umd.js"
+    },
     "./testing": "./bundles/common-testing.umd.js"
   }
 }

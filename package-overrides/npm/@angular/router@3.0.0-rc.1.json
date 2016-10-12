@@ -1,6 +1,10 @@
 {
   "meta": {
+    "index.js": {
+      "format": "esm"
+    },
     "src/*.js": {
+      "format": "esm",
       "deps": [
         "reflect-metadata",
         "zone.js"
@@ -8,7 +12,10 @@
     }
   },
   "map": {
-    "@angular/router": ".",
+    "./bundles/router.umd.js": {
+      "production": "./index.js",
+      "~production": "./bundles/router.umd.js"
+    },
     "./testing": "./bundles/router-testing.umd.js"
   }
 }
