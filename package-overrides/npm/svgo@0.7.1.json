@@ -40,7 +40,10 @@
         "../../plugins/removeDimensions",
         "../../plugins/removeAttrs",
         "../../plugins/addClassesToSVGElement",
-        "../../plugins/removeStyleElement"
+        "../../plugins/removeStyleElement",
+        "../../plugins/removeXMLNS",
+        "../../plugins/removeElementsByAttr",
+        "../../plugins/addAttributesToSVGElement"
       ]
     }
   }
