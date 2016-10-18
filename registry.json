@@ -196,6 +196,7 @@
   "aurelia-storage": "npm:aurelia-storage",
   "aurelia-swagger-client":"github:paulvanbladel/aurelia-swagger-client",
   "aurelia-syntax-highlighter": "npm:aurelia-syntax-highlighter",
+  "aurelia-table": "github:tochoromero/aurelia-table",
   "aurelia-tabs": "github:vheissu/aurelia-tabs",
   "aurelia-task-queue": "npm:aurelia-task-queue",
   "aurelia-templating": "npm:aurelia-templating",
