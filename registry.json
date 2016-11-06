@@ -118,6 +118,7 @@
   "aurelia-auth": "npm:aurelia-auth",
   "aurelia-authentication": "npm:aurelia-authentication",
   "aurelia-binding": "npm:aurelia-binding",
+  "aurelia-bootstrap": "github:tochoromero/aurelia-bootstrap",
   "aurelia-bootstrap-switch": "github:drdwilcox/aurelia-bootstrap-switch",
   "aurelia-bootstrapper": "npm:aurelia-bootstrapper",
   "aurelia-breeze": "npm:aurelia-breeze",
