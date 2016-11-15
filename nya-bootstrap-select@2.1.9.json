@@ -1,0 +1,13 @@
+{
+  "main": "dist/js/nya-bs-select.js",
+  "dependencies": {
+    "css": "jspm:css@*"
+  },
+  "shim": {
+    "dist/js/nya-bs-select": {
+      "deps": [
+        "../css/nya-bs-select.css!"
+      ]
+    }
+  }
+}
