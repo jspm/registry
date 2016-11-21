@@ -300,6 +300,7 @@
   "famous": "github:Famous/famous",
   "famous-angular": "github:Famous/famous-angular",
   "famous-polyfills": "github:Famous/polyfills",
+  "fancybox": "github:fancyapps/fancyBox",
   "fastclick": "npm:fastclick",
   "fermtest": "github:Fermium-co/FermTest",
   "fetch": "github:github/fetch",

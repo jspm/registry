@@ -1,0 +1,15 @@
+{
+    "main": "source/jquery.fancybox.js",
+    "registry": "jspm",
+    "format": "global",
+    "shim": {
+        "fancybox": {
+            "deps": [
+                "jquery"
+            ]
+        }
+    },
+    "dependencies": {
+        "jquery": "*"
+    }
+}
