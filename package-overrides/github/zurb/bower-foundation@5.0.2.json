@@ -7,7 +7,7 @@
     }
   },
   "dependencies": {
-    "jquery": "github:components/jquery"
+    "jquery": "npm:jquery"
   },
   "ignore": [
     "js/foundation.min.js", 

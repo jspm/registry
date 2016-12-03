@@ -1,5 +1,0 @@
-{
-  "main": "jquery",
-  "files": ["jquery.js"],
-  "format": "global"
-}

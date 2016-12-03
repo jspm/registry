@@ -8,6 +8,6 @@
     }
   },
   "dependencies": {
-    "jQuery": "github:components/jquery"
+    "jQuery": "npm:jquery"
   }
 }

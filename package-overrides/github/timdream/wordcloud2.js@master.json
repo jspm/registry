@@ -3,6 +3,6 @@
     "lib": "src"
   },
   "shim": {
-    "wordcloud2.js": "github:components/jquery"
+    "wordcloud2.js": "npm:jquery"
   }
 }

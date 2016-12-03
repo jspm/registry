@@ -5,8 +5,8 @@
         "lib": "source/stable"
     },
     "dependencies": {
-        "jquery": "github:components/jquery",
-        "jquery-ui": "github:components/jqueryui"
+        "jquery": "npm:jquery",
+        "jquery-ui": "npm:jquery-ui"
     },
     "shim": {
         "jquery-ui-layout": {

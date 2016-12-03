@@ -2,7 +2,7 @@
   "format": "global",
   "main": "dist/js/materialize",
   "dependencies": {
-    "jquery": "github:components/jquery",
+    "jquery": "npm:jquery",
     "css": "github:systemjs/plugin-css"
   },
   "shim": {

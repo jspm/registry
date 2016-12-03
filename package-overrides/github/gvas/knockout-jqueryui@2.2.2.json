@@ -2,7 +2,7 @@
     "main": false,
     "dependencies": {
         "jquery": "npm:jquery",
-        "jqueryui": "github:components/jqueryui",
+        "jqueryui": "npm:jquery-ui",
         "knockout": "github:knockout/knockout"
     },
     "map": {
