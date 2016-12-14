@@ -1,0 +1,13 @@
+{
+  "registry": "jspm",
+  "dependencies": {
+    "css": "*"
+  },
+  "shim": {
+    "dist/flatpickr": {
+      "deps": [
+        "./flatpickr.css!"
+      ]
+    }
+  }
+}
