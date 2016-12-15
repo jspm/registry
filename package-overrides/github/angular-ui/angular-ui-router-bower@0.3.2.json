@@ -1,0 +1,19 @@
+{  
+  "packages": {
+    "github:angular-ui/angular-ui-router-bower@0.3.2": {
+      "map": {
+        "angular": "github:angular/bower-angular@1.6.0"
+      },
+      "meta": {
+        "*": {
+          "globals": {
+            "angular": "angular"
+          },
+          "deps": [
+            "angular"
+          ]
+        }
+      }
+    }
+  }
+}
