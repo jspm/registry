@@ -1,0 +1,13 @@
+{
+  "main": "src/jquery.dotdotdot",
+  "dependencies": {
+    "jquery": "*"
+  },
+  "shim": {
+    "jquery.dotdotdot": {
+      "deps": [
+        "jquery"
+      ]
+    }
+  }
+}
