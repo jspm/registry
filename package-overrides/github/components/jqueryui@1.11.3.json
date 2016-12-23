@@ -1,0 +1,7 @@
+{
+    "main": "jquery-ui.js",
+    "registry": "jspm",
+    "dependencies": {
+        "jquery": "*"
+    }
+}
