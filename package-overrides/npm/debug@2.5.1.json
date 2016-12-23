@@ -1,0 +1,12 @@
+
+{
+  "main": "src/browser.js",
+  "jspmNodeConversion": false,
+  "format": "cjs",
+  "map": {
+    "fs": "@empty",
+    "net": "@empty",
+    "tty": "@empty",
+    "util": "@empty"
+  }
+}
