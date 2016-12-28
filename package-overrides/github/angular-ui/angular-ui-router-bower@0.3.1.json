@@ -1,7 +1,7 @@
 {
   "main": "release/angular-ui-router.js",
   "shim": {
-    "release/angular-ui-router.js": {
+    "release/angular-ui-router": {
       "deps": ["angular"]
     }
   },
