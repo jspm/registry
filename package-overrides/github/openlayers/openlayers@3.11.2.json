@@ -1,0 +1,12 @@
+{
+  "main": "ol",
+  "dependencies": {
+    "css": "jspm:css@*"
+  },
+  "shim": {
+    "ol": {
+      "deps": ["./ol.css!"]
+    }
+  }
+}
+
