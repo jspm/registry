@@ -349,7 +349,7 @@
   "jiff": "github:cujojs/jiff",
   "joi": "github:capaj/joi-browser",
   "jquery": "npm:jquery",
-  "jquery-ui": "github:components/jqueryui",
+  "jquery-ui": "npm:jquery-ui",
   "jquery-ui-layout": "github:allpro/layout",
   "jquery-autosize": "github:jackmoore/autosize",
   "jquery-custom-selection": "github:michalstocki/jquery-custom-selection",

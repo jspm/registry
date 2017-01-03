@@ -10,7 +10,7 @@
   "registry": "jspm",
   "format": "global",
   "dependencies": {
-    "jquery": "github:components/jquery"
+    "jquery": "npm:jquery"
   },
   "shim": {
     "jquery.mCustomScrollbar": {

@@ -3,7 +3,7 @@
   "format": "global",
   "files": ["dist/*","css/*","js/*","less/*","sass/*"],
   "dependencies": {
-    "jquery": "github:components/jquery"
+    "jquery": "npm:jquery"
   },
   "shim":{
     "js/bootstrap-slider": ["jquery"],

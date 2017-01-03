@@ -4,7 +4,7 @@
   "format": "global",
   "files":["icheck.js","icheck.min.js","skins/**/*"],
   "dependencies": {
-    "jquery": "github:components/jquery"
+    "jquery": "npm:jquery"
   },
   "shim":{
     "icheck": ["jquery"],

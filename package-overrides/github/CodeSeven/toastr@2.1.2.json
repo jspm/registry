@@ -2,7 +2,7 @@
   "main": "toastr",
   "format": "global",
   "dependencies": {
-    "jquery": "github:components/jquery",
+    "jquery": "npm:jquery",
     "css": "github:systemjs/plugin-css"
   },
   "files": ["toastr.js", "build"],

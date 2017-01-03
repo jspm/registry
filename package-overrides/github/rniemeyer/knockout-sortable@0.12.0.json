@@ -5,8 +5,8 @@
     ],
     "main": "build/knockout-sortable.js",
     "dependencies": {
-        "jquery": "github:components/jquery@^2.1.4",
-        "jquery-ui": "github:components/jqueryui@^1.11.4",
+        "jquery": "npm:jquery@^2.1.4",
+        "jquery-ui": "npm:jquery-ui@^1.11.4",
         "knockout": "github:knockout/knockout@^3.3.0"
     },
     "map": {
