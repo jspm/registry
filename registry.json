@@ -172,6 +172,7 @@
   "aurelia-modal": "github:vheissu/aurelia-modal",
   "aurelia-mousetrap": "npm:aurelia-mousetrap",
   "aurelia-notification": "npm:aurelia-notification",
+  "aurelia-autocomplete": "npm:aurelia-autocomplete",
   "aurelia-notify": "github:MarcScheib/aurelia-notify",
   "aurelia-oauth": "npm:aurelia-oauth",
   "aurelia-orm": "npm:aurelia-orm",
