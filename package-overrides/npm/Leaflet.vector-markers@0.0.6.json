@@ -1,4 +1,6 @@
 {
-  "dependencies": {},
+  "dependencies": {
+    "leaflet": "^1.0.0"
+  },
   "jspmNodeConversion": false
 }
