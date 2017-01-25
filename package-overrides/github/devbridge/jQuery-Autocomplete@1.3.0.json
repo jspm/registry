@@ -1,0 +1,13 @@
+{
+  "files": [
+    "dist/",
+    "typings/jquery-autocomplete/",
+    "readme.md"
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "shim": {
+    "jquery.autocomplete": ["jquery"]
+  }
+}
