@@ -1,7 +1,7 @@
 {
-    "main": "dist/js/bootstrap.js",
+    "main": "js/bootstrap.js",
     "shim": {
-        "dist/js/bootstrap": {
+        "js/bootstrap": {
             "deps": [
                 "jquery"
             ],
