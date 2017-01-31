@@ -11,7 +11,7 @@
   "jst": "github:podio/plugin-jst",
   "jsx": "github:floatdrop/plugin-jsx",
   "ko-tpl": "github:One-com/systemjs-plugin-ko-tpl",
-  "less": "github:systemjs/plugin-less",
+  "less": "npm:systemjs-less-plugin",
   "md": "github:guybedford/system-md",
   "node-binary": "npm:systemjs-plugin-node-binary",
   "plugin-babel": "npm:systemjs-plugin-babel",
