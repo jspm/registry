@@ -1,3 +1,4 @@
 {
-  "jspmNodeConversion": false
+  "jspmNodeConversion": false,
+  "files": ["dist/"]
 }
