@@ -25,6 +25,7 @@
   "text": "github:systemjs/plugin-text",
   "ts": "github:frankwallis/plugin-typescript",
   "tsv": "github:wpf500/plugin-tsv",
+  "textures": "npm:textures",
 
   "ace": "github:ajaxorg/ace-builds",
   "adam": "npm:adam",
