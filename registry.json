@@ -583,6 +583,7 @@
   "tape": "npm:tape",
   "teo": "npm:teo",
   "textAngular": "github:fraywing/textAngular",
+  "textures": "npm:textures",
   "three.js": "github:mrdoob/three.js",
   "three": "github:mrdoob/three.js",
   "threestrap": "github:unconed/threestrap",
