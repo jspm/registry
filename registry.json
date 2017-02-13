@@ -25,7 +25,6 @@
   "text": "github:systemjs/plugin-text",
   "ts": "github:frankwallis/plugin-typescript",
   "tsv": "github:wpf500/plugin-tsv",
-  "textures": "npm:textures",
 
   "ace": "github:ajaxorg/ace-builds",
   "adam": "npm:adam",
@@ -584,6 +583,7 @@
   "tape": "npm:tape",
   "teo": "npm:teo",
   "textAngular": "github:fraywing/textAngular",
+  "textures": "npm:textures",
   "three.js": "github:mrdoob/three.js",
   "three": "github:mrdoob/three.js",
   "threestrap": "github:unconed/threestrap",
