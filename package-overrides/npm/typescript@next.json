@@ -1,0 +1,14 @@
+{
+  "browser": {},
+  "map": {
+    "buffer": "@empty",
+    "child_process": "@empty",
+    "fs": "@empty",
+    "path": "@empty",
+    "process": "@empty",
+    "readline": "@empty"
+  },
+  "dependencies": {
+    "source-map-support": "*"
+  }
+}
