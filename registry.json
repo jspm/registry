@@ -362,6 +362,7 @@
   "jquery": "npm:jquery",
   "jquery-ui": "npm:jquery-ui",
   "jquery-ui-layout": "github:allpro/layout",
+  "jquery-autocomplete": "github:devbridge/jQuery-Autocomplete",
   "jquery-autosize": "github:jackmoore/autosize",
   "jquery-custom-selection": "github:michalstocki/jquery-custom-selection",
   "jquery-fancytree": "github:mar10/fancytree",
