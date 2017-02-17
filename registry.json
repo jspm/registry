@@ -343,6 +343,7 @@
   "highcharts": "github:highcharts/highcharts",
   "highlightjs": "github:components/highlightjs",
   "hoek": "github:capaj/hoek-browser",
+  "homefront": "npm:homefront",
   "http": "github:jspm/nodelibs-http",
   "https": "github:jspm/nodelibs-https",
   "humane-js": "github:wavded/humane-js",
