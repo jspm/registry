@@ -177,6 +177,7 @@
   "aurelia-oauth": "npm:aurelia-oauth",
   "aurelia-orm": "npm:aurelia-orm",
   "aurelia-form": "npm:aurelia-form",
+  "aurelia-form-validation": "npm:aurelia-form-validation",
   "aurelia-view-manager": "npm:aurelia-view-manager",
   "aurelia-pager": "npm:aurelia-pager",
   "aurelia-datatable": "npm:aurelia-datatable",
