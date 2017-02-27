@@ -580,7 +580,7 @@
   "svg.js":  "github:wout/svg.js",
   "systemjs-config-builder": "npm:systemjs-config-builder",
   "systemjs-hmr": "npm:systemjs-hmr",
-  "systemjs-hot-reloader": "github:capaj/systemjs-hot-reloader",
+  "systemjs-hot-reloader": "npm:systemjs-hot-reloader",
   "systemjs-hot-reloader-store": "github:peteruithoven/systemjs-hot-reloader-store",
   "systemjs-reloader": "github:npbenjohnson/systemjs-reloader",
   "systemjs-tools": "npm:systemjs-tools",
