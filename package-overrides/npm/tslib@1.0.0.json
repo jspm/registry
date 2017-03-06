@@ -1,0 +1,4 @@
+{
+  "main": "tslib.es6.js",
+  "format": "esm"
+}
