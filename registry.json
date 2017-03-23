@@ -111,6 +111,7 @@
   "array-sugar": "github:capaj/array-sugar",
   "arva-js": "github:bizboard/arva-js",
   "assert": "github:jspm/nodelibs-assert",
+  "async": "npm:async",
   "aurelia-accordion": "github:classicalConditioning/aurelia-accordion",
   "aurelia-animator-css": "npm:aurelia-animator-css",
   "aurelia-animator-velocity": "npm:aurelia-animator-velocity",
