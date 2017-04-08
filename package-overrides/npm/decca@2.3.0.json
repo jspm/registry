@@ -1,0 +1,8 @@
+{
+  "format": "cjs",
+  "meta": {
+    "lib/index.js": {
+      "esModule": true
+    }
+  }
+}
