@@ -564,6 +564,7 @@
   "simple-date": "npm:simple-datejs",
   "skeleton": "github:dhg/Skeleton",
   "skrollr": "github:Prinzhorn/skrollr",
+  "slick": "github:kenwheeler/slick",
   "snap.svg": "github:adobe-webplatform/Snap.svg",
   "sockjs-client": "github:sockjs/sockjs-client",
   "socket.io-client": "github:socketio/socket.io-client",

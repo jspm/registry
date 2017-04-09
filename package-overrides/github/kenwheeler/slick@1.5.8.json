@@ -1,0 +1,18 @@
+{
+  "main": "slick",
+  "files": null,
+  "directories": {
+    "lib": "slick"
+  },
+  "shim": {
+    "slick": {
+      "deps": [
+        "jquery"
+      ],
+      "exports": "$"
+    }
+  },
+  "dependencies": {
+    "jquery": "github:components/jquery"
+  }
+}
