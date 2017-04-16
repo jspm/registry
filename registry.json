@@ -107,6 +107,7 @@
   "any-http-reqwest": "npm:any-http-reqwest",
   "any-promise-angular": "npm:any-promise-angular",
   "any-promise-es6": "npm:any-promise-es6",
+  "api-check": "npm:api-check",
   "army-knife": "npm:army-knife",
   "array-sugar": "github:capaj/array-sugar",
   "arva-js": "github:bizboard/arva-js",
