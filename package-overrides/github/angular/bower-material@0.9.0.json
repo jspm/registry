@@ -1,0 +1,12 @@
+{
+	"main": "index",
+	"registry": "jspm",
+  	"dependencies": {
+  		"css": "github:systemjs/plugin-css@^0.1.9"
+  	},
+	"shim": {
+    "angular-material": {
+      "deps": [ "./angular-material.css!" ]
+    }
+  }
+}
