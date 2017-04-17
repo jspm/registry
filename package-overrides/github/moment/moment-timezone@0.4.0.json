@@ -1,0 +1,12 @@
+{ 
+  "main": "index", 
+  "registry": "jspm",
+  "dependencies": {
+    "moment": "*"
+  },
+  "shim": {
+    "moment-timezone": {
+      "deps": ["moment"]
+    }
+  }
+}
