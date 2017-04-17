@@ -5,5 +5,12 @@
     "velocity.min.js",
     "velocity.ui.js",
     "velocity.ui.min.js"
-  ]
+  ],
+  "shim": {
+    "velocity.ui": {
+      "deps": [
+        "github:julianshapiro/velocity"
+      ]
+    }
+  }
 }
