@@ -1,0 +1,12 @@
+{
+  "main": "src/index",
+  "dependencies": {
+    "angular": "angular/bower-angular@^1.4.0",
+    "stripe-as-promised": "bendrucker/stripe-as-promised@^1.0.0"
+  },
+  "shim": {
+    "src/index": {
+      "deps": ["angular", "stripe-as-promised"]
+    }
+  }
+}

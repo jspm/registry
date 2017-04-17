@@ -1,0 +1,13 @@
+{
+  "main": "src/index",
+  "dependencies": {
+    "angular": "angular/bower-angular@^1.4.0",
+    "ap": "substack/node-ap@^1.0.0",
+    "creditcards": "bendrucker/creditcards@^2.0.0"
+  },
+  "shim": {
+    "src/index": {
+      "deps": ["angular", "ap", "creditcards"]
+    }
+  }
+}
