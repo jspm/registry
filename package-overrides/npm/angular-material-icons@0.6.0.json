@@ -1,0 +1,15 @@
+{
+  "format": "global",
+  "jspmNodeConversion": false,
+  "main": "angular-material-icons",
+  "dependencies": {
+    "angular": "npm:angular@^1.5.0"
+  },
+  "shim": {
+    "angular-material-icons": {
+      "deps": [
+        "angular"
+      ]
+    }
+  }
+}
