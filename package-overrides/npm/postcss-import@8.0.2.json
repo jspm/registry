@@ -1,0 +1,10 @@
+"map": {
+  "object-assign": "npm:object-assign@4.0.1",
+  "postcss": "npm:postcss@5.0.19",
+  "postcss-value-parser": "npm:postcss-value-parser@3.3.0",
+  "read-cache": "npm:read-cache@1.0.0",
+  "resolve": "npm:resolve@1.1.7",
+  "./lib/load-content": {
+    "browser": "@empty"
+  }
+}
