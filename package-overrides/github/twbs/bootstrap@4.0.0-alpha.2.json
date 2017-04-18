@@ -1,11 +1,11 @@
 {
-  "main": "js/bootstrap",
+  "main": "dist/js/bootstrap",
   "files": null,
   "ignore": [
     "dist/js/npm"
   ],
   "directories": {
-    "lib": "dist"
+    "lib": "."
   },
   "shim": {
     "js/bootstrap": {
