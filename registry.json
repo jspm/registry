@@ -40,7 +40,7 @@
   "angular-aria": "github:angular/bower-angular-aria",
   "angular-bindonce": "github:Pasvaz/angular-bindonce",
   "angular-bind-notifier": "github:kasperlewau/angular-bind-notifier",
-  "angular-bootstrap": "github:angular-ui/bootstrap-bower",
+  "angular-bootstrap": "npm:angular-ui-bootstrap",
   "angular-breadcrumb": "github:ncuillery/angular-breadcrumb",
   "angular-cookies": "github:angular/bower-angular-cookies",
   "angular-decorate": "github:innit/angular-decorate",
