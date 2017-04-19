@@ -1,3 +1,4 @@
 {
-  "jspmNodeConversion": false
+  "jspmNodeConversion": false,
+  "format": "umd"
 }
