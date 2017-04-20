@@ -1,0 +1,8 @@
+{
+  "meta": {
+    "*.js": {
+      "loader": "plugin-babel",
+      "format": "cjs"
+    }
+  }
+}
