@@ -1,0 +1,15 @@
+{
+  "main": "dist/v-accordion",
+  "registry": "jspm",
+  "format": "global",
+  "shim": {
+    "dist/v-accordion": {
+      "deps": [
+        "./v-accordion.css!"
+      ]
+    }
+  },
+  "dependencies": {
+    "css": "*"
+    }
+}

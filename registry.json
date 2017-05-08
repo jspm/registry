@@ -624,6 +624,7 @@
   "uri": "github:medialize/URI.js",
   "url": "github:jspm/nodelibs-url",
   "util": "github:jspm/nodelibs-util",
+  "v-accordion": "npm:v-accordion",
   "vm": "github:jspm/nodelibs-vm",
   "vdom-virtualize": "npm:vdom-virtualize",
   "velocity": "github:julianshapiro/velocity",
