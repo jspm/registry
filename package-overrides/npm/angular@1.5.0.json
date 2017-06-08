@@ -1,0 +1,10 @@
+{
+  "format": "global",
+  "jspmNodeConversion": false,
+  "main": "angular",
+  "shim": {
+    "angular": {
+      "exports": "angular"
+    }
+  }
+}
