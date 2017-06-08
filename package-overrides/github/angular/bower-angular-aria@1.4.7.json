@@ -1,0 +1,12 @@
+{
+  "main": "angular-aria",
+  "shim": {
+    "angular-aria": {
+      "deps": ["angular"]
+    }
+  },
+  "registry": "jspm",
+  "dependencies": {
+    "angular": "^1.4.7"
+  }
+}
