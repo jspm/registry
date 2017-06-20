@@ -1,0 +1,13 @@
+{
+  "main": "lib/picker",
+  "dependencies": {
+    "jquery": ">= 1.7"
+  },
+  "format": "global",
+  "shim": {
+    "deps": [
+      "jquery"
+    ],
+    "exports": "$"
+  }
+}
