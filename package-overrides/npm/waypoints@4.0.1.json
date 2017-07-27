@@ -1,3 +1,5 @@
 {
-  "main": "lib/noframework.waypoints.min.js"
+  "format": "global",
+  "main": "lib/noframework.waypoints.min.js",
+  "exports": "Waypoint"
 }
