@@ -507,6 +507,7 @@
   "pixi-tiledmap": "npm:pixi-tiledmap",
   "pixi.js": "npm:pixi.js",
   "poly": "github:cujojs/poly",
+  "popper.js": "npm:popper.js",
   "postal": "npm:postal",
   "pouchdb": "github:pouchdb/pouchdb",
   "pretender": "npm:pretender",

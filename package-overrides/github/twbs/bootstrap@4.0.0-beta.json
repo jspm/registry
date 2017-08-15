@@ -1,0 +1,24 @@
+{
+  "main": "js/bootstrap",
+  "files": null,
+  "ignore": [
+    "dist/js/npm"
+  ],
+  "directories": {
+    "lib": "dist"
+  },
+  "shim": {
+    "js/bootstrap": {
+      "deps": [
+        "jquery",
+        "popper.js"
+      ],
+      "exports": "$"
+    }
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "jquery": "*",
+    "popper.js": "npm:popper.js@^1.11.1"
+  }
+}
