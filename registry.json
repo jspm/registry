@@ -608,6 +608,7 @@
   "traceur": "github:jmcriffey/bower-traceur",
   "traceur-runtime": "github:jmcriffey/bower-traceur-runtime",
   "traverse": "npm:traverse",
+  "tslib": "npm:tslib",
   "typescript": "npm:typescript",
   "tty": "github:jspm/nodelibs-tty",
   "twitter": "npm:twitter",
