@@ -621,6 +621,7 @@
   "uikit": "github:uikit/uikit",
   "underscore": "npm:underscore",
   "unexpected": "npm:unexpected",
+  "unpartial": "npm:unpartial",
   "uri-templates": "npm:uri-templates",
   "uri": "github:medialize/URI.js",
   "url": "github:jspm/nodelibs-url",
