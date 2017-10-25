@@ -636,6 +636,7 @@
   "vue": "npm:vue",
   "webcomponents": "npm:webcomponents",
   "webfont": "github:components/webfontloader",
+  "webgazer": "github:brownhci/WebGazer",
   "when": "github:cujojs/when",
   "wire": "github:cujojs/wire",
   "wordcloud2": "github:timdream/wordcloud2.js",
