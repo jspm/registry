@@ -197,6 +197,7 @@
   "aurelia-plugins-google-recaptcha": "npm:aurelia-plugins-google-recaptcha",
   "aurelia-plugins-switch": "npm:aurelia-plugins-switch",
   "aurelia-plugins-tabs": "npm:aurelia-plugins-tabs",
+  "aurelia-plus": "npm:aurelia-plus",
   "aurelia-polyfills": "npm:aurelia-polyfills",
   "aurelia-polymer": "github:roguePanda/aurelia-polymer",
   "aurelia-progress": "npm:aurelia-progress",
