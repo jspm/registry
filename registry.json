@@ -264,6 +264,7 @@
   "child_process": "github:jspm/nodelibs-child_process",
   "chosen": "github:harvesthq/chosen",
   "chronoman": "npm:chronoman",
+  "clipboard": "npm:clipboard",
   "cloudinary_js": "github:cloudinary/cloudinary_js",
   "cluster": "github:jspm/nodelibs-cluster",
   "cmdrjs": "github:cmdrjs/cmdrjs",
