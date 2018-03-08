@@ -1,0 +1,8 @@
+{
+  "main": "index",
+  "registry": "npm",
+  "format": "cjs",
+  "directories": {
+    "lib": "./"
+  }
+}
