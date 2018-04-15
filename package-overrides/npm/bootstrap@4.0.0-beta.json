@@ -1,0 +1,20 @@
+{
+  "main": "dist/js/bootstrap",
+  "jspmNodeConversion": false,
+  "directories": {
+    "lib": "."
+  },
+  "shim": {
+    "dist/js/bootstrap": {
+      "deps": [
+        "jquery",
+        "popper.js"
+      ],
+      "exports": "$"
+    }
+  },
+  "dependencies": {
+    "jquery": "*",
+    "popper.js": "npm:popper.js@^1.12.5"
+  }
+}
