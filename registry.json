@@ -263,6 +263,7 @@
   "buffer": "github:jspm/nodelibs-buffer",
   "bytebuffer" : "github:dcodeIO/bytebuffer.js",
   "can": "npm:can",
+  "cb-fetch": "npm:cb-fetch",
   "chai": "npm:chai",
   "chart": "github:nnnick/Chart.js",
   "chartist": "npm:chartist",
