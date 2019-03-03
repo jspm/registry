@@ -1,7 +1,7 @@
 jspm Registry
 ---
 
-or view the raw registry file at https://github.com/jspm/registry/blob/master/registry.json.
+The raw registry file can be viewed at https://github.com/jspm/registry/blob/master/registry.json.
 
 Pull requests welcome for `registry.json` and the `package_overrides` folder.
 
