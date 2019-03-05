@@ -1,0 +1,4 @@
+{
+  "main": "build/d3.min.js",
+  "format": "es6"
+}
