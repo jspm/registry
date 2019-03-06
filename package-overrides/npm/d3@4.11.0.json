@@ -1,7 +1,7 @@
 {
   "main": "d3",
   "browser": "./build/d3.js",
-  "files": ["d3.js"],
+  "files": ["./build/d3.js"],
   "shim": {
     "d3": {
       "exports": "d3"
