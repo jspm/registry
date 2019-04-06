@@ -1,0 +1,17 @@
+{
+  "format": "cjs",
+  "main": "videogular",
+  "shim": {
+    "videogular": {
+      "deps": [
+        "angular",
+        "angular-sanitize"
+      ]
+    }
+  },
+  "registry": "jspm",
+  "dependencies": {
+    "angular": "^1.3.0",
+    "angular-sanitize": "^1.3.0"
+  }
+}
