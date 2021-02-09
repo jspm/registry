@@ -654,5 +654,6 @@
   "zlib": "github:jspm/nodelibs-zlib",
   "zone.js": "npm:zone.js",
   "zygo": "github:zygo-io/zygo",
-  "zygo-blog": "github:zygo-io/zygo-blog"
+  "zygo-blog": "github:zygo-io/zygo-blog",
+  "datum-jspm-github":"github:DatumPlatformInteractive/jspm-github"
 }
