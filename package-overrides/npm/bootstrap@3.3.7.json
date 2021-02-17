@@ -1,0 +1,15 @@
+{
+  "main": "js/bootstrap",
+  "directories": {
+    "lib": "dist"
+  },
+  "shim": {
+    "js/bootstrap": {
+      "deps": [
+        "jquery",
+      ],
+      "exports": "$"
+    }
+  },
+  "files": [ "dist" ]
+}
