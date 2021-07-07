@@ -251,7 +251,7 @@
   "big.js": "npm:big.js",
   "bignumber.js": "npm:bignumber.js",
   "bluebird": "npm:bluebird",
-  "bootstrap": "github:twbs/bootstrap",
+  "bootstrap": "npm:bootstrap",
   "bootstrap-fileinput": "github:kartik-v/bootstrap-fileinput",
   "bootstrap-less": "github:distros/bootstrap-less",
   "bootstrap-material": "github:fezVrasta/bootstrap-material-design",
