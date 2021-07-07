@@ -1,6 +1,10 @@
 {
   "meta": {
+    "index.js": {
+      "format": "esm"
+    },
     "src/*.js": {
+      "format": "esm",
       "deps": [
         "reflect-metadata",
         "zone.js"
@@ -8,7 +12,10 @@
     }
   },
   "map": {
-    "@angular/platform-browser-dynamic": ".",
+    "./bundles/platform-browser-dynamic.umd.js": {
+      "production": "./index.js",
+      "~production": "./bundles/platform-browser-dynamic.umd.js"
+    },
     "./testing": "./bundles/platform-browser-dynamic-testing.umd.js"
   }
 }
