@@ -1,0 +1,10 @@
+{
+  "registry": "jspm",
+  "shim": {
+    "moment-msdate": {
+      "deps": [
+        "moment"
+      ]
+    }
+  }
+}
