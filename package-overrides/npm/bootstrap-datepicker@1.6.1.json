@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "jquery-ui": "*"
+  },
+  "shim": {
+    "dist/locales/*": {
+      "deps": [
+        "jquery-ui",
+        "bootstrap-datepicker"
+      ]
+    }
+  }
+}
